@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "I am a PhD student in Computer Science at the Ohio State"
   location         : "Columbus, OH"
-  employer         :
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=9utxd9gAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "sobhan-moosavi-1483ab55"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -179,9 +179,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
