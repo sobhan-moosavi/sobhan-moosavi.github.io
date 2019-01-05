@@ -211,6 +211,15 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comments: true      
+  # _datasets
+  - scope:
+      path: ""
+      type: datasets
+    values:
+      layout: single
+      author_profile: true
+      share: true
       comments: true
       
 
