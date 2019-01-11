@@ -8,4 +8,4 @@ venue: 'Proceedings of the 3rd ACM SIGSPATIAL Workshop on Smart Cities and Urban
 paperurl: 'https://arxiv.org/pdf/1705.05219.pdf'
 ---
 A short paper on a new geo-spatial annotation framework to provide ground-truth labels for trajectory segmentation. 
-[Download paper here](https://dl.acm.org/citation.cfm?id=3152184)
+[Download paper here](/files/2017_annotation.pdf)
