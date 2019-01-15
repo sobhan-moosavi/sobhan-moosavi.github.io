@@ -10,10 +10,6 @@ TBD
 
 ### Coverage
 
-### Traffic Events
-
-### Weather Events
-
 ### Collection Process
 
 ### Format and Download
