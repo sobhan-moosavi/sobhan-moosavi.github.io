@@ -12,6 +12,8 @@ TBD
 
 ### Collection Process
 
+### Augmentation Process
+
 ### Format and Download
 
 ### Acknowledgments
