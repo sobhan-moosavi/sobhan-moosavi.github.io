@@ -8,5 +8,7 @@ venue: '25th ACM SIGSPATIAL International Conference on Advances in Geographic I
 paperurl: '/files/2017_characterizing.pdf'
 ---
 This paper is about a new framework to learn about characteristics of driving context based on behavior of drivers. 
+
 [Download paper here](/files/2017_characterizing.pdf)
+
 [Code](https://github.com/sobhan-moosavi)
