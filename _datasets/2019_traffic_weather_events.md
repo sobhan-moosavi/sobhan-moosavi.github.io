@@ -26,7 +26,7 @@ Weather entity is a spatiotemporal entity, where such entity is associated with 
 
 | Type | Description |
 |------|-------------|
-| Severe-Cold | The case of having extremely low temperature, with *temperature < -23.7* degree of celsius. |
+| Severe-Cold | The case of having extremely low temperature, with ```temperature < -23.7``` degree of celsius. |
 | Fog | The case where there is low visibility condition as result of *fog* or *haze*. |
 | Hail | The case of having solid precipitation including *ice pallets* and *hail*. |
 | Rain | The case of having rain, including any type of the rain, ranging from *light* to *heavy*. |
