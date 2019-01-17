@@ -48,7 +48,7 @@ The data is provided in the format of CSV files. The format of such files is des
 | Attribute | Description | Nullable |
 |-----------|-------------|:--------:|
 | ID | This the identified of a record | No |
-| Type(T/W) | Indicates whether the entity is a traffic (T) or weather (W) entity. | No |
+| Type (T/W) | Indicates whether the entity is a traffic (T) or weather (W) entity. | No |
 
 __Version 1:__ In this version, we provide data which is collected from August 2016 to August 2018 for the Contiguous United States. In this set, we have ?? million traffic and ?? million weather entity records. Download from [here](#). 
 
