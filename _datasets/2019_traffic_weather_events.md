@@ -10,16 +10,17 @@ This dataset is a large-scale, unique source of data for transportation and traf
 
 ## Traffic Events
 Traffic event is a spatiotemporal entity, which is happened in a location during a specific perdiod of time. Such entity can be of one of the following types: 
+
 | Type | Description |
 |------|-------------|
-| Accident ||
-| Broken-Vehicle ||
-| Congestion ||
-| Construction ||
-| Event ||
-| Lane-Blocked ||
-| Flow-Incident ||
-| Other ||
+| Accident | A traffic accidnet which can involve one or more vehicles. |
+| Broken-Vehicle | Refers to the situation when there is one (or more) disabled vehicle(s) in a road. |
+| Congestion | Refers to the situation when the speed of traffic is lower than the expected speed. |
+| Construction | Refers to an on-going construction or re-paring project in a road. |
+| Event | Refers to the situations such as *sport event*, *concert*, and *demonstration*. |
+| Lane-Blocked | Refers to the cases when we have blocked lane(s) due to traffic or weather condition. |
+| Flow-Incident | Refers to all other types of traffic entities. Examples are *broken traffic light* and *animal in the road*. |
+
 
 ## Weather Events
 
@@ -29,5 +30,7 @@ Traffic event is a spatiotemporal entity, which is happened in a location during
 The data coverage is country-wide. It currently contains data for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. Following diagrams show the number of data records (i.e., events) based on traffic or weather for different states. 
 
 ## Format and Download
+
+## Applications of Dataset
 
 ## Acknowledgments
