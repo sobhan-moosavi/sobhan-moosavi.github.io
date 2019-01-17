@@ -46,7 +46,7 @@ This dataset is being distributed only for __Research__ purposes. By clicking on
 The data is provided in the format of CSV files. The format of such files is described in below table. 
 
 | Attribute | Description | Nullable |
-|-----------|-------------|:--------:|
+|:---------:|-------------|:--------:|
 | ID | This the identified of a record | No |
 | Type (T/W) | Indicates whether the entity is a traffic (T) or weather (W) entity. | No |
 
