@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Sobhan Moosavi"
 title_separator          : "-"
 name                     : &name "Sobhan Moosavi"
 description              : &description "personal description"
 url                      : https://sobhan-moosavi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sobhan-moosavi/sobhan-moosavi.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "/files/Sobhan_photo.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sobhan Moosavi"
-  avatar           : "profile.png"
+  avatar           : "/files/Sobhan_photo.jpg"
   bio              : "I am a PhD student in Computer Science at the Ohio State"
   location         : "Columbus, OH"
   employer         : 
