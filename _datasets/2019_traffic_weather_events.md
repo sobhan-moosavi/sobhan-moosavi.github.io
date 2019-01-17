@@ -40,7 +40,7 @@ Weather entity is a spatiotemporal entity, where such entity is associated with 
 The data coverage is country-wide. It currently contains data for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. Following diagrams show the number of data records (i.e., events) based on traffic or weather for different states. 
 
 ## Format
-The data is provided in the format of CSV files. The format of such files is described in below table. 
+The data is provided in the format of CSV files. Following table describes the data attributes: 
 
 | Attribute | Description | Nullable |
 |:---------:|-------------|:--------:|
