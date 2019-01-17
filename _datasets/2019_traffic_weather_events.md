@@ -41,6 +41,8 @@ The data coverage is country-wide. It currently contains data for the [Contiguou
 
 ## Format and Download
 
+## Use Policy and Legal Disclaimer
+
 ## Applications of Dataset
 
 ## Acknowledgments
