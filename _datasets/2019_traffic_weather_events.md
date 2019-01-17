@@ -32,7 +32,7 @@ Weather entity is a spatiotemporal entity, where such entity is associated with 
 | Rain | The case of having rain, including any type of the rain, ranging from *light* to *heavy*. |
 | Snow | The case of having snow, including any type, ranging from *light* to *heavy*. |
 | Storm | The extremely windy condition, where the wind speed is at least *60 kmh*. |
-| Other Precipitation | any other type of of precipitation which cannot be assigned to previously described entity types. |
+| Other Precipitation | Any other type of of precipitation which cannot be assigned to previously described entity types. |
 
 ## Collection Process
 
@@ -48,7 +48,7 @@ The data is provided in the format of CSV files. Following table describes the d
 | Type (T/W) | Indicates whether the entity is a traffic (T) or weather (W) entity. | No |
 
 ## Use Policy and Legal Disclaimer
-This dataset is being distributed only for __Research__ purposes. By clicking on download button(s) below, you may accept that you will use this data only for non-profit, research applications. 
+This dataset is being distributed only for __Research__ purposes. By clicking on download button(s) below, you may accept that you will use this data only for non-profit, research, or scientific applications. 
 
 ## Download
 __Download Version 1 (Aug 2018):__ In this version, we provide data which is collected from August 2016 to August 2018 for the Contiguous United States. In this set, we have ?? million traffic and ?? million weather entity records. Download from [here](#). 
