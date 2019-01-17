@@ -1,15 +1,15 @@
 ---
-title: "Large-Scale Traffic and Weather Event Dataset"
+title: "Large-Scale Traffic and Weather Entity Dataset"
 collection: datastes
 permalink: /datasets/2019_traffic_weather_events
-excerpt: This dataset contains country-wide traffic or weather events, which are continuously being collected from August 2016. Examples of traffic events are accident, congestion, and construction. Examples of weather events are rain, snow, and storm. 
+excerpt: This dataset contains country-wide traffic or weather entities, which are continuously being collected from August 2016. Examples of a traffic entity are *accident*, *congestion*, and *construction*. Examples of a weather entity are *rain*, *snow*, and *storm*. 
 date: 2019-01-01
 ---
 ## Description 
-This dataset is a large-scale, unique source of data for transportation and traffic research, which contains traffic and weather events data. In terms of traffic, we have several types of traffic events including accidents, congestions, constructions, etc. In terms of weather events, we have information on rain, snow, storm, cold weather, etc. This dataset has been collected from August 2016, and is continuously being updated. 
+This dataset is a large-scale, unique source of data for transportation and traffic research, which contains traffic and weather entities. In terms of traffic, we have several types of traffic entity including accident, congestion, construction, etc. In terms of weather entities, we have several types including rain, snow, storm, cold weather, etc. This dataset has been collected from August 2016, and is continuously being updated. 
 
-## Traffic Events
-Traffic event is a spatiotemporal entity, which is happened in a location during a specific perdiod of time. Such entity can be of one of the following types: 
+## Traffic Entity
+Traffic entity is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of traffic entity in our dataset: 
 
 | Type | Description |
 |------|-------------|
@@ -21,8 +21,18 @@ Traffic event is a spatiotemporal entity, which is happened in a location during
 | Lane-Blocked | Refers to the cases when we have blocked lane(s) due to traffic or weather condition. |
 | Flow-Incident | Refers to all other types of traffic entities. Examples are *broken traffic light* and *animal in the road*. |
 
+## Weather Entity
+Weather entity is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of weather entity in our dataset: 
 
-## Weather Events
+| Type | Description |
+|------|-------------|
+| Severe-Cold | The case of having extremely low temperature, with *temperature < -23.7* degree of celsius. |
+| Fog | The case where there is low visibility condition as result of *fog* or *haze*. |
+| Hail | The case of having solid precipitation including *ice pallets* and *hail*. |
+| Rain | The case of having rain, including any type of the rain, ranging from *light* to *heavy*. |
+| Snow | The case of having snow, including any type, ranging from *light* to *heavy*. |
+| Storm | The extremely windy condition, where the wind speed is at least *60 kmh*. |
+| Other Precipitation | any other type of of precipitation which cannot be assigned to previously described entity types. |
 
 ## Collection Process
 
