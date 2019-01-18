@@ -61,7 +61,7 @@ The data is provided in the format of CSV files. Following table describes the d
 | State | Shows the State in address field. | Yes |
 | ZipCode | Shows the zipcode in address field. | Yes |
 
-## Use Policy and Legal Disclaimer
+## Usage Policy and Legal Disclaimer
 This dataset is being distributed only for __Research__ purposes. By clicking on download button(s) below, you may accept that you will use this data only for non-profit, research, or scientific applications. 
 
 ## Download
