@@ -53,9 +53,9 @@ The data is provided in the format of CSV files. Following table describes the d
 | LocationLng | Shows the longitude of GPS coordinate. | Yes |
 | Distance (mi) | Shows the radius of impact by a traffic entity. | Yes |
 | AirportCode | Shows the airport station that a weather entity is reported from. | No |
-| Number | Shows the street number of address field. | Yes |
-| Street | Shows the street name of address field.  | Yes |
-| Side | Shows the relative size of a street (R/L). | Yes |
+| Number | Shows the street number in address field. | Yes |
+| Street | Shows the street name in address field.  | Yes |
+| Side | Shows the relative sizd of a street (R/L) in address field. | Yes |
 | City | Shows the city in address field. | Yes |
 | County | Shows the county in address field. | Yes |
 | State | Shows the State in address field. | Yes |
