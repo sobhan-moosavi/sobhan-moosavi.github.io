@@ -22,7 +22,7 @@ Traffic entity is a spatiotemporal entity, where such entity is associated with 
 | Flow-Incident | Refers to all other types of traffic entities. Examples are *broken traffic light* and *animal in the road*. |
 
 ## Weather Entity
-Weather entity is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of weather entity in our dataset. We also provided severity of rain and snow in our dataset. To do so, we used observation of precipitation amount for each case for a long period of time, performed k-means clustering, and for each case identified three cluster in terms of *light*, *moderate*, and *heavy*. 
+Weather entity is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of weather entity in our dataset. We also provided severity of rain and snow in our dataset. To do so, we used observation of precipitation amount for each case for a long period of time, performed k-means clustering, and for each case identified three clusters in terms of *light*, *moderate*, and *heavy*. More details can be find [here](#){:target="_blank"}.
 
 | Type | Description |
 |------|-------------|
