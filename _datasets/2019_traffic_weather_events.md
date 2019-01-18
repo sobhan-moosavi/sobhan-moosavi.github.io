@@ -46,6 +46,20 @@ The data is provided in the format of CSV files. Following table describes the d
 |:---------:|-------------|:--------:|
 | ID | This is the identifier of a record | No |
 | Type (T/W) | Indicates whether the entity is a traffic (T) or weather (W) entity. | No |
+| RefinedType | Shows the type of the entity, examples are *rain*, *snow*, *accident*, etc. | Yes |
+| StartTime (UTC) | Shows the start time of the entity in UTC time zone. | No |
+| EndTime (UTC) | Shows the end time of the entity in UTC time zone. | No |
+| LocationLat | Shows the latitude of GPS coordinate. | Yes |
+| LocationLng | Shows the longitude of GPS coordinate. | Yes |
+| Distance (mi) | Shows the radius of impact by a traffic entity. | Yes |
+| AirportCode | Shows the airport station that a weather entity is reported from. | No |
+| Number | Shows the street number of address field. | Yes |
+| Street | Shows the street name of address field.  | Yes |
+| Side | Shows the relative size of a street (R/L). | Yes |
+| City | Shows the city in address field. | Yes |
+| County | Shows the county in address field. | Yes |
+| State | Shows the State in address field. | Yes |
+| ZipCode | Shows the zipcode in address field. | Yes |
 
 ## Use Policy and Legal Disclaimer
 This dataset is being distributed only for __Research__ purposes. By clicking on download button(s) below, you may accept that you will use this data only for non-profit, research, or scientific applications. 
