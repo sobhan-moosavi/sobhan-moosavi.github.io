@@ -2,14 +2,14 @@
 title: "Large-Scale Traffic and Weather Events Dataset"
 collection: datastes
 permalink: /datasets/2019_traffic_weather_events
-excerpt: This dataset contains country-wide traffic or weather entities, which are continuously being collected from August 2016. Examples of a traffic entity are *accident*, *congestion*, and *construction*. Examples of a weather entity are *rain*, *snow*, and *storm*. 
+excerpt: This dataset contains country-wide traffic or weather events, which are continuously being collected from August 2016. Examples of a traffic event are *accident*, *congestion*, and *construction*. Examples of a weather event are *rain*, *snow*, and *storm*. 
 date: 2019-01-01
 ---
 ## Description 
-This dataset is a large-scale, unique source of data for transportation and traffic research, which contains traffic and weather entities. In terms of traffic, we have several types of traffic entity including accident, congestion, construction, etc. In terms of weather entities, we have several types including rain, snow, storm, cold weather, etc. This dataset has been collected from August 2016, and is continuously being updated. For more detailed information about this dataset, please refer to [this paper](#){:target="_blank"}. 
+This dataset is a large-scale, unique source of data for transportation and traffic research, which contains traffic and weather events. In terms of traffic, we have several types of traffic event including accident, congestion, construction, etc. In terms of weather events, we have several types including rain, snow, storm, cold weather, etc. This dataset has been collected from August 2016, and is continuously being updated. For more detailed information about this dataset, please read [this paper](#){:target="_blank"}. 
 
-## Traffic Entity
-Traffic entity is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of traffic entity in our dataset. Note that for several of entity types such as congestion, construction, and event we also included severity of the entity in the *type* attribute. For construction and event, severity is determined based on duration. For congestion, severity is determined by speed of the congestion. 
+## Traffic Events
+Traffic event is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of traffic event in our dataset. Note that for several of event types such as congestion and construction, we also included severity of the event in the *type* attribute. <!---For construction and event, severity is determined based on duration. For congestion, severity is determined by speed of the congestion. -->
 
 | Type | Description | Severity |
 |------|-------------|----------|
@@ -21,8 +21,8 @@ Traffic entity is a spatiotemporal entity, where such entity is associated with 
 | Lane-Blocked | Refers to the cases when we have blocked lane(s) due to traffic or weather condition. | |
 | Flow-Incident | Refers to all other types of traffic entities. Examples are *broken traffic light* and *animal in the road*. | |
 
-## Weather Entity
-Weather entity is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of weather entity in our dataset. We also provided severity of rain and snow in our dataset. To do so, we used observation of precipitation amount for each case for a long period of time, performed k-means clustering, and for each case identified three clusters in terms of *light*, *moderate*, and *heavy*. More details can be find [here](#){:target="_blank"}.
+## Weather Events
+Weather event is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of weather events in our dataset. We also provided severity of rain and snow in our dataset. To do so, we used observation of precipitation amount for each case for a long period of time, performed k-means clustering, and for each case identified three clusters in terms of *light*, *moderate*, and *heavy*. More details can be find [here](#){:target="_blank"}.
 
 | Type | Description | Severity |
 |------|-------------|----------|
@@ -45,14 +45,14 @@ The data is provided in the format of CSV files. Following table describes the d
 | Attribute | Description | Nullable |
 |:---------:|-------------|:--------:|
 | ID | This is the identifier of a record | No |
-| Type (T/W) | Indicates whether the entity is a traffic (T) or weather (W) entity. | No |
-| RefinedType | Shows the type of the entity, examples are *rain*, *snow*, *accident*, etc. | No |
-| StartTime (UTC) | Shows the start time of the entity in UTC time zone. | No |
-| EndTime (UTC) | Shows the end time of the entity in UTC time zone. | No |
+| Type (T/W) | Indicates whether the entity is a traffic (T) or weather (W) event. | No |
+| RefinedType | Shows the type of the event, examples are *rain*, *snow*, *accident*, etc. | No |
+| StartTime (UTC) | Shows the start time of the event in UTC time zone. | No |
+| EndTime (UTC) | Shows the end time of the event in UTC time zone. | No |
 | LocationLat | Shows the latitude of GPS coordinate. | Yes |
 | LocationLng | Shows the longitude of GPS coordinate. | Yes |
-| Distance (mi) | Shows the radius of impact by a traffic entity. | Yes |
-| AirportCode | Shows the airport station that a weather entity is reported from. | Yes |
+| Distance (mi) | Shows the radius of impact by a traffic event. | Yes |
+| AirportCode | Shows the airport station that a weather event is reported from. | Yes |
 | Number | Shows the street number in address field. | Yes |
 | Street | Shows the street name in address field.  | Yes |
 | Side | Shows the relative side of a street (R/L) in address field. | Yes |
@@ -65,9 +65,9 @@ The data is provided in the format of CSV files. Following table describes the d
 This dataset is being distributed only for __Research__ purposes. By clicking on download button(s) below, you may accept that you will use this data only for non-profit, research, or scientific applications. 
 
 ## Download
-__Download Version 1 (Aug 2018):__ In this version, we provide data which is collected from August 2016 to August 2018 for the Contiguous United States. In this set, we have ?? million traffic and ?? million weather entity records. Download from [here](#). 
+__Download Version 1 (Aug 2018):__ In this version, we provide data which is collected from August 2016 to August 2018 for the Contiguous United States. In this set, we have ?? million traffic and ?? million weather event records. Download from [here](#). 
 
-__Download Version 2 (Dec 2018):__ In this version, we provide data which is collected from August 2016 to December 2018 for the Contiguous United States. In this set, we have ?? million traffic and ?? million weather entity records. Download from [here](#). 
+__Download Version 2 (Dec 2018):__ In this version, we provide data which is collected from August 2016 to December 2018 for the Contiguous United States. In this set, we have ?? million traffic and ?? million weather event records. Download from [here](#). 
 
 ## Applications of Dataset
 
