@@ -11,28 +11,28 @@ This dataset is a large-scale, unique source of data for transportation and traf
 ## Traffic Entity
 Traffic entity is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of traffic entity in our dataset. Note that for several of entity types such as congestion, construction, and event we also included severity of the entity in the *type* attribute. For construction and event, severity is determined based on duration. For congestion, severity is determined by speed of the congestion. 
 
-| Type | Description |
-|------|-------------|
-| Accident | A traffic accident which can involve one or more vehicles. |
-| Broken-Vehicle | Refers to the situation when there is one (or more) disabled vehicle(s) in a road. |
-| Congestion | Refers to the situation when the speed of traffic is lower than the expected speed. |
-| Construction | Refers to an on-going construction or re-paring project in a road. |
-| Event | Refers to the situations such as *sport event*, *concert*, and *demonstration*. |
-| Lane-Blocked | Refers to the cases when we have blocked lane(s) due to traffic or weather condition. |
-| Flow-Incident | Refers to all other types of traffic entities. Examples are *broken traffic light* and *animal in the road*. |
+| Type | Description | Severity |
+|------|-------------|----------|
+| Accident | A traffic accident which can involve one or more vehicles. | |
+| Broken-Vehicle | Refers to the situation when there is one (or more) disabled vehicle(s) in a road. | |
+| Congestion | Refers to the situation when the speed of traffic is lower than the expected speed. | |
+| Construction | Refers to an on-going construction or re-paring project in a road. | |
+| Event | Refers to the situations such as *sport event*, *concert*, and *demonstration*. | |
+| Lane-Blocked | Refers to the cases when we have blocked lane(s) due to traffic or weather condition. | |
+| Flow-Incident | Refers to all other types of traffic entities. Examples are *broken traffic light* and *animal in the road*. | |
 
 ## Weather Entity
 Weather entity is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of weather entity in our dataset. We also provided severity of rain and snow in our dataset. To do so, we used observation of precipitation amount for each case for a long period of time, performed k-means clustering, and for each case identified three clusters in terms of *light*, *moderate*, and *heavy*. More details can be find [here](#){:target="_blank"}.
 
-| Type | Description |
-|------|-------------|
-| Severe-Cold | The case of having extremely low temperature, with temperature below *-23.7* degrees of Celsius. |
-| Fog | The case where there is low visibility condition as result of *fog* or *haze*. |
-| Hail | The case of having solid precipitation including *ice pallets* and *hail*. |
-| Rain | The case of having rain, including any type of the rain, ranging from *light* to *heavy*. |
-| Snow | The case of having snow, including any type, ranging from *light* to *heavy*. |
-| Storm | The extremely windy condition, where the wind speed is at least *60 kmh*. |
-| Other Precipitation | Any other type of of precipitation which cannot be assigned to previously described entity types. |
+| Type | Description | Severity |
+|------|-------------|----------|
+| Severe-Cold | The case of having extremely low temperature, with temperature below *-23.7* degrees of Celsius. | |
+| Fog | The case where there is low visibility condition as result of *fog* or *haze*. | |
+| Hail | The case of having solid precipitation including *ice pallets* and *hail*. | |
+| Rain | The case of having rain, including any type of the rain, ranging from *light* to *heavy*. | |
+| Snow | The case of having snow, including any type, ranging from *light* to *heavy*. | |
+| Storm | The extremely windy condition, where the wind speed is at least *60 kmh*. | |
+| Other Precipitation | Any other type of of precipitation which cannot be assigned to previously described entity types. | |
 
 ## Collection Process
 
