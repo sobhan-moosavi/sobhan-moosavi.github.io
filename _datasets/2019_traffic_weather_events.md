@@ -47,7 +47,7 @@ The data is provided in the format of CSV files. Following table describes the d
 | ID | This is the identifier of a record | No |
 | Type (T/W) | Indicates whether the entity is a traffic (T) or weather (W) event. | No |
 | RefinedType | Shows the type of the event, examples are *rain*, *snow*, *accident*, etc. | No |
-| Severity | Shows the severity of an event, wherever applicable. | No |
+| Severity | Shows the severity of an event, wherever applicable. | Yes |
 | StartTime (UTC) | Shows the start time of the event in UTC time zone. | No |
 | EndTime (UTC) | Shows the end time of the event in UTC time zone. | No |
 | LocationLat | Shows the latitude of GPS coordinate. | Yes |
