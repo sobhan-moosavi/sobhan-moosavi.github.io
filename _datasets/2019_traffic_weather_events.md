@@ -13,12 +13,12 @@ Traffic event is a spatiotemporal entity, where such entity is associated with l
 
 | Type | Description | Severity |
 |------|-------------|----------|
-| Accident | A traffic accident which can involve one or more vehicles. | |
-| Broken-Vehicle | Refers to the situation when there is one (or more) disabled vehicle(s) in a road. | |
-| Congestion | Refers to the situation when the speed of traffic is lower than the expected speed. | |
-| Construction | Refers to an on-going construction or re-paring project in a road. | |
-| Event | Refers to the situations such as *sport event*, *concert*, and *demonstration*. | |
-| Lane-Blocked | Refers to the cases when we have blocked lane(s) due to traffic or weather condition. | |
+| Accident | A traffic accident which can involve one or more vehicles. | N/A |
+| Broken-Vehicle | Refers to the situation when there is one (or more) disabled vehicle(s) in a road. | N/A |
+| Congestion | Refers to the situation when the speed of traffic is lower than the expected speed. | Slow, Moderate, Fast |
+| Construction | Refers to an on-going construction or re-paring project in a road. | Short, Long |
+| Event | Refers to the situations such as *sport event*, *concert*, and *demonstration*. | Short, Long|
+| Lane-Blocked | Refers to the cases when we have blocked lane(s) due to traffic or weather condition. | N/A |
 | Flow-Incident | Refers to all other types of traffic entities. Examples are *broken traffic light* and *animal in the road*. | |
 
 ## Weather Events
@@ -26,13 +26,13 @@ Weather event is a spatiotemporal entity, where such entity is associated with l
 
 | Type | Description | Severity |
 |------|-------------|----------|
-| Severe-Cold | The case of having extremely low temperature, with temperature below *-23.7* degrees of Celsius. | |
-| Fog | The case where there is low visibility condition as result of *fog* or *haze*. | |
-| Hail | The case of having solid precipitation including *ice pallets* and *hail*. | |
-| Rain | The case of having rain, including any type of the rain, ranging from *light* to *heavy*. | |
-| Snow | The case of having snow, including any type, ranging from *light* to *heavy*. | |
-| Storm | The extremely windy condition, where the wind speed is at least *60 kmh*. | |
-| Other Precipitation | Any other type of of precipitation which cannot be assigned to previously described entity types. | |
+| Severe-Cold | The case of having extremely low temperature, with temperature below *-23.7* degrees of Celsius. | Severe |
+| Fog | The case where there is low visibility condition as result of *fog* or *haze*. |  |
+| Hail | The case of having solid precipitation including *ice pallets* and *hail*. | N/A |
+| Rain | The case of having rain. | Light, Moderate, and Heavy |
+| Snow | The case of having snow. | Light, Moderate, and Heavy |
+| Storm | The extremely windy condition, where the wind speed is at least *60 kmh*. | Severe |
+| Other Precipitation | Any other type of of precipitation which cannot be assigned to previously described entity types. |  |
 
 ## Collection Process
 
