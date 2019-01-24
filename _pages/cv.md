@@ -23,20 +23,13 @@ Work experience
   * Manager: [Nicholas Chamandy](https://www.linkedin.com/in/nicholas-chamandy-31672b30/){:target="_blank"} 
   * Mentor: [Amir Bar](https://www.linkedin.com/in/amir-bar-bracha-6080545/){:target="_blank"} 
 
-* Summer 2017: Data Science Internship
+* Summer 2015, 2016, and 2017: Data Science Internship
   * [Nationwide Insurance](https://www.nationwide.com/){:target="_blank"}, Enternprise Data Office (EDO)
-  * Project: Telematics Data Analysis and Driving Risk Prediction
+  * Project 1: Telematics Data Analysis and Profiling
+  * Project 2: Analysis of Driving Behavior by Trajectory Segmentation and Studying Driving Patterns
+  * Project 3: Telematics Data Analysis and Driving Risk Prediction
   * Manager: [Robert B. Craig](https://www.linkedin.com/in/bruce-craig-b7504b1/){:target="_blank"} 
     
-* Summer 2016: Data Science Internship
-  * [Nationwide Insurance](https://www.nationwide.com/){:target="_blank"}, Enternprise Data Office (EDO)
-  * Project: Analysis of Driving Behavior by Trajectory Segmentation and Studying Driving Patterns
-  * Manager: [Robert B. Craig](https://www.linkedin.com/in/bruce-craig-b7504b1/){:target="_blank"} 
-  
-* Summer 2015: Data Analysis Internship
-  * [Nationwide Insurance](https://www.nationwide.com/){:target="_blank"}
-  * Project: Telematics Data Analysis and Profiling
-  * Manager: [Robert B. Craig](https://www.linkedin.com/in/bruce-craig-b7504b1/){:target="_blank"} 
   
 Skills
 ======
@@ -53,7 +46,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!--Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -63,7 +56,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>   -->
   
 Service and leadership
 ======
