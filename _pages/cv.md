@@ -19,14 +19,24 @@ Work experience
 ======
 * Summer 2018: Research Science Internship
   * [Lyft Inc.](https://www.lyft.com){:target="_blank"} 
-  * Project: Estimating Travel Time based on Deep Learning
+  * Project: Using Deep Learning to Estimate Travel Time
   * Manager: [Nicholas Chamandy](https://www.linkedin.com/in/nicholas-chamandy-31672b30/){:target="_blank"} 
   * Mentor: [Amir Bar](https://www.linkedin.com/in/amir-bar-bracha-6080545/){:target="_blank"} 
 
-* Summer 2018: Data Science Internship
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Data Science Internship
+  * [Nationwide Insurance](https://www.nationwide.com/){:target="_blank"}, Enternprise Data Office (EDO)
+  * Project: Telematics Data Analysis and Driving Risk Prediction
+  * Manager: [Robert B. Craig](https://www.linkedin.com/in/bruce-craig-b7504b1/){:target="_blank"} 
+    
+* Summer 2016: Data Science Internship
+  * [Nationwide Insurance](https://www.nationwide.com/){:target="_blank"}, Enternprise Data Office (EDO)
+  * Project: Analysis of Driving Behavior by Trajectory Segmentation and Studying Driving Patterns
+  * Manager: [Robert B. Craig](https://www.linkedin.com/in/bruce-craig-b7504b1/){:target="_blank"} 
+  
+* Summer 2015: Data Analysis Internship
+  * [Nationwide Insurance](https://www.nationwide.com/){:target="_blank"}
+  * Project: Telematics Data Analysis and Profiling
+  * Manager: [Robert B. Craig](https://www.linkedin.com/in/bruce-craig-b7504b1/){:target="_blank"} 
   
 Skills
 ======
