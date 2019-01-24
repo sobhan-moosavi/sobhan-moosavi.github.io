@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, [Shahid Beheshti University](http://en.sbu.ac.ir/SitePages/Home.aspx){:target="_blank"}, Tehran, Iran 2009
+* M.S. in Computer Software Engineering, [University of Tehran](https://ut.ac.ir/en){:target="_blank"}, Tehran, Iran 2012
+* Ph.D in Computer Science, [Ohio State University](https://osu.edu){:target="_blank"}, 2018 (expected)
 
 Work experience
 ======
