@@ -13,16 +13,17 @@ Education
 ======
 * B.S. in Computer Science, [Shahid Beheshti University](http://en.sbu.ac.ir/SitePages/Home.aspx){:target="_blank"}, Tehran, Iran 2009
 * M.S. in Computer Software Engineering, [University of Tehran](https://ut.ac.ir/en){:target="_blank"}, Tehran, Iran 2012
-* Ph.D in Computer Science, [Ohio State University](https://osu.edu){:target="_blank"}, 2018 (expected)
+* Ph.D in Computer Science, [Ohio State University](https://osu.edu){:target="_blank"}, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Research Science Internship
+  * [Lyft Inc.](https://www.lyft.com){:target="_blank"} 
+  * Project: Estimating Travel Time based on Deep Learning
+  * Manager: [Nicholas Chamandy](https://www.linkedin.com/in/nicholas-chamandy-31672b30/){:target="_blank"} 
+  * Mentor: [Amir Bar](https://www.linkedin.com/in/amir-bar-bracha-6080545/){:target="_blank"} 
 
-* Fall 2015: Research Assistant
+* Summer 2018: Data Science Internship
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
