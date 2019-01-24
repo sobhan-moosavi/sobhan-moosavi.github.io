@@ -18,13 +18,13 @@ Education
 Work experience
 ======
 * Summer 2018: Research Science Internship
-  * [Lyft Inc.](https://www.lyft.com){:target="_blank"} 
+  * [Lyft Inc.](https://www.lyft.com){:target="_blank"}, San Francisco, CA
   * Project: Using Deep Learning to Estimate Travel Time
   * Manager: [Nicholas Chamandy](https://www.linkedin.com/in/nicholas-chamandy-31672b30/){:target="_blank"} 
   * Mentor: [Amir Bar](https://www.linkedin.com/in/amir-bar-bracha-6080545/){:target="_blank"} 
 
 * Summer 2015, 2016, and 2017: Data Science Internship
-  * [Nationwide Insurance](https://www.nationwide.com/){:target="_blank"}, Enternprise Data Office (EDO)
+  * [Nationwide Insurance](https://www.nationwide.com/){:target="_blank"}, Enternprise Data Office (EDO), Columbus, OH
   * Project 1: Telematics Data Analysis and Profiling
   * Project 2: Analysis of Driving Behavior by Trajectory Segmentation and Studying Driving Patterns
   * Project 3: Telematics Data Analysis and Driving Risk Prediction
