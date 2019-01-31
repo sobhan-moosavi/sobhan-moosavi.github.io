@@ -15,9 +15,9 @@ I am a fifth year PhD student in Computer Science at the Ohio State University (
 Please check my [Google Scholar page](https://scholar.google.com/citations?user=9utxd9gAAAAJ&hl=en) to see the latest publications. 
 
 ## Latest Datasets
-Please check [here](https://sobhan-moosavi.github.io/datasets/) to see the latest relseased datasets. 
+Please check [here](https://smoosavi.org/datasets/) to see the latest relseased datasets. 
 
 ## Curriculum Vitae (CV)
-Please visit [here](https://sobhan-moosavi.github.io/cv/) for my up-to-dated CV. 
+Please visit [here](https://smoosavi.org/cv/) for my up-to-dated CV. 
 
 
