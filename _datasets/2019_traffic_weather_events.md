@@ -35,6 +35,7 @@ Weather event is a spatiotemporal entity, where such entity is associated with l
 | Other Precipitation | Any other type of of precipitation which cannot be assigned to previously described entity types. |  |
 
 ## Collection Process
+Traffic data is collected from [MapQuest](https://www.mapquest.com/) using an API, for a period of two years. Weather data is collected from [Weather Underground](https://www.wunderground.com/) using their API for the same period of time (i.e., from August 2016 to August 2018). Plesse visit [our paper](#) to learn more about the data collection and processing steps. 
 
 ## Coverage
 The data coverage is country-wide. It currently contains data for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. Following diagrams show the number of data records (i.e., events) based on traffic or weather for different states. 
