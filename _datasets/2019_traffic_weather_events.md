@@ -37,14 +37,16 @@ Weather event is a spatiotemporal entity, where such entity is associated with l
 ## Collection Process
 Traffic data is collected from [MapQuest](https://www.mapquest.com/) using an API, for a period of two years. Weather data is collected from [Weather Underground](https://www.wunderground.com/) using their API for the same period of time (i.e., from August 2016 to August 2018). Plesse visit [our paper](#) to learn more about the data collection and processing steps. 
 
-<div>
-    <a href="https://plot.ly/~sobhan.mehr84/8/?share_key=NJTsyax29WSViOz1W4weSa" target="_blank" title="traffic_frequency" style="display: block; text-align: center;"><img src="https://plot.ly/~sobhan.mehr84/8.png?share_key=NJTsyax29WSViOz1W4weSa" alt="traffic_frequency" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="sobhan.mehr84:8" sharekey-plotly="NJTsyax29WSViOz1W4weSa" src="https://plot.ly/embed.js" async></script>
-</div>
-
 
 ## Coverage
 The data coverage is country-wide. It currently contains data for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. Following diagrams show the number of data records (i.e., events) based on traffic or weather for different states. 
+
+
+<div>
+    <a href="https://plot.ly/~sobhan.mehr84/8/?share_key=NJTsyax29WSViOz1W4weSa" target="_blank" title="traffic_frequency" style="display: block; text-align: center;"><img src="https://plot.ly/~sobhan.mehr84/8.png?share_key=NJTsyax29WSViOz1W4weSa" alt="traffic_frequency" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="sobhan.mehr84:8" sharekey-plotly="NJTsyax29WSViOz1W4weSa" src="https://plot.ly/embed.js" async></script>
+</div>
+
 
 ## Format
 The data is provided in the format of CSV files. Following table describes the data attributes: 
