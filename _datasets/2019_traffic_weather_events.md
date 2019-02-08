@@ -39,7 +39,7 @@ Traffic data is collected from [MapQuest](https://www.mapquest.com/) using an AP
 
 
 ## Coverage
-The data coverage is country-wide. It currently contains data for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. Following diagram shows the current frequency distribution of __traffic__ events across 50 difference states in US. Note that for several of the states, traffic data is missing from august 2016 to august 2017. 
+The data coverage is country-wide. It currently contains data for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. Following diagram shows the current frequency distribution of __traffic__ events across 50 difference states in US. Note that for several of the states, traffic data is missing from August 2016 to August 2017. 
 
 <div>
     <a href="https://plot.ly/~sobhan.mehr84/8/?share_key=NJTsyax29WSViOz1W4weSa" target="_blank" title="traffic_frequency" style="display: block; text-align: center;"><img src="https://plot.ly/~sobhan.mehr84/8.png?share_key=NJTsyax29WSViOz1W4weSa" alt="traffic_frequency" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
@@ -54,7 +54,7 @@ The next diagram shows the current frequency distribution of __weather__ events 
     <script data-plotly="sobhan.mehr84:6" sharekey-plotly="aRlIZieZPkcZSt4QZEHzG7" src="https://plot.ly/embed.js" async></script>
 </div>
 
-Following diagram shows the currentdistribution of different _traffic_ event types: 
+Following diagram shows the current distribution of different __traffic__ event types: 
 
 <div>
     <a href="https://plot.ly/~sobhan.mehr84/12/?share_key=RYBxrTEZBjbkqrjKQ8pM9F" target="_blank" title="traffic_types" style="display: block; text-align: center;"><img src="https://plot.ly/~sobhan.mehr84/12.png?share_key=RYBxrTEZBjbkqrjKQ8pM9F" alt="traffic_types" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
@@ -62,7 +62,7 @@ Following diagram shows the currentdistribution of different _traffic_ event typ
 </div>
 
 
-Similarly, current distribution of _weather_ event types is shown in below diagram: 
+Similarly, current distribution of __weather__ event types is shown in below diagram: 
 
 <div>
     <a href="https://plot.ly/~sobhan.mehr84/14/?share_key=GjxH3K4M3AJ4gHPUtLhYxK" target="_blank" title="weather_types" style="display: block; text-align: center;"><img src="https://plot.ly/~sobhan.mehr84/14.png?share_key=GjxH3K4M3AJ4gHPUtLhYxK" alt="weather_types" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
@@ -79,7 +79,7 @@ The data is provided in the format of CSV files. Following table describes the d
 | ID | This is the identifier of a record | No |
 | Type (T/W) | Indicates whether the entity is a traffic (T) or weather (W) event. | No |
 | RefinedType | Shows the type of the event, examples are *rain*, *snow*, *accident*, etc. | No |
-| TMC Code | Each traffic event has a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code to define its type | Yes |
+| TMC | Each traffic event has a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code which defines its type. | Yes |
 | Severity | Shows the severity of an event, wherever applicable. | Yes |
 | StartTime (UTC) | Shows the start time of the event in UTC time zone. | No |
 | EndTime (UTC) | Shows the end time of the event in UTC time zone. | No |
