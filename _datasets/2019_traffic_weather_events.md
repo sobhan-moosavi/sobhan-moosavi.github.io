@@ -35,11 +35,11 @@ Weather event is a spatiotemporal entity, where such entity is associated with l
 | Other Precipitation | Any other type of of precipitation which cannot be assigned to previously described entity types. |  |
 
 ## Collection Process
-Traffic data is collected from [MapQuest](https://www.mapquest.com/) using an API, for a period of two years. Weather data is collected from [Weather Underground](https://www.wunderground.com/) using their API for the same period of time (i.e., from August 2016 to August 2018). Plesse visit [our paper](#) to learn more about the data collection and processing steps. 
+Traffic data is collected from [MapQuest](https://www.mapquest.com/) using an API, for a period of two years. Weather data is collected from [Weather Underground](https://www.wunderground.com/) using their API for the same period of time (i.e., from August 2016 to August 2018). Please visit [our paper](#) to learn more about the data collection and processing steps. 
 
 
 ## Coverage
-The data coverage is country-wide. It currently contains data for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. Following diagram shows the frequency distribution of traffic events across 50 difference states in US. 
+The data coverage is country-wide. It currently contains data for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. Following diagram shows the frequency distribution of traffic events across 50 difference states in US. Note that for several of the states, traffic data is missing from august 2016 to august 2017. 
 
 <div>
     <a href="https://plot.ly/~sobhan.mehr84/8/?share_key=NJTsyax29WSViOz1W4weSa" target="_blank" title="traffic_frequency" style="display: block; text-align: center;"><img src="https://plot.ly/~sobhan.mehr84/8.png?share_key=NJTsyax29WSViOz1W4weSa" alt="traffic_frequency" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
@@ -47,7 +47,7 @@ The data coverage is country-wide. It currently contains data for the [Contiguou
 </div>
 
 
-The next diagram shows the frequency distribution of weather events for the same set of staes. 
+The next diagram shows the frequency distribution of weather events for the same set of states. 
 
 <div>
     <a href="https://plot.ly/~sobhan.mehr84/6/?share_key=aRlIZieZPkcZSt4QZEHzG7" target="_blank" title="weather_frequency" style="display: block; text-align: center;"><img src="https://plot.ly/~sobhan.mehr84/6.png?share_key=aRlIZieZPkcZSt4QZEHzG7" alt="weather_frequency" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
