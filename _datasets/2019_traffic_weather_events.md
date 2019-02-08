@@ -42,8 +42,8 @@ Traffic data is collected from [MapQuest](https://www.mapquest.com/) using an AP
 The data coverage is country-wide. It currently contains data for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. Following diagram shows the current frequency distribution of __traffic__ events across 50 difference states in US. Note that for several of the states, traffic data is missing from August 2016 to August 2017. 
 
 <div>
-    <a href="https://plot.ly/~sobhan.mehr84/8/?share_key=NJTsyax29WSViOz1W4weSa" target="_blank" title="traffic_frequency" style="display: block; text-align: center;"><img src="https://plot.ly/~sobhan.mehr84/8.png?share_key=NJTsyax29WSViOz1W4weSa" alt="traffic_frequency" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="sobhan.mehr84:8" sharekey-plotly="NJTsyax29WSViOz1W4weSa" src="https://plot.ly/embed.js" async></script>
+    <a href="https://plot.ly/~sobhan.mehr84/19/?share_key=Ca02M65nSgHpcvhv9Nh1Pm" target="_blank" title="traffic_frequency" style="display: block; text-align: center;"><img src="https://plot.ly/~sobhan.mehr84/19.png?share_key=Ca02M65nSgHpcvhv9Nh1Pm" alt="traffic_frequency" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="sobhan.mehr84:19" sharekey-plotly="Ca02M65nSgHpcvhv9Nh1Pm" src="https://plot.ly/embed.js" async></script>
 </div>
 
 
