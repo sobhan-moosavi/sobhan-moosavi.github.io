@@ -35,7 +35,7 @@ Weather event is a spatiotemporal entity, where such entity is associated with l
 | Other Precipitation | Any other type of of precipitation which cannot be assigned to previously described entity types. | N/A |
 
 ## Collection Process
-Traffic data is collected from [MapQuest](https://www.mapquest.com/) using an API, for a period of two years. Weather data is collected from [Weather Underground](https://www.wunderground.com/) using their API for the same period of time (i.e., from August 2016 to August 2018). Please visit [our paper](#) to learn more about the data collection and processing steps. 
+Traffic data is collected from [MapQuest](https://www.mapquest.com/) using an API, for a period of two years. Weather data is collected from [Weather Underground](https://www.wunderground.com/){:target="_blank"} using their API for the same period of time (i.e., from August 2016 to August 2018). Please visit [our paper](#){:target="_blank"} to learn more about the data collection and processing steps. 
 
 
 ## Coverage
