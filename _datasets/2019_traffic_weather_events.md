@@ -39,7 +39,7 @@ Traffic data is collected from [MapQuest](https://www.mapquest.com/) using an AP
 
 
 ## Coverage
-The data coverage is country-wide. It currently contains data for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. Following diagram shows the frequency distribution of __traffic__ events across 50 difference states in US. Note that for several of the states, traffic data is missing from august 2016 to august 2017. 
+The data coverage is country-wide. It currently contains data for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. Following diagram shows the current frequency distribution of __traffic__ events across 50 difference states in US. Note that for several of the states, traffic data is missing from august 2016 to august 2017. 
 
 <div>
     <a href="https://plot.ly/~sobhan.mehr84/8/?share_key=NJTsyax29WSViOz1W4weSa" target="_blank" title="traffic_frequency" style="display: block; text-align: center;"><img src="https://plot.ly/~sobhan.mehr84/8.png?share_key=NJTsyax29WSViOz1W4weSa" alt="traffic_frequency" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
@@ -47,14 +47,14 @@ The data coverage is country-wide. It currently contains data for the [Contiguou
 </div>
 
 
-The next diagram shows the frequency distribution of __weather__ events for the same set of states. 
+The next diagram shows the current frequency distribution of __weather__ events for the same set of states. 
 
 <div>
     <a href="https://plot.ly/~sobhan.mehr84/6/?share_key=aRlIZieZPkcZSt4QZEHzG7" target="_blank" title="weather_frequency" style="display: block; text-align: center;"><img src="https://plot.ly/~sobhan.mehr84/6.png?share_key=aRlIZieZPkcZSt4QZEHzG7" alt="weather_frequency" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="sobhan.mehr84:6" sharekey-plotly="aRlIZieZPkcZSt4QZEHzG7" src="https://plot.ly/embed.js" async></script>
 </div>
 
-Following diagram shows distribution of different _traffic_ event types: 
+Following diagram shows the currentdistribution of different _traffic_ event types: 
 
 <div>
     <a href="https://plot.ly/~sobhan.mehr84/12/?share_key=RYBxrTEZBjbkqrjKQ8pM9F" target="_blank" title="traffic_types" style="display: block; text-align: center;"><img src="https://plot.ly/~sobhan.mehr84/12.png?share_key=RYBxrTEZBjbkqrjKQ8pM9F" alt="traffic_types" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
@@ -62,7 +62,7 @@ Following diagram shows distribution of different _traffic_ event types:
 </div>
 
 
-Similarly, distribution of _weather_ event types is shown in below diagram: 
+Similarly, current distribution of _weather_ event types is shown in below diagram: 
 
 <div>
     <a href="https://plot.ly/~sobhan.mehr84/14/?share_key=GjxH3K4M3AJ4gHPUtLhYxK" target="_blank" title="weather_types" style="display: block; text-align: center;"><img src="https://plot.ly/~sobhan.mehr84/14.png?share_key=GjxH3K4M3AJ4gHPUtLhYxK" alt="weather_types" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
