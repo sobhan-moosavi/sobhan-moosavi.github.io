@@ -19,7 +19,7 @@ Traffic event is a spatiotemporal entity, where such entity is associated with l
 | Construction | Refers to an on-going construction or re-paring project in a road. | Short, Long |
 | Event | Refers to the situations such as *sport event*, *concert*, and *demonstration*. | Short, Long|
 | Lane-Blocked | Refers to the cases when we have blocked lane(s) due to traffic or weather condition. | N/A |
-| Flow-Incident | Refers to all other types of traffic entities. Examples are *broken traffic light* and *animal in the road*. | |
+| Flow-Incident | Refers to all other types of traffic entities. Examples are *broken traffic light* and *animal in the road*. | N/A |
 
 ## Weather Events
 Weather event is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of weather events in our dataset. We also provided severity of rain and snow in our dataset. To do so, we used observation of precipitation amount for each case for a long period of time, performed k-means clustering, and for each case identified three clusters in terms of *light*, *moderate*, and *heavy*. More details can be find [here](#){:target="_blank"}.
@@ -27,12 +27,12 @@ Weather event is a spatiotemporal entity, where such entity is associated with l
 | Type | Description | Severity |
 |------|-------------|----------|
 | Severe-Cold | The case of having extremely low temperature, with temperature below *-23.7* degrees of Celsius. | Severe |
-| Fog | The case where there is low visibility condition as result of *fog* or *haze*. |  |
+| Fog | The case where there is low visibility condition as result of *fog* or *haze*. | N/A |
 | Hail | The case of having solid precipitation including *ice pallets* and *hail*. | N/A |
 | Rain | The case of having rain. | Light, Moderate, and Heavy |
 | Snow | The case of having snow. | Light, Moderate, and Heavy |
 | Storm | The extremely windy condition, where the wind speed is at least *60 kmh*. | Severe |
-| Other Precipitation | Any other type of of precipitation which cannot be assigned to previously described entity types. |  |
+| Other Precipitation | Any other type of of precipitation which cannot be assigned to previously described entity types. | N/A |
 
 ## Collection Process
 Traffic data is collected from [MapQuest](https://www.mapquest.com/) using an API, for a period of two years. Weather data is collected from [Weather Underground](https://www.wunderground.com/) using their API for the same period of time (i.e., from August 2016 to August 2018). Please visit [our paper](#) to learn more about the data collection and processing steps. 
@@ -65,6 +65,7 @@ The data is provided in the format of CSV files. Following table describes the d
 | ID | This is the identifier of a record | No |
 | Type (T/W) | Indicates whether the entity is a traffic (T) or weather (W) event. | No |
 | RefinedType | Shows the type of the event, examples are *rain*, *snow*, *accident*, etc. | No |
+| TMC Code | Each traffic event has a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code to define its type | Yes |
 | Severity | Shows the severity of an event, wherever applicable. | Yes |
 | StartTime (UTC) | Shows the start time of the event in UTC time zone. | No |
 | EndTime (UTC) | Shows the end time of the event in UTC time zone. | No |
