@@ -41,11 +41,12 @@ Traffic data is collected from [MapQuest](https://www.mapquest.com/) using an AP
 ## Coverage
 The data coverage is country-wide. It currently contains data for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. Following diagram shows the frequency distribution of traffic events across 50 difference states in US. 
 
-<iframe width=100% height="500" frameborder="0" scrolling="no" src="//plot.ly/~sobhan.mehr84/8.embed"></iframe>
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~sobhan.mehr84/8.embed" style="height: 100%; width: 100%;"></iframe>
 
 The next diagram shows the frequency distribution of weather events for the same set of staes. 
 
-<iframe width=100% height="500" frameborder="0" scrolling="no" src="//plot.ly/~sobhan.mehr84/6.embed"></iframe>
+<iframe frameborder="0" scrolling="no" src="//plot.ly/~sobhan.mehr84/6.embed" style="height: 100%; width: 100%;"></iframe>
+
 
 
 ## Format
