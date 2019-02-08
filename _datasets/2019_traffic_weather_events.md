@@ -65,10 +65,9 @@ Following diagram shows the current distribution of different __traffic__ event 
 Similarly, current distribution of __weather__ event types is shown in below diagram: 
 
 <div>
-    <a href="https://plot.ly/~sobhan.mehr84/14/?share_key=GjxH3K4M3AJ4gHPUtLhYxK" target="_blank" title="weather_types" style="display: block; text-align: center;"><img src="https://plot.ly/~sobhan.mehr84/14.png?share_key=GjxH3K4M3AJ4gHPUtLhYxK" alt="weather_types" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="sobhan.mehr84:14" sharekey-plotly="GjxH3K4M3AJ4gHPUtLhYxK" src="https://plot.ly/embed.js" async></script>
+    <a href="https://plot.ly/~sobhan.mehr84/17/?share_key=MkdsnbKws2tHQVyaZvjVU7" target="_blank" title="Plot 17" style="display: block; text-align: center;"><img src="https://plot.ly/~sobhan.mehr84/17.png?share_key=MkdsnbKws2tHQVyaZvjVU7" alt="Plot 17" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="sobhan.mehr84:17" sharekey-plotly="MkdsnbKws2tHQVyaZvjVU7" src="https://plot.ly/embed.js" async></script>
 </div>
-
 
 
 ## Format
