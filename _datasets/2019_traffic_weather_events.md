@@ -83,8 +83,8 @@ The data is provided in the format of CSV files. Following table describes the d
 | Severity | Shows the severity of an event, wherever applicable. | Yes |
 | StartTime (UTC) | Shows the start time of the event in UTC time zone. | No |
 | EndTime (UTC) | Shows the end time of the event in UTC time zone. | No |
-| LocationLat | Shows the latitude of GPS coordinate. | Yes |
-| LocationLng | Shows the longitude of GPS coordinate. | Yes |
+| LocationLat | Shows the latitude in GPS coordinate. | Yes |
+| LocationLng | Shows the longitude in GPS coordinate. | Yes |
 | Distance (mi) | Shows the radius of impact by a traffic event. | Yes |
 | AirportCode | Shows the airport station that a weather event is reported from. | Yes |
 | Number | Shows the street number in address field. | Yes |
