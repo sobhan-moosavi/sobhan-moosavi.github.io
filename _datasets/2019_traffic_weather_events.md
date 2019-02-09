@@ -105,5 +105,6 @@ This dataset is being distributed only for __Research__ purposes, under [Creativ
 ## Applications of Dataset
 
 ## Acknowledgments
+Please cite the following paper if you use this dataset:
 
 * [Sobhan Moosavi, Mohammad Hossein Samavatian, Arnab Nandi, Srinivasan Parthasarathy and Rajiv Ramnath; _"Short and Long-term Pattern Discovery Over Large-Scale Geo-Spatiotemporal Data"_, 2019](#){:target="_blank"}
