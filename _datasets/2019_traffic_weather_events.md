@@ -103,6 +103,7 @@ This dataset is being distributed only for __Research__ purposes, under [Creativ
 <!--- __Download Version 2 (Dec 2018):__ In this version, we provide data which is collected from August 2016 to December 2018 for the Contiguous United States. In this set, we have ?? million traffic and ?? million weather event records. Download from [here](#). -->
 
 ## Applications of Dataset
+This dataset can be used for plenty of purposes such as traffic analysis and prediction, impact prediction, routing engine optimization, accident prediction, and many other research applications. 
 
 ## Acknowledgments
 Please cite the following paper if you use this dataset:
