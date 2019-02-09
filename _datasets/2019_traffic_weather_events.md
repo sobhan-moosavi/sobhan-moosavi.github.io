@@ -98,7 +98,7 @@ The data is provided in the format of CSV files. Following table describes the d
 This dataset is being distributed only for __Research__ purposes, under [Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"}. By clicking on download button(s) below, you are agreeing to use this data only for non-commercial, research, or academic applications. 
 
 ## Download
-* __Version 1 (Aug 2018):__ In this version, we provide data which is collected from August 2016 to August 2018 for the Contiguous United States. In this set, we have about 13.2 million traffic and 2.3 million weather event records. Download data from [here](#). 
+* __Version 1 (Aug 2018):__ In this version, we provide data which is collected from August 2016 to August 2018 for the Contiguous United States. In this set, we have about 13.2 million traffic and 2.3 million weather event records. Download data from [here](https://osu.box.com/s/ggsyjum4km33g25yfvihcx2mfkj2mu69){:target="_blank"}. 
 
 <!--- __Download Version 2 (Dec 2018):__ In this version, we provide data which is collected from August 2016 to December 2018 for the Contiguous United States. In this set, we have ?? million traffic and ?? million weather event records. Download from [here](#). -->
 
