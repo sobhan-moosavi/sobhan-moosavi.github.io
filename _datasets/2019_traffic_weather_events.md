@@ -6,7 +6,7 @@ excerpt: This dataset contains country-wide traffic or weather events, which are
 date: 2019-02-03
 ---
 ## Description 
-This dataset is a large-scale, unique source of data for transportation and traffic research, which contains traffic and weather events. In terms of traffic, we have several types of traffic event including accident, congestion, construction, etc. In terms of weather events, we have several types including rain, snow, storm, cold weather, etc. This dataset is being continuously collected from August 2016. For more detailed information about this dataset, please read [our paper](#){:target="_blank"}. 
+This dataset is a large-scale, unique source of data for transportation and traffic research, which contains traffic and weather events. In terms of traffic, we have several types of traffic event including accident, congestion, construction, etc. In terms of weather events, we have several types including rain, snow, storm, cold weather event, etc. This dataset is being continuously collected from August 2016. For more detailed information about this dataset, please read below descriptions. 
 
 
 ## Acknowledgment
@@ -20,7 +20,7 @@ This dataset is being distributed only for __Research__ purposes, under [Creativ
 
 
 ## Download
-* __Version 1 (Aug 2018):__ In this version, we provide data which is collected from August 2016 to August 2018 for the Contiguous United States. In this set, we have about 13.2 million traffic and 2.3 million weather event records. Download data from [here](https://osu.box.com/s/ggsyjum4km33g25yfvihcx2mfkj2mu69){:target="_blank"}. 
+* __Version 1 (Aug 2018):__ In this version, we provide data which is collected from August 2016 to August 2018 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this set, we have about 13.2 million traffic and 2.3 million weather event records. Download data from [here](https://osu.box.com/s/ggsyjum4km33g25yfvihcx2mfkj2mu69){:target="_blank"}. 
 
 <!--- __Download Version 2 (Dec 2018):__ In this version, we provide data which is collected from August 2016 to December 2018 for the Contiguous United States. In this set, we have ?? million traffic and ?? million weather event records. Download from [here](#). -->
 
