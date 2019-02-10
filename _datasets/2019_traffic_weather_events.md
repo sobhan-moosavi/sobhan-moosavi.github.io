@@ -6,7 +6,7 @@ excerpt: This dataset contains country-wide traffic or weather events, which are
 date: 2019-02-03
 ---
 ## Description 
-This dataset is a large-scale, unique source of data for transportation and traffic research, which contains traffic and weather events. In terms of traffic, we have several types of traffic event including accident, congestion, construction, etc. In terms of weather events, we have several types including rain, snow, storm, cold weather, etc. This dataset has been collected from August 2016, and is continuously being updated. For more detailed information about this dataset, please read [this paper](#){:target="_blank"}. 
+This dataset is a large-scale, unique source of data for transportation and traffic research, which contains traffic and weather events. In terms of traffic, we have several types of traffic event including accident, congestion, construction, etc. In terms of weather events, we have several types including rain, snow, storm, cold weather, etc. This dataset has been collected from August 2016 (in real-time), and is being continuously updated. For more detailed information about this dataset, please read [our paper](#){:target="_blank"}. 
 
 
 ## Acknowledgment
