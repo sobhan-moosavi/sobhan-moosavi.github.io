@@ -6,7 +6,7 @@ excerpt: This dataset contains country-wide traffic or weather events, which are
 date: 2019-02-03
 ---
 ## Description 
-This dataset is a large-scale, unique source of data for transportation and traffic research, which contains traffic and weather events. In terms of traffic, we have several types of traffic event including accident, congestion, construction, etc. In terms of weather events, we have several types including rain, snow, storm, cold weather, etc. This dataset has been collected from August 2016 (in real-time), and is being continuously updated. For more detailed information about this dataset, please read [our paper](#){:target="_blank"}. 
+This dataset is a large-scale, unique source of data for transportation and traffic research, which contains traffic and weather events. In terms of traffic, we have several types of traffic event including accident, congestion, construction, etc. In terms of weather events, we have several types including rain, snow, storm, cold weather, etc. This dataset is being continuously collected from August 2016. For more detailed information about this dataset, please read [our paper](#){:target="_blank"}. 
 
 
 ## Acknowledgment
@@ -26,7 +26,7 @@ This dataset is being distributed only for __Research__ purposes, under [Creativ
 
 
 ## Format
-The data is provided in the format of CSV files. Following table describes the data attributes: 
+The data is provided in terms of CSV files. Following table describes the data attributes: 
 
 | Attribute | Description | Nullable |
 |:---------:|-------------|:--------:|
@@ -51,7 +51,7 @@ The data is provided in the format of CSV files. Following table describes the d
 
 
 ## Traffic Events
-Traffic event is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of traffic event in our dataset. Note that for several of event types such as congestion and construction, we also included severity of the event in the *type* attribute. <!---For construction and event, severity is determined based on duration. For congestion, severity is determined by speed of the congestion. -->
+Traffic event is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of traffic event in our dataset. Visit [our paper](#){:target="_blank"} to learn how we determine severity of traffic events.
 
 | Type | Description | Severity |
 |------|-------------|----------|
@@ -65,7 +65,7 @@ Traffic event is a spatiotemporal entity, where such entity is associated with l
 
 
 ## Weather Events
-Weather event is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of weather events in our dataset. We also provided severity of rain and snow in our dataset. To do so, we used observation of precipitation amount for each case for a long period of time, performed k-means clustering, and for each case identified three clusters in terms of *light*, *moderate*, and *heavy*. More details can be find [here](#){:target="_blank"}.
+Weather event is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of weather events in our dataset. Visit [our paper](#){:target="_blank"} to learn how we determine severity of weather events. 
 
 | Type | Description | Severity |
 |------|-------------|----------|
@@ -115,4 +115,4 @@ Similarly, current distribution of __weather__ event types is shown in below dia
 
 
 ## Applications of Dataset
-This dataset can be used for plenty of purposes such as traffic analysis and prediction, impact prediction, routing engine optimization, accident prediction, and many other research applications. 
+This dataset can be used for plenty of purposes such as traffic analysis and prediction, impact prediction, accident prediction,  routing engine optimization, travel time estimation, and many other research applications. 
