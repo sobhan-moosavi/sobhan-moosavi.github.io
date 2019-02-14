@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, [Ohio State University](https://osu.edu){:target="_blank"}, Columbus, Ohio (2014 -- Ongoing)
-* M.S. in Computer Software Engineering, [University of Tehran](https://ut.ac.ir/en){:target="_blank"}, Tehran, Iran (2009--2012)
-* B.S. in Computer Science, [Shahid Beheshti University](http://en.sbu.ac.ir/SitePages/Home.aspx){:target="_blank"}, Tehran, Iran (2005--2009)
+* M.S. in Computer Software Engineering, [University of Tehran](https://ut.ac.ir/en){:target="_blank"}, Tehran, Iran (2009 -- 2012)
+* B.S. in Computer Science, [Shahid Beheshti University](http://en.sbu.ac.ir/SitePages/Home.aspx){:target="_blank"}, Tehran, Iran (2005 -- 2009)
 
 Work Experiences
 ======
