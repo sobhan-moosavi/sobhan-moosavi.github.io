@@ -28,7 +28,7 @@ Work Experiences
   * Project 1: Telematics Data Analysis and Profiling
   * Project 2: Analysis of Driving Behavior by Trajectory Segmentation and Studying Driving Patterns
   * Project 3: Telematics Data Analysis and Driving Risk Prediction
-  * Manager: [Robert B. Craig](https://www.linkedin.com/in/bruce-craig-b7504b1/){:target="_blank"} 
+  * Managers: [Robert B. Craig](https://www.linkedin.com/in/bruce-craig-b7504b1/){:target="_blank"} and [Colleen Saunders-Chukwu](https://www.linkedin.com/in/colleen-saunders-chukwu-3ba99762/){:target="_blank"}
   
 * [Amnpardaz Software Co.](https://www.amnpardaz.com/index.php/){:target="_blank"}, Tehran, Iran (Dec 2013 -- Aug 2014)
   * Title: Research and Development Engineer
