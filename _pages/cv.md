@@ -29,7 +29,10 @@ Work experience
   * Project 2: Analysis of Driving Behavior by Trajectory Segmentation and Studying Driving Patterns
   * Project 3: Telematics Data Analysis and Driving Risk Prediction
   * Manager: [Robert B. Craig](https://www.linkedin.com/in/bruce-craig-b7504b1/){:target="_blank"} 
-    
+  
+* Dec 2013 to Aug 2014: Research and Development Engineer 
+  * [Amnpardaz Software Co.](https://www.amnpardaz.com/index.php/){:target="_blank"}, Algorithm Group, Tehran, Iran
+  * Project: Malware clustering based on content, functionality, and data file attributes. 
   
 Skills
 ======
