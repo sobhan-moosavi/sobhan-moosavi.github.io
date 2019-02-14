@@ -44,7 +44,7 @@ Work Experiences
   * Project 2: Design of a FAQ-based question-answering solution for Persian text collection (2013)
   * Project 3: Design of a NER-based question-answering solution for Persian text collection (2013)
   
-Full CSV
+Download CV
 ========
 You may download my detailed cv from [here](#). 
 
