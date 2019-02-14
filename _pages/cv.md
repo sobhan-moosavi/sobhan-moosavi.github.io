@@ -30,11 +30,19 @@ Work experience
   * Project 3: Telematics Data Analysis and Driving Risk Prediction
   * Manager: [Robert B. Craig](https://www.linkedin.com/in/bruce-craig-b7504b1/){:target="_blank"} 
   
-* [Amnpardaz Software Co.](https://www.amnpardaz.com/index.php/){:target="_blank"}, Tehran, Iran (Dec 2013 to Aug 2014)
+* [Amnpardaz Software Co.](https://www.amnpardaz.com/index.php/){:target="_blank"}, Tehran, Iran (Dec 2013 -- Aug 2014)
   * Title: Research and Development Engineer
   * Project: Malware clustering based on content, functionality, and data file attributes. 
   
-* []():target="_blank"}
+* [Information Technology Organization of Iran (ITO)](http://www.ito.gov.ir/){:target="_blank"}, Tehran, Iran (Sept 2012 -- Sept 2013)
+  * Title: IT Consultant 
+  * Project: Design and development of a novel framework to evaluate search engine crawler modules 
+  
+* [Iran Telecom Research Center (ITRC)](http://en.itrc.ac.ir/){:target="_blank"}, Tehran, Iran (July 2011 -- Dec 2013)
+  * Title: Research and Development Engineer
+  * Project 1: Framework design for evaluation of Persian search engines (2011-2012)
+  * Project 2: Design of a FAQ-based question-answering solution for Persian text collection (2013)
+  * Project 3: Design of a NER-based question-answering solution for Persian text collection (2013)
   
 Skills
 ======
