@@ -15,7 +15,7 @@ Education
 * M.S. in Computer Software Engineering, [University of Tehran](https://ut.ac.ir/en){:target="_blank"}, Tehran, Iran 2012
 * Ph.D in Computer Science, [Ohio State University](https://osu.edu){:target="_blank"}, 2019 (expected)
 
-Work experience
+Work Experiences
 ======
 * [Lyft Inc.](https://www.lyft.com){:target="_blank"}, San Francisco, CA (Summer 2018)
   * Title: Research Science Internship
