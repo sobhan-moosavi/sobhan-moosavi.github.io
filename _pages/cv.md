@@ -19,15 +19,15 @@ Work Experiences
 ======
 * __[Lyft Inc.](https://www.lyft.com){:target="_blank"}__, San Francisco, CA (Summer 2018)
   * Title: Research Science Internship
-  * Project: Using Deep Learning to Estimate Travel Time
+  * Project: Travel time estimation using deep neural network architectures
   * Manager: [Nicholas Chamandy](https://www.linkedin.com/in/nicholas-chamandy-31672b30/){:target="_blank"} 
   * Mentor: [Amir Bar](https://www.linkedin.com/in/amir-bar-bracha-6080545/){:target="_blank"} 
 
 * __[Nationwide Insurance](https://www.nationwide.com/){:target="_blank"}__, Columbus, OH (Summers 2015, 2016, and 2017)
   * Title: Data Science Internship
-  * Project 1: Telematics Data Analysis and Profiling
-  * Project 2: Analysis of Driving Behavior by Trajectory Segmentation and Studying Driving Patterns
-  * Project 3: Telematics Data Analysis and Driving Risk Prediction
+  * Project 1: Telematics data analysis and profiling
+  * Project 2: Analysis of driving behavior by trajectory segmentation and causality analysis 
+  * Project 3: Telematics data analysis and driving risk prediction
   * Managers: [Robert B. Craig](https://www.linkedin.com/in/bruce-craig-b7504b1/){:target="_blank"} and [Colleen Saunders-Chukwu](https://www.linkedin.com/in/colleen-saunders-chukwu-3ba99762/){:target="_blank"}
   
 * __[Amnpardaz Software Co.](https://www.amnpardaz.com/index.php/){:target="_blank"}__, Tehran, Iran (Dec 2013 -- Aug 2014)
