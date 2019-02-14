@@ -23,7 +23,7 @@ Work experience
   * Manager: [Nicholas Chamandy](https://www.linkedin.com/in/nicholas-chamandy-31672b30/){:target="_blank"} 
   * Mentor: [Amir Bar](https://www.linkedin.com/in/amir-bar-bracha-6080545/){:target="_blank"} 
 
-* [Nationwide Insurance](https://www.nationwide.com/){:target="_blank"}, Columbus, OH (Summer 2015, 2016, and 2017)
+* [Nationwide Insurance](https://www.nationwide.com/){:target="_blank"}, Columbus, OH (Summers 2015, 2016, and 2017)
   * Title: Data Science Internship
   * Project 1: Telematics Data Analysis and Profiling
   * Project 2: Analysis of Driving Behavior by Trajectory Segmentation and Studying Driving Patterns
