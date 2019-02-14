@@ -17,28 +17,28 @@ Education
 
 Work Experiences
 ======
-* [Lyft Inc.](https://www.lyft.com){:target="_blank"}, San Francisco, CA (Summer 2018)
+* __[Lyft Inc.](https://www.lyft.com){:target="_blank"}, San Francisco, CA (Summer 2018)__
   * Title: Research Science Internship
   * Project: Using Deep Learning to Estimate Travel Time
   * Manager: [Nicholas Chamandy](https://www.linkedin.com/in/nicholas-chamandy-31672b30/){:target="_blank"} 
   * Mentor: [Amir Bar](https://www.linkedin.com/in/amir-bar-bracha-6080545/){:target="_blank"} 
 
-* [Nationwide Insurance](https://www.nationwide.com/){:target="_blank"}, Columbus, OH (Summers 2015, 2016, and 2017)
+* __[Nationwide Insurance](https://www.nationwide.com/){:target="_blank"}, Columbus, OH (Summers 2015, 2016, and 2017)__
   * Title: Data Science Internship
   * Project 1: Telematics Data Analysis and Profiling
   * Project 2: Analysis of Driving Behavior by Trajectory Segmentation and Studying Driving Patterns
   * Project 3: Telematics Data Analysis and Driving Risk Prediction
   * Managers: [Robert B. Craig](https://www.linkedin.com/in/bruce-craig-b7504b1/){:target="_blank"} and [Colleen Saunders-Chukwu](https://www.linkedin.com/in/colleen-saunders-chukwu-3ba99762/){:target="_blank"}
   
-* [Amnpardaz Software Co.](https://www.amnpardaz.com/index.php/){:target="_blank"}, Tehran, Iran (Dec 2013 -- Aug 2014)
+* __[Amnpardaz Software Co.](https://www.amnpardaz.com/index.php/){:target="_blank"}, Tehran, Iran (Dec 2013 -- Aug 2014)__
   * Title: Research and Development Engineer
   * Project: Malware clustering based on content, functionality, and data file attributes. 
   
-* [Information Technology Organization of Iran (ITO)](http://www.ito.gov.ir/){:target="_blank"}, Tehran, Iran (Sept 2012 -- Sept 2013)
+* __[Information Technology Organization of Iran (ITO)](http://www.ito.gov.ir/){:target="_blank"}, Tehran, Iran (Sept 2012 -- Sept 2013)__
   * Title: IT Consultant 
   * Project: Design and development of a novel framework to evaluate search engine crawler modules 
   
-* [Iran Telecom Research Center (ITRC)](http://en.itrc.ac.ir/){:target="_blank"}, Tehran, Iran (July 2011 -- Dec 2013)
+* __[Iran Telecom Research Center (ITRC)](http://en.itrc.ac.ir/){:target="_blank"}, Tehran, Iran (July 2011 -- Dec 2013)__
   * Title: Research and Development Engineer
   * Project 1: Framework design for evaluation of Persian search engines (2011-2012)
   * Project 2: Design of a FAQ-based question-answering solution for Persian text collection (2013)
