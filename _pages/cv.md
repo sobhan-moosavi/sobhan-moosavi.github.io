@@ -46,7 +46,7 @@ Work Experiences
   
 Download CV
 ========
-You may download my detailed cv from [here](/files/CV_Sobhan Moosavi.pdf). 
+You may download my detailed CV from [here](/files/CV_Sobhan Moosavi.pdf). 
 
 <!--
 
