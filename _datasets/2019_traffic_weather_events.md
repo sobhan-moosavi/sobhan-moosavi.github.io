@@ -2,7 +2,7 @@
 title: "Large-Scale Traffic and Weather Events Dataset"
 collection: datastes
 permalink: /datasets/2019_traffic_weather_events
-excerpt: This dataset contains country-wide traffic or weather events, which are continuously being collected from August 2016. Examples of a traffic event are *accident*, *congestion*, and *construction*. Examples of a weather event are *rain*, *snow*, and *storm*. 
+excerpt: This dataset contains country-wide traffic and weather events, which are continuously being collected from August 2016. Examples of a traffic event are *accident*, *congestion*, and *construction*. Examples of a weather event are *rain*, *snow*, and *storm*. 
 date: 2019-02-03
 ---
 ## Description 
@@ -120,5 +120,5 @@ Similarly, current distribution of __weather__ event types is shown in below dia
 This dataset can be used for plenty of purposes such as traffic analysis and prediction, impact prediction, accident prediction,  routing engine optimization, travel time estimation, and many other research applications. 
 
 <br><br>
-__Page Visits:__   <a href='https://www.stat-counter.org/'>Counter Widget</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=cb0c83df897583dfb6d8272b30d1adf869fb7ecd'></script>
+<a href='https://www.stat-counter.org/'>Counter Widget</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=cb0c83df897583dfb6d8272b30d1adf869fb7ecd'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/487718/t/5"></script>
