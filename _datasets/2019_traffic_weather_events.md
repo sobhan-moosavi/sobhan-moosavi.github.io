@@ -12,7 +12,7 @@ This dataset is a large-scale, unique source of data for transportation and traf
 ## Acknowledgment
 Please cite the following paper if you use this dataset:
 
-* Sobhan Moosavi, Mohammad Hossein Samavatian, Arnab Nandi, Srinivasan Parthasarathy and Rajiv Ramnath; ["Short and Long-term Pattern Discovery Over Large-Scale Geo-Spatiotemporal Data"](#){:target="_blank"}, 2019
+* Sobhan Moosavi, Mohammad Hossein Samavatian, Arnab Nandi, Srinivasan Parthasarathy and Rajiv Ramnath; ["Short and Long-term Pattern Discovery Over Large-Scale Geo-Spatiotemporal Data"](https://arxiv.org/abs/1902.06792){:target="_blank"}, 2019
 
 
 ## Usage Policy and Legal Disclaimer
@@ -51,7 +51,7 @@ The data is provided in terms of CSV files. Following table describes the data a
 
 
 ## Traffic Events
-Traffic event is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of traffic event in our dataset. Visit [our paper](#){:target="_blank"} to learn how we determine severity of traffic events.
+Traffic event is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of traffic event in our dataset. Visit [our paper](https://arxiv.org/abs/1902.06792){:target="_blank"} to learn how we determine severity of traffic events.
 
 | Type | Description | Severity |
 |------|-------------|----------|
@@ -65,7 +65,7 @@ Traffic event is a spatiotemporal entity, where such entity is associated with l
 
 
 ## Weather Events
-Weather event is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of weather events in our dataset. Visit [our paper](#){:target="_blank"} to learn how we determine severity of weather events. 
+Weather event is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of weather events in our dataset. Visit [our paper](https://arxiv.org/abs/1902.06792){:target="_blank"} to learn how we determine severity of weather events. 
 
 | Type | Description | Severity |
 |------|-------------|----------|
@@ -79,7 +79,7 @@ Weather event is a spatiotemporal entity, where such entity is associated with l
 
 
 ## Collection Process
-Raw traffic data is collected in __real-time__ using an API from [MapQuest](https://www.mapquest.com/), for a period of two years. Raw weather data is collected using an API from [Weather Underground](https://www.wunderground.com/){:target="_blank"} for the same period of time (i.e., from August 2016 to August 2018). Please visit [our paper](#){:target="_blank"} to learn more about the data collection and processing steps. 
+Raw traffic data is collected in __real-time__ using an API from [MapQuest](https://www.mapquest.com/), for a period of two years. Raw weather data is collected using an API from [Weather Underground](https://www.wunderground.com/){:target="_blank"} for the same period of time (i.e., from August 2016 to August 2018). Please visit [our paper](https://arxiv.org/abs/1902.06792){:target="_blank"} to learn more about the data collection and processing steps. 
 
 
 ## Coverage
