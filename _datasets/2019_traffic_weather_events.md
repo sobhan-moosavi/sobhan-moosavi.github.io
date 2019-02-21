@@ -33,7 +33,7 @@ The data is provided in terms of CSV files. Following table describes the data a
 | ID | This is the identifier of a record | No |
 | Source | Indicates the source of an event which is either T (traffic) or W (weather). | No |
 | Type | Shows the type of an event; examples are *rain*, *snow*, *accident*, etc. | No |
-| TMC | Each traffic event has a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code which defines its type. | Yes |
+| TMC | Each traffic event has a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code which provides a more detailed description on type of the event. | Yes |
 | Severity | Shows the severity of an event, wherever applicable. | Yes |
 | StartTime (UTC) | Shows the start time of an event in UTC time zone. | No |
 | EndTime (UTC) | Shows the end time of an event in UTC time zone. | No |
