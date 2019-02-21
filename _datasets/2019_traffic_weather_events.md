@@ -31,23 +31,23 @@ The data is provided in terms of CSV files. Following table describes the data a
 | Attribute | Description | Nullable |
 |:---------:|-------------|:--------:|
 | ID | This is the identifier of a record | No |
-| Source | Indicates the source of an event which is either traffic (T) or weather (W). | No |
+| Source | Indicates the source of an event which is either T (traffic) or W (weather). | No |
 | Type | Shows the type of an event; examples are *rain*, *snow*, *accident*, etc. | No |
 | TMC | Each traffic event has a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code which defines its type. | Yes |
 | Severity | Shows the severity of an event, wherever applicable. | Yes |
 | StartTime (UTC) | Shows the start time of an event in UTC time zone. | No |
 | EndTime (UTC) | Shows the end time of an event in UTC time zone. | No |
-| LocationLat | Shows the latitude in GPS coordinate. | Yes |
-| LocationLng | Shows the longitude in GPS coordinate. | Yes |
-| Distance (mi) | Shows the radius of impact by a traffic event. | Yes |
+| LocationLat | Shows the latitude in GPS coordinate (only for traffic event). | Yes |
+| LocationLng | Shows the longitude in GPS coordinate (only for traffic event). | Yes |
+| Distance (mi) | Shows the radius of impact (only for traffic event). | Yes |
 | AirportCode | Shows the airport station that a weather event is reported from, or the closest airport station to the location of a traffic event. | Yes |
-| Number | Shows the street number in address field of a traffic event. | Yes |
-| Street | Shows the street name in address field of a traffic event.  | Yes |
-| Side | Shows the relative side of a street (R/L) in address field of a traffic event. | Yes |
+| Number | Shows the street number in address field (only for traffic event). | Yes |
+| Street | Shows the street name in address field (only for traffic event).  | Yes |
+| Side | Shows the relative side of a street (R/L) in address field (only for traffic event). | Yes |
 | City | Shows the city in address field. | Yes |
-| County | Shows the county in address field of a traffic event. | Yes |
-| State | Shows the State in address field. | Yes |
-| ZipCode | Shows the zipcode in address field of a traffic event. | Yes |
+| County | Shows the county in address field (only for traffic event). | Yes |
+| State | Shows the state in address field. | Yes |
+| ZipCode | Shows the zipcode in address field (only for traffic event). | Yes |
 
 
 ## Traffic Events
