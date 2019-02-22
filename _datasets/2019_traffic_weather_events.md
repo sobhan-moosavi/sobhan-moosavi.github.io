@@ -26,7 +26,7 @@ This dataset is being distributed only for __Research__ purposes, under [Creativ
 
 
 ## Format
-The data is provided in terms of CSV files. Following table describes the data attributes: 
+The data is provided in terms of a __single CSV file__. Following table describes the data attributes: 
 
 | Attribute | Description | Nullable |
 |:---------:|-------------|:--------:|
@@ -50,7 +50,7 @@ The data is provided in terms of CSV files. Following table describes the data a
 | ZipCode | Shows the zipcode in address field (only for traffic event). | Yes |
 
 
-## Traffic Events
+## Description of Traffic Event Types
 Traffic event is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of traffic event in our dataset. Visit [our paper](https://arxiv.org/abs/1902.06792){:target="_blank"} to learn how we determine severity of traffic events.
 
 | Type | Description | Severity |
@@ -64,7 +64,7 @@ Traffic event is a spatiotemporal entity, where such entity is associated with l
 | Flow-Incident | Refers to all other types of traffic events. Examples are *broken traffic light* and *animal in the road*. | N/A |
 
 
-## Weather Events
+## Description of Weather Event Types
 Weather event is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of weather events in our dataset. Visit [our paper](https://arxiv.org/abs/1902.06792){:target="_blank"} to learn how we determine severity of weather events. 
 
 | Type | Description | Severity |
