@@ -12,7 +12,7 @@ This dataset is a large-scale, unique source of data for transportation and traf
 ## Acknowledgment
 Please cite the following paper if you use this dataset:
 
-* Sobhan Moosavi, Mohammad Hossein Samavatian, Arnab Nandi, Srinivasan Parthasarathy and Rajiv Ramnath; ["Short and Long-term Pattern Discovery Over Large-Scale Geo-Spatiotemporal Data"](https://arxiv.org/abs/1902.06792), 2019
+* Moosavi, Sobhan, Mohammad Hossein Samavatian, Arnab Nandi, Srinivasan Parthasarathy, and Rajiv Ramnath. ["Short and Long-term Pattern Discovery Over Large-Scale Geo-Spatiotemporal Data."](https://arxiv.org/abs/1902.06792) arXiv preprint arXiv:1902.06792 (2019). 
 
 
 ## Usage Policy and Legal Disclaimer
