@@ -1,9 +1,8 @@
 ---
 title: "Transfer Learning in Deep Reinforcement Learning"
-collection: publications
+collection: projects
 permalink: /projects/2017_deepRL
-retrieval, crawling, etc. 
-date: 2012-01-01
+date: 2017-12-10
 ---
 
 __Transfer Learning in Deep Reinforcement Learning__
