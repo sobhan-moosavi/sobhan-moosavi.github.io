@@ -1,5 +1,5 @@
 ---
-title: "Driver Behavior Analysis"
+title: "Telematics Data Analysis to Study Driving Behavior"
 collection: projects
 permalink: /projects/2015_telematicsAnalysis
 date: 2015-10-1
