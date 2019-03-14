@@ -2,7 +2,7 @@
 title: "Transfer Learning in Deep Reinforcement Learning"
 collection: publications
 permalink: /projects/2017_deepRL
-excerpt: This paper provides a comprehensive framework to compare web search engines on Persian web based on several factors, including retrieval, crawling, etc. 
+retrieval, crawling, etc. 
 date: 2012-01-01
 ---
 
