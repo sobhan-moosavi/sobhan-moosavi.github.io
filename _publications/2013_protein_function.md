@@ -7,6 +7,11 @@ date: 2013-01-01
 venue: 'Journal of Computational Biology and Chemistry'
 paperurl: '/files/moosavi2013proteinfunction.pdf'
 ---
+## Authors
+__Sobhan Moosavi__, Maseud Rahgozar, and Amir Rahimi
+
+## Summary and Download
+
 This paper is about how to leverage protein-protein network structural properties to predict proterins' function. 
 
 [Download paper here](/files/moosavi2013proteinfunction.pdf)
