@@ -9,7 +9,7 @@ paperurl: '/files/2017_characterizing.pdf'
 ---
 This paper is about a new framework to learn about characteristics of driving context based on behavior of drivers. 
 
-[Download short paper](/files/2017_characterizing.pdf)
+[Download short paper](https://arxiv.org/pdf/1710.05733.pdf)
 
 [Download full paper](/files/2017_characterizing_long.pdf)
 
