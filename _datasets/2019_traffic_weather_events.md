@@ -120,5 +120,5 @@ Similarly, current distribution of __weather__ event types is shown in below dia
 This dataset can be used for plenty of purposes such as traffic analysis and prediction, impact prediction, accident prediction,  routing engine optimization, travel time estimation, and many other research applications. 
 
 <br><br>
-<p> <a href='https://www.stat-counter.org/'>Page Visits</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=cb0c83df897583dfb6d8272b30d1adf869fb7ecd'></script>
+<p style="display:none"> <a href='https://www.stat-counter.org/'>Page Visits</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=cb0c83df897583dfb6d8272b30d1adf869fb7ecd'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/487718/t/5"></script> </p>
