@@ -2,11 +2,11 @@
 title: "Large-Scale Traffic and Weather Events Dataset"
 collection: datastes
 permalink: /datasets/2019_traffic_weather_events
-excerpt: This dataset contains country-wide traffic and weather events, which are continuously being collected from August 2016. Examples of a traffic event are *accident*, *congestion*, and *construction*. Examples of a weather event are *rain*, *snow*, and *storm*. 
+excerpt: This dataset contains country-wide traffic and weather events, which are continuously being collected for the United States from August 2016. Examples of a traffic event are *accident*, *congestion*, and *construction*. Examples of a weather event are *rain*, *snow*, and *storm*. 
 date: 2019-02-03
 ---
 ## Description 
-This dataset is a large-scale, unique source of data for transportation and traffic research, which contains traffic and weather events. In terms of traffic, we have several types of traffic event including accident, congestion, construction, etc. In terms of weather events, we have several types including rain, snow, storm, cold weather event, etc. This dataset is being continuously collected from August 2016. For more detailed information about this dataset, please read below descriptions. 
+This dataset is a large-scale, country-wide source of data for transportation and traffic research, which contains traffic and weather events for the United States. In terms of traffic, we have several types of traffic event including accident, congestion, construction, etc. In terms of weather events, we have several types including rain, snow, storm, cold weather event, etc. This dataset is being continuously collected from August 2016. For more detailed information about this dataset, please read below descriptions. 
 
 
 ## Acknowledgment
