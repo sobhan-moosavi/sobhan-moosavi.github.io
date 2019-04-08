@@ -64,16 +64,17 @@ Traffic event is a spatiotemporal entity, where such entity is associated with l
 | Lane-Blocked | Refers to the cases when we have blocked lane(s) due to traffic or weather condition. | N/A |
 | Flow-Incident | Refers to all other types of traffic events. Examples are *broken traffic light* and *animal in the road*. | N/A |
 -->
-* __Accident__: A traffic accident which can involve one or more vehicles.
+* __Accident__: Refers to traffic accident which can involve one or more vehicles.
 * __Broken-Vehicle__: Refers to the situation when there is one (or more) disabled vehicle(s) in a road.
 * __Congestion__: Refers to the situation when the speed of traffic is lower than the expected speed.
-* __Construction__: Refers to an on-going construction or re-paring project in a road.
+* __Construction__: Refers to an on-going construction, maintenance, or re-paring project in a road.
 * __Event__: Refers to the situations such as *sport event*, *concert*, and *demonstration*.
 * __Lane-Blocked__: Refers to the cases when we have blocked lane(s) due to traffic or weather condition.
 * __EFlow-Incident__: Refers to all other types of traffic events. Examples are *broken traffic light* and *animal in the road*.
 
 ## Description of Weather Event Types
-Weather event is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of weather events in our dataset. Visit [our paper](https://arxiv.org/abs/1902.06792){:target="_blank"} to learn how we determine severity of weather events. 
+Weather event is a spatiotemporal entity, where such entity is associated with location and time. Following is the description of available traffic event types: 
+<!-- table describes different types of weather events in our dataset. Visit [our paper](https://arxiv.org/abs/1902.06792){:target="_blank"} to learn how we determine severity of weather events. 
 
 | Type | Description | Severity |
 |------|-------------|----------|
@@ -84,6 +85,16 @@ Weather event is a spatiotemporal entity, where such entity is associated with l
 | Snow | The case of having snow. | Light, Moderate, and Heavy |
 | Storm | The extremely windy condition, where the wind speed is at least *60 kmh*. | Severe |
 | Other Precipitation | Any other type of of precipitation which cannot be assigned to previously described event types. | N/A |
+-->
+* __Severe-Cold__: The case of having extremely low temperature, with temperature below *-23.7* degrees of Celsius. 
+* __Fog__: The case where there is low visibility condition as result of *fog* or *haze*. 
+* __Hail__: The case of having solid precipitation including *ice pallets* and *hail*.
+* __Rain__: The case of having rain, ranging from light to heavy. 
+* __Snow__: The case of having snow, ranging from light to heavy. 
+* __Storm__: The extremely windy condition, where the wind speed is at least *60 kmh*. 
+* __Other Precipitation__: Any other type of of precipitation which cannot be assigned to previously described event types.
+
+Visit [our paper](https://arxiv.org/abs/1902.06792){:target="_blank"} to learn how we determine type and severity of weather events. 
 
 <!-- 
 ## Collection Process
