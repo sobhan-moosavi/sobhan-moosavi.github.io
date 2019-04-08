@@ -53,6 +53,7 @@ The data is provided in terms of a __single CSV file__. Following table describe
 
 ## Description of Traffic Event Types
 Traffic event is a spatiotemporal entity, where such entity is associated with location and time. Following is the description of available traffic event types:
+
 <!--table describes different types of traffic event in our dataset. Visit [our paper](https://arxiv.org/abs/1902.06792){:target="_blank"} to learn how we determine severity of traffic events.
 | Type | Description | Severity |
 |------|-------------|----------|
@@ -64,6 +65,7 @@ Traffic event is a spatiotemporal entity, where such entity is associated with l
 | Lane-Blocked | Refers to the cases when we have blocked lane(s) due to traffic or weather condition. | N/A |
 | Flow-Incident | Refers to all other types of traffic events. Examples are *broken traffic light* and *animal in the road*. | N/A |
 -->
+
 * __Accident__: Refers to traffic accident which can involve one or more vehicles.
 * __Broken-Vehicle__: Refers to the situation when there is one (or more) disabled vehicle(s) in a road.
 * __Congestion__: Refers to the situation when the speed of traffic is lower than the expected speed.
@@ -74,8 +76,8 @@ Traffic event is a spatiotemporal entity, where such entity is associated with l
 
 ## Description of Weather Event Types
 Weather event is a spatiotemporal entity, where such entity is associated with location and time. Following is the description of available traffic event types: 
-<!-- table describes different types of weather events in our dataset. Visit [our paper](https://arxiv.org/abs/1902.06792){:target="_blank"} to learn how we determine severity of weather events. 
 
+<!-- table describes different types of weather events in our dataset. Visit [our paper](https://arxiv.org/abs/1902.06792){:target="_blank"} to learn how we determine severity of weather events. 
 | Type | Description | Severity |
 |------|-------------|----------|
 | Severe-Cold | The case of having extremely low temperature, with temperature below *-23.7* degrees of Celsius. | Severe |
@@ -86,6 +88,7 @@ Weather event is a spatiotemporal entity, where such entity is associated with l
 | Storm | The extremely windy condition, where the wind speed is at least *60 kmh*. | Severe |
 | Other Precipitation | Any other type of of precipitation which cannot be assigned to previously described event types. | N/A |
 -->
+
 * __Severe-Cold__: The case of having extremely low temperature, with temperature below *-23.7* degrees of Celsius. 
 * __Fog__: The case where there is low visibility condition as result of *fog* or *haze*. 
 * __Hail__: The case of having solid precipitation including *ice pallets* and *hail*.
