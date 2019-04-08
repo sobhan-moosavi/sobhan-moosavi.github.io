@@ -52,8 +52,8 @@ The data is provided in terms of a __single CSV file__. Following table describe
 
 
 ## Description of Traffic Event Types
-Traffic event is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of traffic event in our dataset. Visit [our paper](https://arxiv.org/abs/1902.06792){:target="_blank"} to learn how we determine severity of traffic events.
-
+Traffic event is a spatiotemporal entity, where such entity is associated with location and time. Following is the description of available traffic event types:
+<!--table describes different types of traffic event in our dataset. Visit [our paper](https://arxiv.org/abs/1902.06792){:target="_blank"} to learn how we determine severity of traffic events.
 | Type | Description | Severity |
 |------|-------------|----------|
 | Accident | A traffic accident which can involve one or more vehicles. | N/A |
@@ -63,7 +63,14 @@ Traffic event is a spatiotemporal entity, where such entity is associated with l
 | Event | Refers to the situations such as *sport event*, *concert*, and *demonstration*. | Short, Long|
 | Lane-Blocked | Refers to the cases when we have blocked lane(s) due to traffic or weather condition. | N/A |
 | Flow-Incident | Refers to all other types of traffic events. Examples are *broken traffic light* and *animal in the road*. | N/A |
-
+-->
+* __Accident__: A traffic accident which can involve one or more vehicles.
+* __Broken-Vehicle__: Refers to the situation when there is one (or more) disabled vehicle(s) in a road.
+* __Congestion__: Refers to the situation when the speed of traffic is lower than the expected speed.
+* __Construction__: Refers to an on-going construction or re-paring project in a road.
+* __Event__: Refers to the situations such as *sport event*, *concert*, and *demonstration*.
+* __Lane-Blocked__: Refers to the cases when we have blocked lane(s) due to traffic or weather condition.
+* __EFlow-Incident__: Refers to all other types of traffic events. Examples are *broken traffic light* and *animal in the road*.
 
 ## Description of Weather Event Types
 Weather event is a spatiotemporal entity, where such entity is associated with location and time. Following table describes different types of weather events in our dataset. Visit [our paper](https://arxiv.org/abs/1902.06792){:target="_blank"} to learn how we determine severity of weather events. 
