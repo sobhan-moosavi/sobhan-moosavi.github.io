@@ -72,7 +72,7 @@ Traffic event is a spatiotemporal entity, where such entity is associated with l
 * __Construction__: Refers to an on-going construction, maintenance, or re-paring project in a road.
 * __Event__: Refers to the situations such as *sport event*, *concert*, and *demonstration*.
 * __Lane-Blocked__: Refers to the cases when we have blocked lane(s) due to traffic or weather condition.
-* __EFlow-Incident__: Refers to all other types of traffic events. Examples are *broken traffic light* and *animal in the road*.
+* __Flow-Incident__: Refers to all other types of traffic events. Examples are *broken traffic light* and *animal in the road*.
 
 ## Description of Weather Event Types
 Weather event is a spatiotemporal entity, where such entity is associated with location and time. Following is the description of available traffic event types: 
