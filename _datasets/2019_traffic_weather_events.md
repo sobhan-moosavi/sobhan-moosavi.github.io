@@ -2,6 +2,7 @@
 title: "LSTW: Large-Scale Traffic and Weather Events Dataset"
 collection: datastes
 permalink: /datasets/lstw
+redirect_from: https://smoosavi.org/datasets/2019_traffic_weather_events
 excerpt: This dataset contains country-wide traffic and weather events, which are continuously being collected for the United States from August 2016. Examples of a traffic event are *accident*, *congestion*, and *construction*. Examples of a weather event are *rain*, *snow*, and *storm*. 
 date: 2019-02-03
 ---
