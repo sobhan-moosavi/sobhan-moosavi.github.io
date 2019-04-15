@@ -21,7 +21,7 @@ This dataset is being distributed only for __Research__ purposes, under [Creativ
 
 
 ## Download
-* __Version 1 (Aug 2018):__ In this version, we provide data which is collected from August 2016 to August 2018 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this set, we have about 13.2 million traffic and 2.3 million weather event records. Download data from [here](https://osu.box.com/s/7ltxkiqv7tfk1wrqw7ln90egtcpmlicq){:target="_blank"}. 
+* __Version 1 (Aug 2018):__ In this version, we provide data which is collected from August 2016 to August 2018 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this set, we have about 13.2 million traffic and 2.3 million weather event records. Download data from [here](https://osu.box.com/v/lstw-traffic-weather){:target="_blank"}. 
 
 <!--- __Download Version 2 (Dec 2018):__ In this version, we provide data which is collected from August 2016 to December 2018 for the Contiguous United States. In this set, we have ?? million traffic and ?? million weather event records. Download from [here](#). -->
 The next version will be available by July 2019. 
