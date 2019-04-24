@@ -3,8 +3,8 @@ title: "LSTW: Large-Scale Traffic and Weather Events Dataset"
 collection: datastes
 permalink: /datasets/lstw
 redirect_from: /datasets/2019_traffic_weather_events
-excerpt: This dataset contains country-wide traffic and weather events, which are continuously being collected for the United States from August 2016. Examples of a traffic event are *accident*, *congestion*, and *construction*. Examples of a weather event are *rain*, *snow*, and *storm*. 
-date: 2019-02-03
+excerpt: This dataset contains country-wide traffic and weather events, which are continuously being collected for the United States from August 2016. Examples of a traffic event are *accident*, *congestion*, and *construction*. Examples of a weather event are *rain*, *snow*, and *storm*. Currently we have more than 15 million instances of traffic and weather events in this dataset. 
+date: 2019-02
 ---
 ## Description 
 LSTW is a large-scale, country-wide dataset for transportation and traffic research, which contains traffic and weather event data for the United States. In terms of traffic, we have several types of events including accident, congestion, construction, etc. In terms of weather events, we have several types including rain, snow, storm, cold weather event, etc. This dataset is _continuously_ being collected from August 2016. For more detailed information about this dataset, please read below descriptions. 
