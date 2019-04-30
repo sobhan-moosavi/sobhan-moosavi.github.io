@@ -13,7 +13,7 @@ LSTW is a large-scale, country-wide dataset for transportation and traffic resea
 ## Acknowledgment
 Please cite the following paper if you use this dataset:
 
-* Moosavi, Sobhan, Mohammad Hossein Samavatian, Arnab Nandi, Srinivasan Parthasarathy, and Rajiv Ramnath. ["Short and Long-term Pattern Discovery Over Large-Scale Geo-Spatiotemporal Data."](https://arxiv.org/abs/1902.06792) arXiv preprint arXiv:1902.06792 (2019). 
+* Moosavi, Sobhan, Mohammad Hossein Samavatian, Arnab Nandi, Srinivasan Parthasarathy, and Rajiv Ramnath. ["Short and Long-term Pattern Discovery Over Large-Scale Geo-Spatiotemporal Data."](https://arxiv.org/abs/1902.06792) Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. ACM, 2019. 
 
 
 ## Usage Policy and Legal Disclaimer
