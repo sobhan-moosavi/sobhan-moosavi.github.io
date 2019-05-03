@@ -1,1 +1,32 @@
-TBD
+---
+title: "US-Accidents: Countrywide Traffic Accident Dataset"
+collection: datastes
+permalink: /datasets/us_accidents
+excerpt: This dataset contains country-wide traffic accidents data for 49 States of the US. 
+date: 2019-05-05
+---
+
+## Description 
+
+
+## Acknowledgment
+Please cite the following paper if you use this dataset:
+
+
+## Usage Policy and Legal Disclaimer
+This dataset is being distributed only for __Research__ purposes, under [Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"}. By clicking on download button(s) below, you are agreeing to use this data only for non-commercial, research, or academic applications. 
+
+
+## Download
+
+
+
+## Format
+The data is provided in terms of a __single CSV file__. Following table describes the data attributes: 
+
+
+
+## Coverage
+
+## Applications of Dataset
+
