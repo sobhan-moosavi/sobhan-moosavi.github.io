@@ -25,7 +25,7 @@ This dataset is being distributed only for __Research__ purposes, under [Creativ
 ## Format
 The data is provided in terms of a __single CSV file__. Following table describes the data attributes: 
 
-| Number | Attribute | Description | Nullable |
+| \# | Attribute | Description | Nullable |
 |:------:|:---------:|-------------|:--------:|
 | 1 | ID | This is the unique identifier of an accident record | No |
 | 2 | Source | Indicates the source of an event which can be MapQuest, Bing, or both. | No |
