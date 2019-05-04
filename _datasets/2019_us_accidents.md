@@ -27,18 +27,18 @@ The data is provided in terms of a __single CSV file__. Following table describe
 
 | \# | Attribute | Description | Nullable |
 |:------:|:---------:|-------------|:--------:|
-| 1 | ID | This is the unique identifier of an accident record | No |
-| 2 | Source | Indicates the source of an event which can be MapQuest, Bing, or both. | No |
+| 1 | ID | This is the unique identifier of the accident record | No |
+| 2 | Source | Indicates the source of the accident which can be MapQuest, Bing, or both. | No |
 | 3 | TMC | A traffic accident may have a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code which provides more detailed description of the event. | Yes |
-| 4 | Severity | Shows the severity of an event, wherever applicable. | Yes |
-| 5 | StartTime | Shows the start time of an event in UTC time zone. | No |
-| | EndTime | Shows the end time of an event in UTC time zone. | No |
-| | Start_Lat | Shows the latitude in GPS coordinate for start point. | Yes |
-| | Start_Lng | Shows the longitude in GPS coordinate for start point. | Yes |
-| | End_Lat | Shows the latitude in GPS coordinate for end point. | Yes |
-| | End_Lng | Shows the longitude in GPS coordinate for end point. | Yes |
-| | Distance (mi) | Shows the radius of impact. | Yes |
-| | Description | Shows the natural language description of the accident. | Yes |
+| 4 | Severity | Shows the severity of the accident (a number between 1 to 4). | No |
+| 5 | StartTime | Shows the start time of the accident in local time zone. | No |
+| | EndTime | Shows the end time of the accident in local time zone. | No |
+| | Start_Lat | Shows the latitude in GPS coordinate of start point. | No |
+| | Start_Lng | Shows the longitude in GPS coordinate of start point. | No |
+| | End_Lat | Shows the latitude in GPS coordinate of end point. | Yes |
+| | End_Lng | Shows the longitude in GPS coordinate of end point. | Yes |
+| | Distance (mi) | Shows the radius of impact. | No |
+| | Description | Shows the natural language description of the accident. | No |
 | | Number | Shows the street number in address field. | Yes |
 | | Street | Shows the street name in address field.  | Yes |
 | | Side | Shows the relative side of a street (R/L) in address field. | Yes |
@@ -48,29 +48,29 @@ The data is provided in terms of a __single CSV file__. Following table describe
 | | ZipCode | Shows the zipcode in address field. | Yes |
 | | Timezone | Shows the timezone based on the location of an accident. | Yes |
 | | AirportCode | Shows the closest weather station to the reported accident. | Yes |
-| | Timestamp |||
-| | Temperature (F) |||
-| | Wind_Chill (F) |||
-| | Humidity (%) |||
-| | Pressure () |||
-| | Visibility (mi) |||
-| | Wind_Direction |||
-| | Wind_Speed (mph) |||
-| | Precipitation () |||
-| | Condition |||
-| | Amenity |||
-| | Bump |||
-| | Crossing |||
-| | Give_Way |||
-| | Junction |||
-| | No_Exit|||
-| | Railway |||
-| | Roundabout |||
-| | Station |||
-| | Stop |||
-| | Traffic_Calming |||
-| | Traffic_Signal |||
-| | Turning_Loop |||
+| | W_Timestamp | Shows the timestamp of weather observation record in location time. ||
+| | Temperature (F) | Shows the temparature in fahrenheit. ||
+| | Wind_Chill (F) | Shows the wind chill in fahrenheit. ||
+| | Humidity (%) | Shows the humidity in percentage. ||
+| | Pressure () | Shows the air pressure in ??. ||
+| | Visibility (mi) | Shows visibility in miles. ||
+| | Wind_Direction | Shows wind direction.  ||
+| | Wind_Speed (mph) | Shows wind speed in miles per hour. ||
+| | Precipitation () | Shows precipitation amount in ??, if there is any. ||
+| | Condition | Shows the weather condition (rain, snow, thunderstorm, fog, etc.) ||
+| | Amenity | A POI tag which indicates presense of [amenity annotation](#) in a nearby location. ||
+| | Bump | A POI tag which indicates presense of [bump annotation](#) in a nearby location. ||
+| | Crossing | A POI tag which indicates presense of [crossing annotation](#) in a nearby location. ||
+| | Give_Way | A POI tag which indicates presense of [given_way annotation](#) in a nearby location. ||
+| | Junction | A POI tag which indicates presense of [junction annotation](#) in a nearby location. ||
+| | No_Exit| A POI tag which indicates presense of [no_exit annotation](#) in a nearby location. ||
+| | Railway | A POI tag which indicates presense of [railway annotation](#) in a nearby location. ||
+| | Roundabout | A POI tag which indicates presense of [roundabout annotation](#) in a nearby location. ||
+| | Station | A POI tag which indicates presense of [station annotation](#) in a nearby location. ||
+| | Stop | A POI tag which indicates presense of [stop annotation](#) in a nearby location. ||
+| | Traffic_Calming | A POI tag which indicates presense of [traffic_calming annotation](#) in a nearby location. ||
+| | Traffic_Signal | A POI tag which indicates presense of [traffic_signal annotation](#) in a nearby location. ||
+| | Turning_Loop | A POI tag which indicates presense of [turning_loop annotation](#) in a nearby location. ||
 | | Sunrise_Sunset |||
 | | Civil_Twilight |||
 | | Nautical_Twilight |||
