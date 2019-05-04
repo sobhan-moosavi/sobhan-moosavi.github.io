@@ -52,9 +52,9 @@ The data is provided in terms of a __single CSV file__. Following table describe
 | | Country | Shows the country in address field. | Yes |
 | | Timezone | Shows the timezone based on the location of an accident. | Yes |
 | | AirportCode | Shows the closest weather station to the reported accident. | Yes |
-| | W_Timestamp | Shows the timestamp of weather observation record in location time. ||
-| | Temperature (F) | Shows the temparature in fahrenheit. ||
-| | Wind_Chill (F) | Shows the wind chill in fahrenheit. ||
+| | W_Timestamp | Shows the time-stamp of weather observation record in location time. ||
+| | Temperature (F) | Shows the temperature in Fahrenheit. ||
+| | Wind_Chill (F) | Shows the wind chill in Fahrenheit. ||
 | | Humidity (%) | Shows the humidity in percentage. ||
 | | Pressure (in) | Shows the air pressure in ??. ||
 | | Visibility (mi) | Shows visibility in miles. ||
@@ -62,19 +62,19 @@ The data is provided in terms of a __single CSV file__. Following table describe
 | | Wind_Speed (mph) | Shows wind speed in miles per hour. ||
 | | Precipitation (in) | Shows precipitation amount in ??, if there is any. ||
 | | Condition | Shows the weather condition (rain, snow, thunderstorm, fog, etc.) ||
-| | Amenity | A POI annotation which indicates presense of [amenity](#) in a nearby location. | No |
-| | Bump | A POI annotation which indicates presense of [bump](#) in a nearby location. | No |
-| | Crossing | A POI annotation which indicates presense of [crossing](#) in a nearby location. | No |
-| | Give_Way | A POI annotation which indicates presense of [given_way](#) in a nearby location. | No |
-| | Junction | A POI annotation which indicates presense of [junction](#) in a nearby location. | No |
-| | No_Exit| A POI annotation which indicates presense of [no_exit](#) in a nearby location. | No |
-| | Railway | A POI annotation which indicates presense of [railway](#) in a nearby location. | No |
-| | Roundabout | A POI annotation which indicates presense of [roundabout](#) in a nearby location. | No |
-| | Station | A POI annotation which indicates presense of [station](#) in a nearby location. | No |
-| | Stop | A POI annotation which indicates presense of [stop](#) in a nearby location. | No |
-| | Traffic_Calming | A POI annotation which indicates presense of [traffic_calming](#) in a nearby location. | No |
-| | Traffic_Signal | A POI annotation which indicates presense of [traffic_signal](#) in a nearby location. | No |
-| | Turning_Loop | A POI annotation which indicates presense of [turning_loop](#) in a nearby location. | No |
+| | Amenity | A POI annotation which indicates presence of [amenity](#) in a nearby location. | No |
+| | Bump | A POI annotation which indicates presence of [bump](#) in a nearby location. | No |
+| | Crossing | A POI annotation which indicates presence of [crossing](#) in a nearby location. | No |
+| | Give_Way | A POI annotation which indicates presence of [given_way](#) in a nearby location. | No |
+| | Junction | A POI annotation which indicates presence of [junction](#) in a nearby location. | No |
+| | No_Exit| A POI annotation which indicates presence of [no_exit](#) in a nearby location. | No |
+| | Railway | A POI annotation which indicates presence of [railway](#) in a nearby location. | No |
+| | Roundabout | A POI annotation which indicates presence of [roundabout](#) in a nearby location. | No |
+| | Station | A POI annotation which indicates presence of [station](#) in a nearby location. | No |
+| | Stop | A POI annotation which indicates presence of [stop](#) in a nearby location. | No |
+| | Traffic_Calming | A POI annotation which indicates presence of [traffic_calming](#) in a nearby location. | No |
+| | Traffic_Signal | A POI annotation which indicates presence of [traffic_signal](#) in a nearby location. | No |
+| | Turning_Loop | A POI annotation which indicates presence of [turning_loop](#) in a nearby location. | No |
 | | Sunrise_Sunset | Shows the daylight condition (day or night) based on sunrise/sunset. | Yes |
 | | Civil_Twilight | Shows the daylight condition (day or night) based on [civil twilight](#). | Yes |
 | | Nautical_Twilight | Shows the daylight condition (day or night) based on [nautical twilight](#). | Yes |
