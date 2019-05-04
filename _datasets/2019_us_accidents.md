@@ -12,7 +12,7 @@ date: 2019-05-05
 ## Acknowledgment
 Please cite the following paper if you use this dataset:
 
-* Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. ["US-Accidents: A Countrywide Traffic Accident Dataset."](#), 2019. 
+* Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. ["A Countrywide Traffic Accident Dataset."](#), 2019. 
 
 ## Usage Policy and Legal Disclaimer
 This dataset is being distributed only for __Research__ purposes, under [Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"}. By clicking on download button(s) below, you are agreeing to use this data only for non-commercial, research, or academic applications. 
@@ -21,6 +21,9 @@ This dataset is being distributed only for __Research__ purposes, under [Creativ
 ## Download
 * __Version 1 (May 2019):__ In this version, we provide data which is collected from February 2016 to March 2019 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this set, we have about 2.25 million traffic accidents. Download data from [here](#){:target="_blank"}. 
 
+
+## Coverage
+The dataset covers 49 US States. Following diagram shows the current data distribution over all the states. 
 
 ## Format
 The data is provided in terms of a __single CSV file__. Following table describes the data attributes: 
@@ -46,17 +49,18 @@ The data is provided in terms of a __single CSV file__. Following table describe
 | | County | Shows the county in address field. | Yes |
 | | State | Shows the state in address field. | Yes |
 | | ZipCode | Shows the zipcode in address field. | Yes |
+| | Country | Shows the country in address field. | Yes |
 | | Timezone | Shows the timezone based on the location of an accident. | Yes |
 | | AirportCode | Shows the closest weather station to the reported accident. | Yes |
 | | W_Timestamp | Shows the timestamp of weather observation record in location time. ||
 | | Temperature (F) | Shows the temparature in fahrenheit. ||
 | | Wind_Chill (F) | Shows the wind chill in fahrenheit. ||
 | | Humidity (%) | Shows the humidity in percentage. ||
-| | Pressure () | Shows the air pressure in ??. ||
+| | Pressure (in) | Shows the air pressure in ??. ||
 | | Visibility (mi) | Shows visibility in miles. ||
 | | Wind_Direction | Shows wind direction.  ||
 | | Wind_Speed (mph) | Shows wind speed in miles per hour. ||
-| | Precipitation () | Shows precipitation amount in ??, if there is any. ||
+| | Precipitation (in) | Shows precipitation amount in ??, if there is any. ||
 | | Condition | Shows the weather condition (rain, snow, thunderstorm, fog, etc.) ||
 | | Amenity | A POI annotation which indicates presense of [amenity](#) in a nearby location. | No |
 | | Bump | A POI annotation which indicates presense of [bump](#) in a nearby location. | No |
@@ -75,10 +79,6 @@ The data is provided in terms of a __single CSV file__. Following table describe
 | | Civil_Twilight | Shows the daylight condition (day or night) based on [civil twilight](#). | Yes |
 | | Nautical_Twilight | Shows the daylight condition (day or night) based on [nautical twilight](#). | Yes |
 | | Astronomical_Twilight | Shows the daylight condition (day or night) based on [astronomical twilight](#). | Yes |
-
-
-## Coverage
-The data coverage is country-wide. Following diagram shows the current data distribution over all the states. 
 
 ## Applications of Dataset
 US-Accidents can be used for numerous applications such as real-time accident prediction, studying accident hotspot locations, casualty analysis and extracting cause and effect rules to predict accidents, or studying the impact of precipitation or other environmental stimuli on accident occurrence. 
