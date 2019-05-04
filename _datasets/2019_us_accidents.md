@@ -12,6 +12,7 @@ date: 2019-05-05
 ## Acknowledgment
 Please cite the following paper if you use this dataset:
 
+* Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. ["US-Accidents: A Countrywide Traffic Accident Dataset."](#), 2019. 
 
 ## Usage Policy and Legal Disclaimer
 This dataset is being distributed only for __Research__ purposes, under [Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"}. By clicking on download button(s) below, you are agreeing to use this data only for non-commercial, research, or academic applications. 
