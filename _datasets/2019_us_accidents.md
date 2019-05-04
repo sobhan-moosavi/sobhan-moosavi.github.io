@@ -58,23 +58,23 @@ The data is provided in terms of a __single CSV file__. Following table describe
 | | Wind_Speed (mph) | Shows wind speed in miles per hour. ||
 | | Precipitation () | Shows precipitation amount in ??, if there is any. ||
 | | Condition | Shows the weather condition (rain, snow, thunderstorm, fog, etc.) ||
-| | Amenity | A POI annotation which indicates presense of [amenity](#) in a nearby location. ||
-| | Bump | A POI annotation which indicates presense of [bump](#) in a nearby location. ||
-| | Crossing | A POI annotation which indicates presense of [crossing](#) in a nearby location. ||
-| | Give_Way | A POI annotation which indicates presense of [given_way](#) in a nearby location. ||
-| | Junction | A POI annotation which indicates presense of [junction](#) in a nearby location. ||
-| | No_Exit| A POI annotation which indicates presense of [no_exit](#) in a nearby location. ||
-| | Railway | A POI annotation which indicates presense of [railway](#) in a nearby location. ||
-| | Roundabout | A POI annotation which indicates presense of [roundabout](#) in a nearby location. ||
-| | Station | A POI annotation which indicates presense of [station](#) in a nearby location. ||
-| | Stop | A POI annotation which indicates presense of [stop](#) in a nearby location. ||
-| | Traffic_Calming | A POI annotation which indicates presense of [traffic_calming](#) in a nearby location. ||
-| | Traffic_Signal | A POI annotation which indicates presense of [traffic_signal](#) in a nearby location. ||
-| | Turning_Loop | A POI annotation which indicates presense of [turning_loop](#) in a nearby location. ||
-| | Sunrise_Sunset |||
-| | Civil_Twilight |||
-| | Nautical_Twilight |||
-| | Astronomical_Twilight |||
+| | Amenity | A POI annotation which indicates presense of [amenity](#) in a nearby location. | No |
+| | Bump | A POI annotation which indicates presense of [bump](#) in a nearby location. | No |
+| | Crossing | A POI annotation which indicates presense of [crossing](#) in a nearby location. | No |
+| | Give_Way | A POI annotation which indicates presense of [given_way](#) in a nearby location. | No |
+| | Junction | A POI annotation which indicates presense of [junction](#) in a nearby location. | No |
+| | No_Exit| A POI annotation which indicates presense of [no_exit](#) in a nearby location. | No |
+| | Railway | A POI annotation which indicates presense of [railway](#) in a nearby location. | No |
+| | Roundabout | A POI annotation which indicates presense of [roundabout](#) in a nearby location. | No |
+| | Station | A POI annotation which indicates presense of [station](#) in a nearby location. | No |
+| | Stop | A POI annotation which indicates presense of [stop](#) in a nearby location. | No |
+| | Traffic_Calming | A POI annotation which indicates presense of [traffic_calming](#) in a nearby location. | No |
+| | Traffic_Signal | A POI annotation which indicates presense of [traffic_signal](#) in a nearby location. | No |
+| | Turning_Loop | A POI annotation which indicates presense of [turning_loop](#) in a nearby location. | No |
+| | Sunrise_Sunset | Shows the daylight condition (day or night) based on sunrise/sunset. | Yes |
+| | Civil_Twilight | Shows the daylight condition (day or night) based on [civil twilight](#). | Yes |
+| | Nautical_Twilight | Shows the daylight condition (day or night) based on [nautical twilight](#). | Yes |
+| | Astronomical_Twilight | Shows the daylight condition (day or night) based on [astronomical twilight](#). | Yes |
 
 
 ## Coverage
