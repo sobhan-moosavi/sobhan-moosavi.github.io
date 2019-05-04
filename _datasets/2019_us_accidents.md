@@ -58,19 +58,19 @@ The data is provided in terms of a __single CSV file__. Following table describe
 | | Wind_Speed (mph) | Shows wind speed in miles per hour. ||
 | | Precipitation () | Shows precipitation amount in ??, if there is any. ||
 | | Condition | Shows the weather condition (rain, snow, thunderstorm, fog, etc.) ||
-| | Amenity | A POI tag which indicates presense of [amenity annotation](#) in a nearby location. ||
-| | Bump | A POI tag which indicates presense of [bump annotation](#) in a nearby location. ||
-| | Crossing | A POI tag which indicates presense of [crossing annotation](#) in a nearby location. ||
-| | Give_Way | A POI tag which indicates presense of [given_way annotation](#) in a nearby location. ||
-| | Junction | A POI tag which indicates presense of [junction annotation](#) in a nearby location. ||
-| | No_Exit| A POI tag which indicates presense of [no_exit annotation](#) in a nearby location. ||
-| | Railway | A POI tag which indicates presense of [railway annotation](#) in a nearby location. ||
-| | Roundabout | A POI tag which indicates presense of [roundabout annotation](#) in a nearby location. ||
-| | Station | A POI tag which indicates presense of [station annotation](#) in a nearby location. ||
-| | Stop | A POI tag which indicates presense of [stop annotation](#) in a nearby location. ||
-| | Traffic_Calming | A POI tag which indicates presense of [traffic_calming annotation](#) in a nearby location. ||
-| | Traffic_Signal | A POI tag which indicates presense of [traffic_signal annotation](#) in a nearby location. ||
-| | Turning_Loop | A POI tag which indicates presense of [turning_loop annotation](#) in a nearby location. ||
+| | Amenity | A POI annotation which indicates presense of [amenity](#) in a nearby location. ||
+| | Bump | A POI annotation which indicates presense of [bump](#) in a nearby location. ||
+| | Crossing | A POI annotation which indicates presense of [crossing](#) in a nearby location. ||
+| | Give_Way | A POI annotation which indicates presense of [given_way](#) in a nearby location. ||
+| | Junction | A POI annotation which indicates presense of [junction](#) in a nearby location. ||
+| | No_Exit| A POI annotation which indicates presense of [no_exit](#) in a nearby location. ||
+| | Railway | A POI annotation which indicates presense of [railway](#) in a nearby location. ||
+| | Roundabout | A POI annotation which indicates presense of [roundabout](#) in a nearby location. ||
+| | Station | A POI annotation which indicates presense of [station](#) in a nearby location. ||
+| | Stop | A POI annotation which indicates presense of [stop](#) in a nearby location. ||
+| | Traffic_Calming | A POI annotation which indicates presense of [traffic_calming](#) in a nearby location. ||
+| | Traffic_Signal | A POI annotation which indicates presense of [traffic_signal](#) in a nearby location. ||
+| | Turning_Loop | A POI annotation which indicates presense of [turning_loop](#) in a nearby location. ||
 | | Sunrise_Sunset |||
 | | Civil_Twilight |||
 | | Nautical_Twilight |||
