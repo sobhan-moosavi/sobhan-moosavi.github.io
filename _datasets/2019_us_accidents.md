@@ -50,31 +50,31 @@ The data is provided in terms of a __single CSV file__. Following table describe
 | 18 | State | Shows the state in address field. | Yes |
 | 19 | ZipCode | Shows the zipcode in address field. | Yes |
 | 20 | Country | Shows the country in address field. | Yes |
-| 21 | Timezone | Shows the timezone based on the location of an accident. | Yes |
-| 22 | AirportCode | Shows the closest weather station to the reported accident. | Yes |
+| 21 | Timezone | Shows the timezone based on the location of an accident (eastern, central, etc.). | Yes |
+| 22 | AirportCode | Shows the closest airport-based weather station to the loction of accident. | Yes |
 | 23 | W_Timestamp | Shows the time-stamp of weather observation record in local time. ||
 | 24 | Temperature (F) | Shows the temperature in Fahrenheit. ||
 | 25 | Wind_Chill (F) | Shows the wind chill in Fahrenheit. ||
 | 26 | Humidity (%) | Shows the humidity in percentage. ||
-| 27 | Pressure (in) | Shows the air pressure in ??. ||
+| 27 | Pressure (in) | Shows the air pressure in inches. ||
 | 28 | Visibility (mi) | Shows visibility in miles. ||
 | 29 | Wind_Direction | Shows wind direction.  ||
 | 30 | Wind_Speed (mph) | Shows wind speed in miles per hour. ||
-| 31 | Precipitation (in) | Shows precipitation amount in ??, if there is any. ||
+| 31 | Precipitation (in) | Shows precipitation amount in inches, if there is any. ||
 | 32 | Condition | Shows the weather condition (rain, snow, thunderstorm, fog, etc.) ||
-| 33 | Amenity | A POI annotation which indicates presence of [amenity](#) in a nearby location. | No |
-| 34 | Bump | A POI annotation which indicates presence of [bump](#) in a nearby location. | No |
-| 35 | Crossing | A POI annotation which indicates presence of [crossing](#) in a nearby location. | No |
-| 36 | Give_Way | A POI annotation which indicates presence of [given_way](#) in a nearby location. | No |
-| 37 | Junction | A POI annotation which indicates presence of [junction](#) in a nearby location. | No |
-| 38 | No_Exit| A POI annotation which indicates presence of [no_exit](#) in a nearby location. | No |
-| 39 | Railway | A POI annotation which indicates presence of [railway](#) in a nearby location. | No |
-| 40 | Roundabout | A POI annotation which indicates presence of [roundabout](#) in a nearby location. | No |
-| 41 | Station | A POI annotation which indicates presence of [station](#) in a nearby location. | No |
-| 42 | Stop | A POI annotation which indicates presence of [stop](#) in a nearby location. | No |
-| 43 | Traffic_Calming | A POI annotation which indicates presence of [traffic_calming](#) in a nearby location. | No |
-| 44 | Traffic_Signal | A POI annotation which indicates presence of [traffic_signal](#) in a nearby location. | No |
-| 45 | Turning_Loop | A POI annotation which indicates presence of [turning_loop](#) in a nearby location. | No |
+| 33 | Amenity | A POI annotation which indicates presence of [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity) in a nearby location. | No |
+| 34 | Bump | A POI annotation which indicates presence of speed bump or hump in a nearby location. | No |
+| 35 | Crossing | A POI annotation which indicates presence of [crossing](https://wiki.openstreetmap.org/wiki/Key:crossing) in a nearby location. | No |
+| 36 | Give_Way | A POI annotation which indicates presence of [give_way](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dgive_way) in a nearby location. | No |
+| 37 | Junction | A POI annotation which indicates presence of [junction](https://wiki.openstreetmap.org/wiki/Key:junction) in a nearby location. | No |
+| 38 | No_Exit| A POI annotation which indicates presence of [no_exit](https://wiki.openstreetmap.org/wiki/Key:noexit) in a nearby location. | No |
+| 39 | Railway | A POI annotation which indicates presence of [railway](https://wiki.openstreetmap.org/wiki/Key:railway) in a nearby location. | No |
+| 40 | Roundabout | A POI annotation which indicates presence of [roundabout](https://wiki.openstreetmap.org/wiki/Tag:junction%3Droundabout) in a nearby location. | No |
+| 41 | Station | A POI annotation which indicates presence of [station](https://wiki.openstreetmap.org/wiki/Key:station) in a nearby location. | No |
+| 42 | Stop | A POI annotation which indicates presence of [stop](https://wiki.openstreetmap.org/wiki/Key:stop) in a nearby location. | No |
+| 43 | Traffic_Calming | A POI annotation which indicates presence of [traffic_calming](https://wiki.openstreetmap.org/wiki/Key:traffic_calming) in a nearby location. | No |
+| 44 | Traffic_Signal | A POI annotation which indicates presence of [traffic_signal](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dtraffic_signals) in a nearby location. | No |
+| 45 | Turning_Loop | A POI annotation which indicates presence of [turning_loop](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dturning_loop) in a nearby location. | No |
 | 46 | Sunrise_Sunset | Shows the daylight condition (day or night) based on sunrise/sunset. | Yes |
 | 47 | Civil_Twilight | Shows the daylight condition (day or night) based on [civil twilight](#). | Yes |
 | 48 | Nautical_Twilight | Shows the daylight condition (day or night) based on [nautical twilight](#). | Yes |
