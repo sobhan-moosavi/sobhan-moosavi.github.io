@@ -7,7 +7,7 @@ date: 2019-05-05
 ---
 
 ## Description 
-This is a countrywide traffic accident dataset, which covers 49 states of the United States. The data is continuously being collected from February 2016, using several data providers, including two APIs which provide streaming traffic event data. These APIs broadcast traffic events captured by a variety of entities, such as the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road-networks. Currently, ther are about 2.25 million accident records in this dataset. Check the below descriptions for more detailed information. 
+This is a countrywide traffic accident dataset, which covers 49 states of the United States. The data is continuously being collected from February 2016, using several data providers, including two APIs which provide streaming traffic event data. These APIs broadcast traffic events captured by a variety of entities, such as the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road-networks. Currently, there are about 2.25 million accident records in this dataset. Check the below descriptions for more detailed information. 
 
 ## Acknowledgment
 Please cite the following paper if you use this dataset:
