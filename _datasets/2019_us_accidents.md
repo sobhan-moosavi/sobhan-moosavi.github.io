@@ -2,12 +2,12 @@
 title: "US-Accidents: Countrywide Traffic Accident Dataset"
 collection: datastes
 permalink: /datasets/us_accidents
-excerpt: This is a countrywide motor-vehicle crash dataset, which covers 49 states of the United States. The data is continuously being collected from February 2016. Currently, there are 2.25 million accident records in this dataset. Each accident record is described by a variety of attributes including location, time, weather, nearby points-of-intertest etc. 
+excerpt: This is a countrywide motor-vehicle crash dataset, which covers 49 states of the United States. The data is continuously being collected from February 2016. Currently, there are 2.25 million accident records in this dataset. Each accident record is described by a variety of attributes including location, time, weather, and nearby points-of-intertest. 
 date: 2019-05-05
 ---
 
 ## Description 
-This is a countrywide traffic accident dataset, which covers 49 states of the United States. The data is continuously being collected from February 2016, using several data providers, including two APIs which provide streaming traffic event data. These APIs broadcast traffic events captured by a variety of entities, such as the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road-networks. Currently, ther are about 2.25 million accident records in this dataset. For more detailed information about this dataset, please read below descriptions.
+This is a countrywide traffic accident dataset, which covers 49 states of the United States. The data is continuously being collected from February 2016, using several data providers, including two APIs which provide streaming traffic event data. These APIs broadcast traffic events captured by a variety of entities, such as the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road-networks. Currently, ther are about 2.25 million accident records in this dataset. Check the below descriptions for more detailed information. 
 
 ## Acknowledgment
 Please cite the following paper if you use this dataset:
