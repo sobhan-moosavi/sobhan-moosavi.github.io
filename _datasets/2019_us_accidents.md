@@ -52,16 +52,16 @@ The data is provided in terms of a __single CSV file__. Following table describe
 | 20 | Country | Shows the country in address field. | Yes |
 | 21 | Timezone | Shows the timezone based on the location of an accident (eastern, central, etc.). | Yes |
 | 22 | AirportCode | Shows the closest airport-based weather station to the loction of accident. | Yes |
-| 23 | W_Timestamp | Shows the time-stamp of weather observation record in local time. ||
-| 24 | Temperature (F) | Shows the temperature in Fahrenheit. ||
-| 25 | Wind_Chill (F) | Shows the wind chill in Fahrenheit. ||
-| 26 | Humidity (%) | Shows the humidity in percentage. ||
-| 27 | Pressure (in) | Shows the air pressure in inches. ||
-| 28 | Visibility (mi) | Shows visibility in miles. ||
-| 29 | Wind_Direction | Shows wind direction.  ||
-| 30 | Wind_Speed (mph) | Shows wind speed in miles per hour. ||
-| 31 | Precipitation (in) | Shows precipitation amount in inches, if there is any. ||
-| 32 | Condition | Shows the weather condition (rain, snow, thunderstorm, fog, etc.) ||
+| 23 | W_Timestamp | Shows the time-stamp of weather observation record in local time. | Yes |
+| 24 | Temperature (F) | Shows the temperature in Fahrenheit. | Yes |
+| 25 | Wind_Chill (F) | Shows the wind chill in Fahrenheit. | Yes |
+| 26 | Humidity (%) | Shows the humidity in percentage. | Yes |
+| 27 | Pressure (in) | Shows the air pressure in inches. | Yes |
+| 28 | Visibility (mi) | Shows visibility in miles. | Yes |
+| 29 | Wind_Direction | Shows wind direction.  | Yes |
+| 30 | Wind_Speed (mph) | Shows wind speed in miles per hour. | Yes |
+| 31 | Precipitation (in) | Shows precipitation amount in inches, if there is any. | Yes |
+| 32 | Condition | Shows the weather condition (rain, snow, thunderstorm, fog, etc.) | Yes |
 | 33 | Amenity | A POI annotation which indicates presence of [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity) in a nearby location. | No |
 | 34 | Bump | A POI annotation which indicates presence of speed bump or hump in a nearby location. | No |
 | 35 | Crossing | A POI annotation which indicates presence of [crossing](https://wiki.openstreetmap.org/wiki/Key:crossing) in a nearby location. | No |
