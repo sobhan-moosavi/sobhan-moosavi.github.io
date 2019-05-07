@@ -51,7 +51,7 @@ The data is provided in terms of a __single CSV file__. Following table describe
 | 19 | ZipCode | Shows the zipcode in address field. | Yes |
 | 20 | Country | Shows the country in address field. | Yes |
 | 21 | Timezone | Shows the timezone based on the location of an accident (eastern, central, etc.). | Yes |
-| 22 | AirportCode | Denotes the airport-based weather station which is the closest ones to the loction of the accident. | Yes |
+| 22 | AirportCode | Denotes the airport-based weather station which is the closest one to the loction of the accident. | Yes |
 | 23 | W_Timestamp | Shows the time-stamp of weather observation record in local time. | Yes |
 | 24 | Temperature (F) | Shows the temperature in Fahrenheit. | Yes |
 | 25 | Wind_Chill (F) | Shows the wind chill in Fahrenheit. | Yes |
