@@ -31,25 +31,25 @@ The next version will be available by July 2019.
 The data is provided in terms of a __single CSV file__. Following table describes the data attributes: 
 
 | \# | Attribute | Description | Nullable |
-| 1 |:---------:|-------------|:--------:|
-| 2 | ID | This is the identifier of a record | No |
-| 3 | Source | Indicates the source of an event which is either T (traffic) or W (weather). | No |
-| 4 | Type | Shows the type of an event; examples are *rain*, *snow*, *accident*, etc. | No |
-| 5 | TMC | Each traffic event has a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code which provides a more detailed description on type of the event. | Yes |
-| 6 | Severity | Shows the severity of an event, wherever applicable. | Yes |
-| 7 | StartTime (UTC) | Shows the start time of an event in UTC time zone. | No |
-| 8 | EndTime (UTC) | Shows the end time of an event in UTC time zone. | No |
-| 9 | LocationLat | Shows the latitude in GPS coordinate (only for traffic event). | Yes |
-| 10 | LocationLng | Shows the longitude in GPS coordinate (only for traffic event). | Yes |
-| 11 | Distance (mi) | Shows the radius of impact (only for traffic event). | Yes |
-| 12 | AirportCode | Shows the airport station that a weather event is reported from, or the closest airport station to the location of a traffic event. | Yes |
-| 13 | Number | Shows the street number in address field (only for traffic event). | Yes |
-| 14 | Street | Shows the street name in address field (only for traffic event).  | Yes |
-| 15 | Side | Shows the relative side of a street (R/L) in address field (only for traffic event). | Yes |
-| 16 | City | Shows the city in address field. | Yes |
-| 17 | County | Shows the county in address field (only for traffic event). | Yes |
-| 18 | State | Shows the state in address field. | Yes |
-| 19 | ZipCode | Shows the zipcode in address field (only for traffic event). | Yes |
+|:-:|:---------:|-------------|:--------:|
+| 1 | ID | This is the identifier of a record | No |
+| 2 | Source | Indicates the source of an event which is either T (traffic) or W (weather). | No |
+| 3 | Type | Shows the type of an event; examples are *rain*, *snow*, *accident*, etc. | No |
+| 4 | TMC | Each traffic event has a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code which provides a more detailed description on type of the event. | Yes |
+| 5 | Severity | Shows the severity of an event, wherever applicable. | Yes |
+| 6 | StartTime (UTC) | Shows the start time of an event in UTC time zone. | No |
+| 7 | EndTime (UTC) | Shows the end time of an event in UTC time zone. | No |
+| 8 | LocationLat | Shows the latitude in GPS coordinate (only for traffic event). | Yes |
+| 9 | LocationLng | Shows the longitude in GPS coordinate (only for traffic event). | Yes |
+| 10 | Distance (mi) | Shows the radius of impact (only for traffic event). | Yes |
+| 11 | AirportCode | Shows the airport station that a weather event is reported from, or the closest airport station to the location of a traffic event. | Yes |
+| 12 | Number | Shows the street number in address field (only for traffic event). | Yes |
+| 13 | Street | Shows the street name in address field (only for traffic event).  | Yes |
+| 14 | Side | Shows the relative side of a street (R/L) in address field (only for traffic event). | Yes |
+| 15 | City | Shows the city in address field. | Yes |
+| 16 | County | Shows the county in address field (only for traffic event). | Yes |
+| 17 | State | Shows the state in address field. | Yes |
+| 18 | ZipCode | Shows the zipcode in address field (only for traffic event). | Yes |
 
 
 ## Description of Traffic Event Types
