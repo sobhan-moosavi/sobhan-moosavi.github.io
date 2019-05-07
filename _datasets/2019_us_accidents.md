@@ -30,8 +30,8 @@ The data is provided in terms of a __single CSV file__. Following table describe
 
 | \# | Attribute | Description | Nullable |
 |:------:|:---------:|-------------|:--------:|
-| 1 | ID | This is the unique identifier of the accident record | No |
-| 2 | Source | Indicates the source of the accident which can be MapQuest, Bing, or both. | No |
+| 1 | ID | This is the unique identifier of the accident record. | No |
+| 2 | Source | Indicates the source of the accident report (i.e. the API id). | No |
 | 3 | TMC | A traffic accident may have a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code which provides more detailed description of the event. | Yes |
 | 4 | Severity | Shows the severity of the accident (a number between 1 and 4). | No |
 | 5 | StartTime | Shows the start time of the accident in local time zone. | No |
@@ -40,18 +40,18 @@ The data is provided in terms of a __single CSV file__. Following table describe
 | 8 | Start_Lng | Shows the longitude in GPS coordinate of start point. | No |
 | 9 | End_Lat | Shows the latitude in GPS coordinate of end point. | Yes |
 | 10 | End_Lng | Shows the longitude in GPS coordinate of end point. | Yes |
-| 11 | Distance (mi) | Shows the radius of impact. | No |
+| 11 | Distance (mi) | Shows the radius of impact in miles. | No |
 | 12 | Description | Shows the natural language description of the accident. | No |
 | 13 | Number | Shows the street number in address field. | Yes |
 | 14 | Street | Shows the street name in address field.  | Yes |
-| 15 | Side | Shows the relative side of a street (R/L) in address field. | Yes |
+| 15 | Side | Shows the relative side of the street (Right/Left) in address field. | Yes |
 | 16 | City | Shows the city in address field. | Yes |
 | 17 | County | Shows the county in address field. | Yes |
 | 18 | State | Shows the state in address field. | Yes |
 | 19 | ZipCode | Shows the zipcode in address field. | Yes |
 | 20 | Country | Shows the country in address field. | Yes |
 | 21 | Timezone | Shows the timezone based on the location of an accident (eastern, central, etc.). | Yes |
-| 22 | AirportCode | Shows the closest airport-based weather station to the loction of accident. | Yes |
+| 22 | AirportCode | Denotes the airport-based weather station which is the closest ones to the loction of the accident. | Yes |
 | 23 | W_Timestamp | Shows the time-stamp of weather observation record in local time. | Yes |
 | 24 | Temperature (F) | Shows the temperature in Fahrenheit. | Yes |
 | 25 | Wind_Chill (F) | Shows the wind chill in Fahrenheit. | Yes |
@@ -76,9 +76,9 @@ The data is provided in terms of a __single CSV file__. Following table describe
 | 44 | Traffic_Signal | A POI annotation which indicates presence of [traffic_signal](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dtraffic_signals) in a nearby location. | No |
 | 45 | Turning_Loop | A POI annotation which indicates presence of [turning_loop](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dturning_loop) in a nearby location. | No |
 | 46 | Sunrise_Sunset | Shows the daylight condition (day or night) based on sunrise/sunset. | Yes |
-| 47 | Civil_Twilight | Shows the daylight condition (day or night) based on [civil twilight](#). | Yes |
-| 48 | Nautical_Twilight | Shows the daylight condition (day or night) based on [nautical twilight](#). | Yes |
-| 49 | Astronomical_Twilight | Shows the daylight condition (day or night) based on [astronomical twilight](#). | Yes |
+| 47 | Civil_Twilight | Shows the daylight condition (day or night) based on [civil twilight](https://en.wikipedia.org/wiki/Twilight#Civil_twilight). | Yes |
+| 48 | Nautical_Twilight | Shows the daylight condition (day or night) based on [nautical twilight](https://en.wikipedia.org/wiki/Twilight#Nautical_twilight). | Yes |
+| 49 | Astronomical_Twilight | Shows the daylight condition (day or night) based on [astronomical twilight](https://en.wikipedia.org/wiki/Twilight#Astronomical_twilight). | Yes |
 
 ## Applications of Dataset
 US-Accidents can be used for numerous applications such as real-time accident prediction, studying accident hotspot locations, casualty analysis and extracting cause and effect rules to predict accidents, or studying the impact of precipitation or other environmental stimuli on accident occurrence. 
