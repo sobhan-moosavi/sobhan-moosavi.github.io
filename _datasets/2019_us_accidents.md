@@ -31,7 +31,7 @@ The data is provided in terms of a __single CSV file__. Following table describe
 | \# | Attribute | Description | Nullable |
 |:------:|:---------:|-------------|:--------:|
 | 1 | ID | This is the unique identifier of the accident record. | No |
-| 2 | Source | Indicates the source of the accident report (i.e. the API id). | No |
+| 2 | Source | Indicates the source of the accident report (i.e. the API which reported the accident.). | No |
 | 3 | TMC | A traffic accident may have a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code which provides more detailed description of the event. | Yes |
 | 4 | Severity | Shows the severity of the accident (a number between 1 and 4). | No |
 | 5 | StartTime | Shows the start time of the accident in local time zone. | No |
