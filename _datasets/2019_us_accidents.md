@@ -1,5 +1,5 @@
 ---
-title: "US-Accidents: Countrywide Traffic Accident Dataset"
+title: "US-Accidents: A Countrywide Traffic Accident Dataset"
 collection: datastes
 permalink: /datasets/us_accidents
 excerpt: This is a countrywide motor-vehicle crash dataset, which covers 49 states of the United States. The data is continuously being collected from February 2016. Currently, there are 2.25 million accident records in this dataset. Each accident record is described by a variety of attributes including location, time, weather, and nearby points-of-intertest. 
