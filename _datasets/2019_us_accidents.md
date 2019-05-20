@@ -25,7 +25,7 @@ The next version will be available by October 2019.
 
 
 ## Coverage
-The dataset covers 49 US States. Following diagram shows the current data distribution over all the states. 
+The dataset covers 49 states of the US. Following diagram shows the current data distribution over all the states. 
 
 <div>
     <a href="https://plot.ly/~sobhan.mehr84/56/?share_key=1DRABIkkRy3m0entsonC4e" target="_blank" title="us_accident_frequency" style="display: block; text-align: center;"><img src="https://plot.ly/~sobhan.mehr84/56.png?share_key=1DRABIkkRy3m0entsonC4e" alt="us_accident_frequency" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
