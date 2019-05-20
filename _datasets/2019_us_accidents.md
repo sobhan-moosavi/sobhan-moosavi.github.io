@@ -34,13 +34,13 @@ The data is provided in terms of a __single CSV file__. Following table describe
 | 2 | Source | Indicates the source of the accident report (i.e. the API which reported the accident.). | No |
 | 3 | TMC | A traffic accident may have a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code which provides more detailed description of the event. | Yes |
 | 4 | Severity | Shows the severity of the accident (a number between 1 and 4). | No |
-| 5 | StartTime | Shows the start time of the accident in local time zone. | No |
-| 6 | EndTime | Shows the end time of the accident in local time zone. | No |
+| 5 | Start_Time | Shows the start time of the accident in local time zone. | No |
+| 6 | End_Time | Shows the end time of the accident in local time zone. | No |
 | 7 | Start_Lat | Shows the latitude in GPS coordinate of start point. | No |
 | 8 | Start_Lng | Shows the longitude in GPS coordinate of start point. | No |
 | 9 | End_Lat | Shows the latitude in GPS coordinate of end point. | Yes |
 | 10 | End_Lng | Shows the longitude in GPS coordinate of end point. | Yes |
-| 11 | Distance (mi) | Shows the radius of impact in miles. | No |
+| 11 | Distance(mi) | The length of the road extent affected by the accident. | No |
 | 12 | Description | Shows the natural language description of the accident. | No |
 | 13 | Number | Shows the street number in address field. | Yes |
 | 14 | Street | Shows the street name in address field.  | Yes |
@@ -48,20 +48,20 @@ The data is provided in terms of a __single CSV file__. Following table describe
 | 16 | City | Shows the city in address field. | Yes |
 | 17 | County | Shows the county in address field. | Yes |
 | 18 | State | Shows the state in address field. | Yes |
-| 19 | ZipCode | Shows the zipcode in address field. | Yes |
+| 19 | Zipcode | Shows the zipcode in address field. | Yes |
 | 20 | Country | Shows the country in address field. | Yes |
 | 21 | Timezone | Shows the timezone based on the location of an accident (eastern, central, etc.). | Yes |
-| 22 | AirportCode | Denotes the airport-based weather station which is the closest one to the loction of the accident. | Yes |
-| 23 | W_Timestamp | Shows the time-stamp of weather observation record in local time. | Yes |
-| 24 | Temperature (F) | Shows the temperature in Fahrenheit. | Yes |
-| 25 | Wind_Chill (F) | Shows the wind chill in Fahrenheit. | Yes |
-| 26 | Humidity (%) | Shows the humidity in percentage. | Yes |
-| 27 | Pressure (in) | Shows the air pressure in inches. | Yes |
-| 28 | Visibility (mi) | Shows visibility in miles. | Yes |
-| 29 | Wind_Direction | Shows wind direction.  | Yes |
-| 30 | Wind_Speed (mph) | Shows wind speed in miles per hour. | Yes |
-| 31 | Precipitation (in) | Shows precipitation amount in inches, if there is any. | Yes |
-| 32 | Condition | Shows the weather condition (rain, snow, thunderstorm, fog, etc.) | Yes |
+| 22 | Airport_Code | Denotes the airport-based weather station which is the closest one to the location of the accident. | Yes |
+| 23 | Weather_Timestamp | Shows the time-stamp of weather observation record in local time. | Yes |
+| 24 | Temperature(F) | Shows the temperature in Fahrenheit. | Yes |
+| 25 | Wind_Chill(F) | Shows the wind chill in Fahrenheit. | Yes |
+| 26 | Humidity(%) | Shows the humidity in percentage. | Yes |
+| 27 | Pressure(in) | Shows the air pressure in inches. | Yes |
+| 28 | Visibility(mi) | Shows visibility in miles. | Yes |
+| 29 | Wind_Direction | Shows wind direction. | Yes |
+| 30 | Wind_Speed(mph) | Shows wind speed in miles per hour. | Yes |
+| 31 | Precipitation(in) | Shows precipitation amount in inches, if there is any. | Yes |
+| 32 | Weather_Condition | Shows the weather condition (rain, snow, thunderstorm, fog, etc.) | Yes |
 | 33 | Amenity | A POI annotation which indicates presence of [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity) in a nearby location. | No |
 | 34 | Bump | A POI annotation which indicates presence of speed bump or hump in a nearby location. | No |
 | 35 | Crossing | A POI annotation which indicates presence of [crossing](https://wiki.openstreetmap.org/wiki/Key:crossing) in a nearby location. | No |
