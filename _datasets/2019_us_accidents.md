@@ -93,5 +93,5 @@ The data is provided in terms of a __single CSV file__. Following table describe
 US-Accidents can be used for numerous applications such as real-time accident prediction, studying accident hotspot locations, casualty analysis and extracting cause and effect rules to predict accidents, or studying the impact of precipitation or other environmental stimuli on accident occurrence. 
 
 <br><br>
-<a href='http://www.freevisitorcounters.com'>Page Visits</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=df0624c8e0b692bb94e5d8991841cd251423126f'></script>
+<p style="color:transparent;"> <a href='http://www.freevisitorcounters.com'>Page Visits</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=df0624c8e0b692bb94e5d8991841cd251423126f'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/529663/t/5"></script>
