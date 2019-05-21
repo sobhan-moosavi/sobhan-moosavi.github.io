@@ -71,8 +71,8 @@ The data is provided in terms of a __single CSV file__. Following table describe
 | 30 | Wind_Speed(mph) | Shows wind speed (in miles per hour). | Yes |
 | 31 | Precipitation(in) | Shows precipitation amount in inches, if there is any. | Yes |
 | 32 | Weather_Condition | Shows the weather condition (rain, snow, thunderstorm, fog, etc.) | Yes |
-| 33 | Amenity | A POI annotation which indicates presence of [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity) in a nearby location. | No |
-| 34 | Bump | A [POI](https://wiki.openstreetmap.org/wiki/Points_of_interest) annotation which indicates presence of speed bump or hump in a nearby location. | No |
+| 33 | Amenity | A [POI](https://wiki.openstreetmap.org/wiki/Points_of_interest) annotation which indicates presence of [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity) in a nearby location. | No |
+| 34 | Bump | A POI annotation which indicates presence of speed bump or hump in a nearby location. | No |
 | 35 | Crossing | A POI annotation which indicates presence of [crossing](https://wiki.openstreetmap.org/wiki/Key:crossing) in a nearby location. | No |
 | 36 | Give_Way | A POI annotation which indicates presence of [give_way](https://wiki.openstreetmap.org/wiki/Tag:highway%3Dgive_way) in a nearby location. | No |
 | 37 | Junction | A POI annotation which indicates presence of [junction](https://wiki.openstreetmap.org/wiki/Key:junction) in a nearby location. | No |
