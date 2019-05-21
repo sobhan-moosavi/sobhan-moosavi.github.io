@@ -35,7 +35,7 @@ The dataset covers 49 states of the US. Following diagram shows the current data
 
 
 ## Format
-The data is provided in terms of a CSV file. Following table describes the data attributes (visit the [paper](#) to learn more about these attributes and how we obtained them): 
+The data is provided in terms of a CSV file. Following table describes the data attributes (visit our [paper](#) to learn more about these attributes and how we obtained them): 
 
 | \# | Attribute | Description | Nullable |
 |:------:|:---------:|-------------|:--------:|
