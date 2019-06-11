@@ -16,7 +16,7 @@ I am a PhD candidate in Computer Science at the Ohio State University (started i
 
 * Sun, Jiankai, Sobhan Moosavi, Rajiv Ramnath, and Srinivasan Parthasarathy. "[QDEE: Question Difficulty and Expertise Estimation in Community Question Answering Sites.](https://arxiv.org/abs/1804.00109)" Proceedings of the 12th AAAI ICWSM, International Conference on Web and Social Media. AAAI, 2018. 
 
-Please check my [Google Scholar page](https://scholar.google.com/citations?user=9utxd9gAAAAJ&hl=en) to see the latest publications. 
+Please check my [Google Scholar page](https://scholar.google.com/citations?user=9utxd9gAAAAJ&hl=en) to see the full list publications. 
 
 ## Latest Datasets
 Please check [here](https://smoosavi.org/datasets/) to see the latest relseased datasets. 
