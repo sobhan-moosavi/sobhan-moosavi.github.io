@@ -12,7 +12,7 @@ This is a countrywide traffic accident dataset, which covers 49 states of the Un
 ## Acknowledgment
 Please cite the following paper if you use this dataset:
 
-* Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. ["A Countrywide Traffic Accident Dataset."](#), 2019. 
+* Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. ["A Countrywide Traffic Accident Dataset."](https://arxiv.org/abs/1906.05409), 2019. 
 
 ## Usage Policy and Legal Disclaimer
 This dataset is being distributed only for __Research__ purposes, under [Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"}. By clicking on download button(s) below, you are agreeing to use this data only for non-commercial, research, or academic applications. 
@@ -35,7 +35,7 @@ The dataset covers 49 states of the US. Following diagram shows the current data
 
 
 ## Format
-The data is provided in terms of a CSV file. Following table describes the data attributes (visit our [paper](#) to learn more about these attributes and how we obtained them): 
+The data is provided in terms of a CSV file. Following table describes the data attributes (visit our [paper](https://arxiv.org/abs/1906.05409) to learn more about these attributes and how we obtained them): 
 
 | \# | Attribute | Description | Nullable |
 |:------:|:---------:|-------------|:--------:|
