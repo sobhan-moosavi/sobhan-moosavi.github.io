@@ -25,7 +25,7 @@ This dataset is being distributed only for __Research__ purposes, under [Creativ
 
 * __Version 2 (June 2019):__ In this version, we provide data which is collected from August 2016 to the end of June 2019 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this set, we have about 21.3 million traffic and 3.8 million weather event records. Download data from [here](https://osu.app.box.com/v/lstw-traffic-weather-v2){:target="_blank"}. 
 
-Note that data format is different between the version 1 and 2 of the dataset. The next version will be available by December 2019. 
+Note that the data format is changed from version 1 to version 2 (some fields are added). The next version will be available by December 2019. 
 
 
 ## Format
@@ -38,7 +38,7 @@ The data is provided in terms of a __single CSV file__. Following table describe
 | 3 | Type | The type of an event; examples are *rain*, *snow*, *accident*, etc. | No |
 | 4 | Severity | The severity of an event, wherever applicable. | Yes |
 | 5 | TMC | Each traffic event has a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code which provides a more detailed description on type of the event. | Yes |
-| 6 | Description | The naturan language description of an event (only for traffic event). | Yes |
+| 6 | Description | The natural language description of an event (only for traffic event). | Yes |
 | 7 | StartTime (UTC) | The start time of an event in UTC time zone. | No |
 | 8 | EndTime (UTC) | The end time of an event in UTC time zone. | No |
 | 9 | TimeZone | The US-based timezone based on the location of an event (eastern, central, mountain, and pacific). | No |
@@ -46,13 +46,13 @@ The data is provided in terms of a __single CSV file__. Following table describe
 | 11 | LocationLng | The longitude in GPS coordinate. | Yes |
 | 12 | Distance (mi) | The length of the road extent affected by the event (only for traffic event). | Yes |
 | 13 | AirportCode | The airport station that a weather event is reported from, or the closest airport station to the location of a traffic event. | Yes |
-| 14 | Number | The street number in address field (only for traffic event). | Yes |
-| 15 | Street | The street name in address field (only for traffic event).  | Yes |
-| 16 | Side | The relative side of a street (R/L) in address field (only for traffic event). | Yes |
-| 17 | City | The city in address field. | Yes |
-| 18 | County | The county in address field. | Yes |
-| 19 | State | The state in address field. | Yes |
-| 20 | ZipCode | The zipcode in address field. | Yes |
+| 14 | Number | The street number in address record (only for traffic event). | Yes |
+| 15 | Street | The street name in address record (only for traffic event).  | Yes |
+| 16 | Side | The relative side of a street (R/L) in address record (only for traffic event). | Yes |
+| 17 | City | The city in address record. | Yes |
+| 18 | County | The county in address record. | Yes |
+| 19 | State | The state in address record. | Yes |
+| 20 | ZipCode | The zipcode in address record. | Yes |
 
 
 ## Description of Traffic Event Types
@@ -90,7 +90,7 @@ Weather event is a spatiotemporal entity, where such entity is associated with l
 | Rain | The case of having rain. | Light, Moderate, and Heavy |
 | Snow | The case of having snow. | Light, Moderate, and Heavy |
 | Storm | The extremely windy condition, where the wind speed is at least *60 kmh*. | Severe |
-| Other Precipitation | Any other type of of precipitation which cannot be assigned to previously described event types. | N/A |
+| Other Precipitation | Any other type of precipitation which cannot be assigned to previously described event types. | N/A |
 -->
 
 * __Severe-Cold__: The case of having extremely low temperature, with temperature below *-23.7* degrees of Celsius. 
@@ -99,7 +99,7 @@ Weather event is a spatiotemporal entity, where such entity is associated with l
 * __Rain__: The case of having rain, ranging from light to heavy. 
 * __Snow__: The case of having snow, ranging from light to heavy. 
 * __Storm__: The extremely windy condition, where the wind speed is at least *60 kmh*. 
-* __Other Precipitation__: Any other type of of precipitation which cannot be assigned to previously described event types.
+* __Other Precipitation__: Any other type of precipitation which cannot be assigned to previously described event types.
 
 Visit [our paper](https://arxiv.org/abs/1902.06792){:target="_blank"} to learn how we determine type and severity of weather events. 
 
@@ -143,7 +143,7 @@ Similarly, current distribution of __weather__ event types is shown in below dia
 
 
 ## Applications of Dataset
-This dataset can be used for plenty of purposes such as traffic analysis and prediction, impact prediction, accident prediction,  routing engine optimization, travel time estimation, and many other research applications. 
+This dataset can be used for plenty of purposes such as traffic analysis and prediction, impact prediction, accident prediction, routing engine optimization, travel time estimation, and many other research applications. 
 
 <br><br>
 <p style="color:transparent;"> <a href='https://www.stat-counter.org/'>Page Visits</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=cb0c83df897583dfb6d8272b30d1adf869fb7ecd'></script>
