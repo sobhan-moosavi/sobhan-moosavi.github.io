@@ -3,8 +3,8 @@ title: "LSTW: Large-Scale Traffic and Weather Events Dataset"
 collection: datastes
 permalink: /datasets/lstw
 redirect_from: /datasets/2019_traffic_weather_events
-excerpt: This dataset contains country-wide traffic and weather events, which are continuously being collected for the United States from August 2016. Examples of a traffic event are *accident*, *congestion*, and *construction*. Examples of a weather event are *rain*, *snow*, and *storm*. Currently there are more than 15 million instances of traffic and weather events in this dataset. 
-date: 2019-02-03
+excerpt: This dataset contains country-wide traffic and weather events, which are continuously being collected for the United States from August 2016. Examples of a traffic event are *accident*, *congestion*, and *construction*. Examples of a weather event are *rain*, *snow*, and *storm*. Currently there are more than 25 million instances of traffic and weather events in this dataset. 
+date: 2019-07-30
 ---
 ## Description 
 LSTW is a large-scale, country-wide dataset for transportation and traffic research, which contains traffic and weather event data for the United States. In terms of traffic, we have several types of events including accident, congestion, construction, etc. In terms of weather events, we have several types including rain, snow, storm, cold weather event, etc. This dataset is _continuously_ being collected from August 2016. For more detailed information about this dataset, please read below descriptions. 
@@ -33,24 +33,26 @@ The data is provided in terms of a __single CSV file__. Following table describe
 
 | \# | Attribute | Description | Nullable |
 |:-:|:---------:|-------------|:--------:|
-| 1 | ID | This is the identifier of a record | No |
+| 1 | EventId | This is the identifier of a record | No |
 | 2 | Source | Indicates the source of an event which is either T (traffic) or W (weather). | No |
 | 3 | Type | The type of an event; examples are *rain*, *snow*, *accident*, etc. | No |
-| 4 | TMC | Each traffic event has a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code which provides a more detailed description on type of the event. | Yes |
-| 5 | Severity | The severity of an event, wherever applicable. | Yes |
-| 6 | StartTime (UTC) | The start time of an event in UTC time zone. | No |
-| 7 | EndTime (UTC) | The end time of an event in UTC time zone. | No |
-| 8 | LocationLat | The latitude in GPS coordinate (only for traffic event). | Yes |
-| 9 | LocationLng | The longitude in GPS coordinate (only for traffic event). | Yes |
-| 10 | Distance (mi) | The length of the road extent affected by the event (only for traffic event). | Yes |
-| 11 | AirportCode | The airport station that a weather event is reported from, or the closest airport station to the location of a traffic event. | Yes |
-| 12 | Number | The street number in address field (only for traffic event). | Yes |
-| 13 | Street | The street name in address field (only for traffic event).  | Yes |
-| 14 | Side | The relative side of a street (R/L) in address field (only for traffic event). | Yes |
-| 15 | City | The city in address field. | Yes |
-| 16 | County | The county in address field (only for traffic event). | Yes |
-| 17 | State | The state in address field. | Yes |
-| 18 | ZipCode | The zipcode in address field (only for traffic event). | Yes |
+| 4 | Severity | The severity of an event, wherever applicable. | Yes |
+| 5 | TMC | Each traffic event has a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code which provides a more detailed description on type of the event. | Yes |
+| 6 | Description | The naturan language description of an event (only for traffic event). | Yes |
+| 7 | StartTime (UTC) | The start time of an event in UTC time zone. | No |
+| 8 | EndTime (UTC) | The end time of an event in UTC time zone. | No |
+| 9 | TimeZone | The US-based timezone based on the location of an event (eastern, central, mountain, and pacific). | No |
+| 10 | LocationLat | The latitude in GPS coordinate. | Yes |
+| 11 | LocationLng | The longitude in GPS coordinate. | Yes |
+| 12 | Distance (mi) | The length of the road extent affected by the event (only for traffic event). | Yes |
+| 13 | AirportCode | The airport station that a weather event is reported from, or the closest airport station to the location of a traffic event. | Yes |
+| 14 | Number | The street number in address field (only for traffic event). | Yes |
+| 15 | Street | The street name in address field (only for traffic event).  | Yes |
+| 16 | Side | The relative side of a street (R/L) in address field (only for traffic event). | Yes |
+| 17 | City | The city in address field. | Yes |
+| 18 | County | The county in address field. | Yes |
+| 19 | State | The state in address field. | Yes |
+| 20 | ZipCode | The zipcode in address field. | Yes |
 
 
 ## Description of Traffic Event Types
