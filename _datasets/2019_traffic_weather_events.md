@@ -9,7 +9,8 @@ date: 2019-07-30
 ## Description 
 LSTW is a large-scale, country-wide dataset for transportation and traffic research, which contains traffic and weather event data for the United States. In terms of traffic, we have several types of events including accident, congestion, construction, etc. In terms of weather events, we have several types including rain, snow, storm, cold weather event, etc. This dataset is _continuously_ being collected from August 2016. For more detailed information about this dataset, please read below descriptions. 
 
-![this is a sample gif](/files/BayArea.gif)
+![](/files/BayArea.gif)
+*Frequency distribution of traffic events in Bay Area from August 2016 to June 2019 using Kepler.gl*
 
 ## Acknowledgment
 Please cite the following paper if you use this dataset:
