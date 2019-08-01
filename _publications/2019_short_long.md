@@ -15,8 +15,10 @@ This paper is a new framework to discovery short and long-term patterns over geo
 
 [Download paper here](https://arxiv.org/pdf/1804.00109.pdf)
 
-[Access Code here](https://github.com/sobhan-moosavi/ShortLongTerm)
+[Access code here](https://github.com/sobhan-moosavi/ShortLongTerm)
 
 [Watch the promotional video here](https://www.youtube.com/watch?v=FhWO_uTf2Ho)
 
 [Download poster presented at KDD here](#)
+
+[Access list of all 90 unique propagation (short-term) patterns here](https://github.com/sobhan-moosavi/ShortLongTerm/blob/master/files/All_Short_Term_Patterns.pdf)
