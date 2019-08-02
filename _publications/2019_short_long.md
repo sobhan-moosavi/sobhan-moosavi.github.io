@@ -13,7 +13,7 @@ __Sobhan Moosavi__, Mohammad Hossein Samavatian, Arnab Nandi, Srinivasan Parthas
 ## Summary and Download 
 This paper is a new framework to discovery short and long-term patterns over geo-spatiotemporal data (e.g. traffic, weather, etc.). Short-term patterns show propagation of geo-spatiotemporal entities which cause other entities to happen (e.g. _rain --> accident --> traffic jam_). Long-term patterns show influence of a temporally long-term entitiy on its spatiotemporal neighbhorhood (e.g. _major construction --> more traffic issue_). 
 
-[Download __paper__ _here_](https://arxiv.org/pdf/1804.00109.pdf)
+[Download __paper__ _here_](https://arxiv.org/pdf/1902.06792.pdf)
 
 [Access __code__ _here_](https://github.com/sobhan-moosavi/ShortLongTerm)
 
