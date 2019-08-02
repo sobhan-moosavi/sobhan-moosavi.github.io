@@ -21,4 +21,4 @@ This paper is a new framework to discovery short and long-term patterns over geo
 
 [Download __poster__ presented at KDD _here_](/files/KDD2019-SobhanMoosavi-Poster.pdf)
 
-[Access list of all __90 unique propagation (short-term) patterns__ _here_](/files/All_Short_Term_Patterns.pdf)
+[Access list of all __90 unique propagation (short-term) patterns__ _here_](https://github.com/sobhan-moosavi/ShortLongTerm/tree/master/files/All_Short_Term_Patterns.pdf)
