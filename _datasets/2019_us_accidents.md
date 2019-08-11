@@ -21,7 +21,7 @@ This dataset is being distributed only for __Research__ purposes, under [Creativ
 ## Download
 * __Version 1 (May 2019):__ In this version, we provide data which is collected from February 2016 to March 2019 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this set, we have about 2.25 million traffic accidents. Download data from [here](https://osu.app.box.com/v/us-accidents){:target="_blank"}. 
 
-The next version will be available by October 2019. 
+The next version will be available by December 2019. 
 
 
 ## Coverage
