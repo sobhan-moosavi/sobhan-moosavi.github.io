@@ -7,14 +7,15 @@ date: 2019-05-01
 venue: 'The 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD 2019). (Anchorage, AK)'
 paperurl: 'https://arxiv.org/pdf/1902.06792.pdf'
 ---
+
+<iframe src="https://www.youtube.com/embed/FhWO_uTf2Ho" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+
 ## Authors 
 __Sobhan Moosavi__, Mohammad Hossein Samavatian, Arnab Nandi, Srinivasan Parthasarathy, Rajiv Ramnath
 
 ## Summary and Download 
 This paper is a new framework to discovery short and long-term patterns over geo-spatiotemporal data (e.g. traffic, weather, etc.). Short-term patterns show propagation of geo-spatiotemporal entities which cause other entities to happen (e.g. _rain --> accident --> traffic jam_). Long-term patterns show influence of a temporally long-term entitiy on its spatiotemporal neighbhorhood (e.g. _major construction --> more traffic issue_). 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FhWO_uTf2Ho" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br>
 
 [Download __paper__ _here_](https://arxiv.org/pdf/1902.06792.pdf)
 
