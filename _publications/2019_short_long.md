@@ -28,4 +28,4 @@ This paper is a new framework to discovery short and long-term patterns over geo
 [Access list of all __90 unique propagation (short-term) patterns__ _here_](https://github.com/sobhan-moosavi/ShortLongTerm/tree/master/files/All_Short_Term_Patterns.pdf)
 
 ## Recognition and Awards
-This paper received the best paper award in the [2nd Workshop on Data-driven Intelligent Transportation (DIT 2019)](http://dm.ist.psu.edu/dit2019/), jointly held with the ACM SIGKDD 2019. 
+This paper received the best poster award in the [2nd Workshop on Data-driven Intelligent Transportation (DIT 2019)](http://dm.ist.psu.edu/dit2019/), jointly held with the ACM SIGKDD 2019. 
