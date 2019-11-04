@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019_accident_prediction/
 excerpt: This paper is a new solution for real-time accident prediction based on heterogeneous data such as traffic, weather, and points-of-interest. 
 date: 2019-05-01
-venue: '[The 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL 2019). (Chicago, IL)](https://sigspatial2019.sigspatial.org/)'
+venue: 'The 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL 2019). (Chicago, IL)'
 paperurl: 'https://arxiv.org/pdf/1909.09638.pdf'
 ---
 
