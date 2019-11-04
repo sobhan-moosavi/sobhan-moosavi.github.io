@@ -3,7 +3,7 @@ title: "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset
 collection: publications
 permalink: /publication/2019_accident_prediction/
 excerpt: This paper is a new solution for real-time accident prediction based on heterogeneous data such as traffic, weather, and points-of-interest. 
-date: 2019-05-01
+date: 2019-08-22
 venue: 'The 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL 2019). (Chicago, IL)'
 paperurl: 'https://arxiv.org/pdf/1909.09638.pdf'
 ---
