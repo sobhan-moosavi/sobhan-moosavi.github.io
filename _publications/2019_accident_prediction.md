@@ -21,4 +21,4 @@ This paper is a new solution for real-time traffic accident prediction based on 
 
 [Access __code__ _here_](https://github.com/mhsamavatian/DAP)
 
-[Download __slides__ presented at SIGSPATIAL _here_]("/files/Accident Risk Prediction.pdf")
+[Download __slides__ presented at SIGSPATIAL _here_](/files/Accident Risk Prediction.pdf)
