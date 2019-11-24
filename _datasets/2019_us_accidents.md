@@ -44,7 +44,7 @@ The data is provided in terms of a CSV file. Following table describes the data 
 | 1 | ID | This is a unique identifier of the accident record. | No |
 | 2 | Source | Indicates source of the accident report (i.e. the API which reported the accident.). | No |
 | 3 | TMC | A traffic accident may have a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code which provides more detailed description of the event. | Yes |
-| 4 | Severity | Shows severity of the accident, a number between 1 and 4, where 1 indicates the least impact on traffic (i.e., short delay as result of accident) and 4 indicates the huge impact on traffic (i.e., long delay). | No |
+| 4 | Severity | Shows the severity of the accident, a number between 1 and 4, where 1 indicates the least impact on traffic (i.e., short delay as a result of the accident) and 4 indicates the huge impact on traffic (i.e., long delay). | No |
 | 5 | Start_Time | Shows start time of the accident in local time zone. | No |
 | 6 | End_Time | Shows end time of the accident in local time zone. | No |
 | 7 | Start_Lat | Shows latitude in GPS coordinate of the start point. | No |
