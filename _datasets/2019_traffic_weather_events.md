@@ -38,7 +38,7 @@ The data is provided in terms of a __single CSV file__. Following table describe
 | 1 | EventId | This is the identifier of a record | No |
 | 2 | Source | Indicates the source of an event which is either T (traffic) or W (weather). | No |
 | 3 | Type | The type of an event; examples are *rain*, *snow*, *accident*, etc. | No |
-| 4 | Severity | The severity of an event, wherever applicable. | Yes |
+| 4 | Severity | The severity of an event, wherever applicable. For a traffic event, severity is a number between 1 and 4, where 1 indicates the least impact on traffic (i.e., short delay as a result of the event) and 4 indicates a significant impact on traffic (i.e., long delay). | Yes |
 | 5 | TMC | Each traffic event has a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code which provides a more detailed description on type of the event. | Yes |
 | 6 | Description | The natural language description of an event (only for traffic event). | Yes |
 | 7 | StartTime (UTC) | The start time of an event in UTC time zone. | No |
