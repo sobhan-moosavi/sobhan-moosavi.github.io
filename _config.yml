@@ -84,7 +84,7 @@ author:
   avatar           : "Sobhan_photo.png"
   bio              : "I am a Research Scientist at Lyft"
   location         : "San Francisco, CA"
-  employer         : "Lyft"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=9utxd9gAAAAJ&hl=en"
   email            : "moosavi.3@osu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
