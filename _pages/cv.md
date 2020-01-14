@@ -11,19 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, [Ohio State University](https://osu.edu){:target="_blank"}, Columbus, Ohio (2014 -- Ongoing)
+* Ph.D in Computer Science, [Ohio State University](https://osu.edu){:target="_blank"}, Columbus, Ohio (2014 -- 2019)
 * M.S. in Computer Software Engineering, [University of Tehran](https://ut.ac.ir/en){:target="_blank"}, Tehran, Iran (2009 -- 2012)
 * B.S. in Computer Science, [Shahid Beheshti University](http://en.sbu.ac.ir/SitePages/Home.aspx){:target="_blank"}, Tehran, Iran (2005 -- 2009)
 
 Work Experiences
 ======
+* __[Lyft Inc.](https://www.lyft.com){:target="_blank"}__, San Francisco, CA (January 2019 -- Present)
+  * Title: Research Scientist
+  * Team: Mapping
+
 * __[Lyft Inc.](https://www.lyft.com){:target="_blank"}__, San Francisco, CA (Summer 2018)
   * Title: Research Science Internship
   * Project: Travel time estimation using deep neural network architectures
   * Manager: [Nicholas Chamandy](https://www.linkedin.com/in/nicholas-chamandy-31672b30/){:target="_blank"} 
   * Mentor: [Amir Bar](https://www.linkedin.com/in/amir-bar-bracha-6080545/){:target="_blank"} 
 
-* __[Nationwide Insurance](https://www.nationwide.com/){:target="_blank"}__, Columbus, OH (Summers 2015, 2016, and 2017)
+* __[Nationwide Insurance](https://www.nationwide.com/){:target="_blank"}__, Columbus, OH (Summers 2015, 2016, 2017, and 2019)
   * Title: Data Science Internship
   * Project 1: Telematics data analysis and profiling
   * Project 2: Analysis of driving behavior by trajectory segmentation and causality analysis 
