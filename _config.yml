@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Sobhan Moosavi"
   avatar           : "Sobhan_photo.png"
-  bio              : "I am a PhD candidate in Computer Science at the Ohio State University"
-  location         : "Columbus, OH"
-  employer         : "The Ohio State University"
+  bio              : "I am a Research Scientist at Lyft"
+  location         : "San Francisco, CA"
+  employer         : "The Lyft"
   googlescholar    : "https://scholar.google.com/citations?user=9utxd9gAAAAJ&hl=en"
   email            : "moosavi.3@osu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
