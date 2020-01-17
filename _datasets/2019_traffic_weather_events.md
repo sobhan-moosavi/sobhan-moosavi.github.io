@@ -30,47 +30,8 @@ This dataset is being distributed only for __Research__ purposes, under [Creativ
 The next version will be available by December 2019. 
 
 
-## Format
-The data is provided in terms of a __single CSV file__. Following table describes the data attributes: 
-
-| \# | Attribute | Description | Nullable |
-|:-:|:---------:|-------------|:--------:|
-| 1 | EventId | This is the identifier of a record | No |
-| 2 | Source | Indicates the source of an event which is either T (traffic) or W (weather). | No |
-| 3 | Type | The type of an event; examples are *rain*, *snow*, *accident*, etc. | No |
-| 4 | Severity | The severity of an event, wherever applicable. For a traffic event, severity is a number between 1 and 4, where 1 indicates the least impact on traffic (i.e., short delay as a result of the event) and 4 indicates a significant impact on traffic (i.e., long delay). | Yes |
-| 5 | TMC | Each traffic event has a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code which provides a more detailed description on type of the event. | Yes |
-| 6 | Description | The natural language description of an event (only for traffic event). | Yes |
-| 7 | StartTime (UTC) | The start time of an event in UTC time zone. | No |
-| 8 | EndTime (UTC) | The end time of an event in UTC time zone. | No |
-| 9 | TimeZone | The US-based timezone based on the location of an event (eastern, central, mountain, and pacific). | No |
-| 10 | LocationLat | The latitude in GPS coordinate. | Yes |
-| 11 | LocationLng | The longitude in GPS coordinate. | Yes |
-| 12 | Distance (mi) | The length of the road extent affected by the event (only for traffic event). | Yes |
-| 13 | AirportCode | The airport station that a weather event is reported from, or the closest airport station to the location of a traffic event. | Yes |
-| 14 | Number | The street number in address record (only for traffic event). | Yes |
-| 15 | Street | The street name in address record (only for traffic event).  | Yes |
-| 16 | Side | The relative side of a street (R/L) in address record (only for traffic event). | Yes |
-| 17 | City | The city in address record. | Yes |
-| 18 | County | The county in address record. | Yes |
-| 19 | State | The state in address record. | Yes |
-| 20 | ZipCode | The zipcode in address record. | Yes |
-
-
-## Description of Traffic Event Types
+## Traffic Events
 Traffic event is a spatiotemporal entity, where such entity is associated with location and time. Following is the description of available traffic event types:
-
-<!--table describes different types of traffic event in our dataset. Visit [our paper](https://arxiv.org/abs/1902.06792){:target="_blank"} to learn how we determine severity of traffic events.
-| Type | Description | Severity |
-|------|-------------|----------|
-| Accident | A traffic accident which can involve one or more vehicles. | N/A |
-| Broken-Vehicle | Refers to the situation when there is one (or more) disabled vehicle(s) in a road. | N/A |
-| Congestion | Refers to the situation when the speed of traffic is lower than the expected speed. | Slow, Moderate, Fast |
-| Construction | Refers to an on-going construction or re-paring project in a road. | Short, Long |
-| Event | Refers to the situations such as *sport event*, *concert*, and *demonstration*. | Short, Long|
-| Lane-Blocked | Refers to the cases when we have blocked lane(s) due to traffic or weather condition. | N/A |
-| Flow-Incident | Refers to all other types of traffic events. Examples are *broken traffic light* and *animal in the road*. | N/A |
--->
 
 * __Accident__: Refers to traffic accident which can involve one or more vehicles.
 * __Broken-Vehicle__: Refers to the situation when there is one (or more) disabled vehicle(s) in a road.
@@ -80,20 +41,35 @@ Traffic event is a spatiotemporal entity, where such entity is associated with l
 * __Lane-Blocked__: Refers to the cases when we have blocked lane(s) due to traffic or weather condition.
 * __Flow-Incident__: Refers to all other types of traffic events. Examples are *broken traffic light* and *animal in the road*.
 
-## Description of Weather Event Types
-Weather event is a spatiotemporal entity, where such entity is associated with location and time. Following is the description of available traffic event types: 
+The traffic data is provided in terms of a __CSV file__ with the following attributes: 
 
-<!-- table describes different types of weather events in our dataset. Visit [our paper](https://arxiv.org/abs/1902.06792){:target="_blank"} to learn how we determine severity of weather events. 
-| Type | Description | Severity |
-|------|-------------|----------|
-| Severe-Cold | The case of having extremely low temperature, with temperature below *-23.7* degrees of Celsius. | Severe |
-| Fog | The case where there is low visibility condition as result of *fog* or *haze*. | N/A |
-| Hail | The case of having solid precipitation including *ice pallets* and *hail*. | N/A |
-| Rain | The case of having rain. | Light, Moderate, and Heavy |
-| Snow | The case of having snow. | Light, Moderate, and Heavy |
-| Storm | The extremely windy condition, where the wind speed is at least *60 kmh*. | Severe |
-| Other Precipitation | Any other type of precipitation which cannot be assigned to previously described event types. | N/A |
--->
+| \# | Attribute | Description | Nullable |
+|:-:|:---------:|-------------|:--------:|
+| 1 | EventId | This is the identifier of a record | No |
+<!--| 2 | Source | Indicates the source of an event which is either T (traffic) or W (weather). | No |-->
+| 2 | Type | The type of an event; examples are *accident* and *congestion*. | No |
+| 3 | Severity | The severity of an event, wherever applicable. For a traffic event, severity is a number between 1 and 4, where 1 indicates the least impact on traffic (i.e., short delay as a result of the event) and 4 indicates a significant impact on traffic (i.e., long delay). | No |
+| 4 | TMC | Each traffic event has a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code which provides a more detailed description on type of the event. | No |
+| 5 | Description | The natural language description of an event. | No |
+| 6 | StartTime (UTC) | The start time of an event in UTC time zone. | No |
+| 7 | EndTime (UTC) | The end time of an event in UTC time zone. | No |
+| 8 | TimeZone | The US-based timezone based on the location of an event (eastern, central, mountain, and pacific). | No |
+| 9 | LocationLat | The latitude in GPS coordinate. | Yes |
+| 10 | LocationLng | The longitude in GPS coordinate. | Yes |
+| 11 | Distance (mi) | The length of the road extent affected by the event. | Yes |
+| 12 | AirportCode | The closest airport station to the location of a traffic event. | Yes |
+| 13 | Number | The street number in address record. | Yes |
+| 14 | Street | The street name in address record.  | Yes |
+| 15 | Side | The relative side of a street (R/L) in address record. | Yes |
+| 16 | City | The city in address record. | Yes |
+| 17 | County | The county in address record. | Yes |
+| 18 | State | The state in address record. | Yes |
+| 19 | ZipCode | The zipcode in address record. | Yes |
+
+
+
+## Weather Events
+Weather event is a spatiotemporal entity, where such entity is associated with location and time. Following is the description of available traffic event types: 
 
 * __Severe-Cold__: The case of having extremely low temperature, with temperature below *-23.7* degrees of Celsius. 
 * __Fog__: The case where there is low visibility condition as result of *fog* or *haze*. 
@@ -105,10 +81,23 @@ Weather event is a spatiotemporal entity, where such entity is associated with l
 
 Visit [our paper](https://arxiv.org/abs/1902.06792){:target="_blank"} to learn how we determine type and severity of weather events. 
 
-<!-- 
-## Collection Process
-Raw traffic data is collected in __real-time__ using an API from a traffic data provider. Raw weather data is collected in terms of __historic__ data records using an API from a weather data provider. Please visit [our paper](https://arxiv.org/abs/1902.06792){:target="_blank"} to learn more about the data collection and processing steps. 
-[MapQuest](https://www.mapquest.com/){:target="_blank"}, for a period of two years. Raw weather data is collected using an API from [Weather Underground](https://www.wunderground.com/){:target="_blank"} for the same period of time (i.e., from August 2016 to August 2018). --> 
+The weather data is provided in terms of a __CSV file__ with the following attributes: 
+
+| \# | Attribute | Description | Nullable |
+|:-:|:---------:|-------------|:--------:|
+| 1 | EventId | This is the identifier of a record | No |
+| 2 | Type | The type of an event; examples are *rain* and *snow*. | No |
+| 3 | Severity | The severity of an event, wherever applicable. | Yes |
+| 4 | StartTime (UTC) | The start time of an event in UTC time zone. | No |
+| 5 | EndTime (UTC) | The end time of an event in UTC time zone. | No |
+| 6 | TimeZone | The US-based timezone based on the location of an event (eastern, central, mountain, and pacific). | No |
+| 7 | LocationLat | The latitude in GPS coordinate. | Yes |
+| 8 | LocationLng | The longitude in GPS coordinate. | Yes |
+| 9 | AirportCode | The airport station that a weather event is reported from. | Yes |
+| 10 | City | The city in address record. | Yes |
+| 11 | County | The county in address record. | Yes |
+| 12 | State | The state in address record. | Yes |
+| 13 | ZipCode | The zipcode in address record. | Yes |
 
 ## Coverage
 The data coverage is country-wide. It currently contains data for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. Following diagram shows the current frequency distribution of __traffic__ events across 50 difference states in US. 
