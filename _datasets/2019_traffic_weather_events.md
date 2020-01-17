@@ -29,7 +29,7 @@ This dataset is being distributed only for __Research__ purposes, under [Creativ
 In this version, we provide data which is collected from August 2016 to the end of December 2019 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this set, we have about 25.1 million traffic and 4.4 million weather event records. 
 
 * Download __Traffic__ data from [here](https://osu.box.com/v/traffic-events-dec19){:target="_blank"}.
-* Download __Traffic__ data from [here](https://osu.box.com/v/weather-events-dec19){:target="_blank"}.
+* Download __Weather__ data from [here](https://osu.box.com/v/weather-events-dec19){:target="_blank"}.
  
 
 <!-- Note that the data format is changed from version 1 to version 2 (some fields are added). -->
