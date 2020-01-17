@@ -21,15 +21,15 @@ Please cite the following paper if you use this dataset:
 This dataset is being distributed only for __Research__ purposes, under [Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"}. By clicking on download button(s) below, you are agreeing to use this data only for non-commercial, research, or academic applications. You may cite the above paper if you use this dataset. 
 
 
-## Download
+## Download (Version 3, December 2020)
 <!-- * __Version 1 (Aug 2018):__ In this version, we provide data which is collected from August 2016 to August 2018 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this set, we have about 13.2 million traffic and 2.3 million weather event records. Download data from [here](https://osu.box.com/v/lstw-traffic-weather){:target="_blank"}. -->
 
 <!--* __Version 2 (June 2019):__ In this version, we provide data which is collected from August 2016 to the end of June 2019 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this set, we have about 21.3 million traffic and 3.8 million weather event records. Download data from [here](https://osu.app.box.com/v/lstw-traffic-weather-v2){:target="_blank"}. -->
 
-* __Version 3 (December 2020):__ In this version, we provide data which is collected from August 2016 to the end of December 2019 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this set, we have about 25.1 million traffic and 4.4 million weather event records. 
+In this version, we provide data which is collected from August 2016 to the end of December 2019 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this set, we have about 25.1 million traffic and 4.4 million weather event records. 
 
- * Download __Traffic__ data from [here](https://osu.box.com/v/traffic-events-dec19){:target="_blank"}.
- * Download __Traffic__ data from [here](https://osu.box.com/v/weather-events-dec19){:target="_blank"}.
+* Download __Traffic__ data from [here](https://osu.box.com/v/traffic-events-dec19){:target="_blank"}.
+* Download __Traffic__ data from [here](https://osu.box.com/v/weather-events-dec19){:target="_blank"}.
  
 
 <!-- Note that the data format is changed from version 1 to version 2 (some fields are added). -->
