@@ -18,7 +18,7 @@ Please cite the following paper if you use this dataset:
 * Moosavi, Sobhan, Mohammad Hossein Samavatian, Arnab Nandi, Srinivasan Parthasarathy, and Rajiv Ramnath. ["Short and Long-term Pattern Discovery Over Large-Scale Geo-Spatiotemporal Data."](https://dl.acm.org/citation.cfm?id=3330755) In proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, ACM, 2019. 
 
 ## Usage Policy and Legal Disclaimer
-This dataset is being distributed only for __Research__ purposes, under [Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"}. By clicking on download button(s) below, you are agreeing to use this data only for non-commercial, research, or academic applications. You may cite the above paper if you use this dataset. 
+This dataset is being distributed only for __Research__ purposes, under [Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"}. By clicking on the download buttons below, you are agreeing to use this data only for non-commercial, research, or academic applications. You may cite the above paper if you use this dataset. 
 
 
 ## Download (Version 3, December 2019)
@@ -77,11 +77,11 @@ The traffic data is provided in terms of a __CSV file__ with the following attri
 Weather event is a spatiotemporal entity, where such an entity is associated with location and time. Following is the description of available weather event types: 
 
 * __Severe-Cold__: The case of having extremely low temperature, with temperature below *-23.7* degrees of Celsius. 
-* __Fog__: The case where there is low visibility condition as result of *fog* or *haze*. 
-* __Hail__: The case of having solid precipitation including *ice pallets* and *hail*.
+* __Fog__: The case where there is low visibility condition as a result of *fog* or *haze*. 
+* __Hail__: The case of having solid precipitation including *ice pellets* and *hail*.
 * __Rain__: The case of having rain, ranging from light to heavy. 
 * __Snow__: The case of having snow, ranging from light to heavy. 
-* __Storm__: The extremely windy condition, where the wind speed is at least *60 kmh*. 
+* __Storm__: The extremely windy condition, where the wind speed is at least *60 km/h*. 
 * __Other Precipitation__: Any other type of precipitation which cannot be assigned to previously described event types.
 
 Visit [our paper](https://arxiv.org/abs/1902.06792){:target="_blank"} to learn how we determine type and severity of weather events. 
