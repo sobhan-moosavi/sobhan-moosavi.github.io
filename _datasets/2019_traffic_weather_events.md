@@ -7,7 +7,7 @@ excerpt: This dataset contains country-wide traffic and weather events, which ar
 date: 2019-12-31
 ---
 ## Description 
-LSTW is a large-scale, country-wide dataset for transportation and traffic research, which contains traffic and weather event data for the United States. In terms of traffic, we have several types of events including accident, congestion, construction, etc. In terms of weather events, we have several types including rain, snow, storm, cold weather event, etc. This dataset is _continuously_ being collected from August 2016. Please read below descriptions for further details on this dataset. 
+LSTW is a large-scale, country-wide dataset for transportation and traffic research, which contains traffic and weather event data for the United States. In terms of traffic, we have several types of events including accident, congestion, construction, etc. In terms of weather events, we have several types including rain, snow, storm, cold weather event, etc. This dataset is _continuously_ being collected from August 2016, and today it contains about __29.5 million__ traffic and weather events. Please read below descriptions for further details on this dataset. 
 
 ![](/files/BayArea.gif)
 *Frequency distribution of traffic events in Bay Area from August 2016 to June 2019 using Kepler.gl*
@@ -26,7 +26,7 @@ This dataset is being distributed only for __Research__ purposes, under [Creativ
 
 <!--* __Version 2 (June 2019):__ In this version, we provide data which is collected from August 2016 to the end of June 2019 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this set, we have about 21.3 million traffic and 3.8 million weather event records. Download data from [here](https://osu.app.box.com/v/lstw-traffic-weather-v2){:target="_blank"}. -->
 
-In this version, we provide data which is collected from August 2016 to the end of December 2019 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this set, we have about __25.1__ million traffic and __4.4__ million weather events. 
+In this version, we provide data which is collected from August 2016 to the end of December 2019 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this set, we have about __25.1 million__ traffic and __4.4 million__ weather events. 
 
 * Download __Traffic__ data from [here](https://osu.box.com/v/traffic-events-dec19){:target="_blank"}.
 * Download __Weather__ data from [here](https://osu.box.com/v/weather-events-dec19){:target="_blank"}.
