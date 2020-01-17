@@ -3,8 +3,8 @@ title: "LSTW: Large-Scale Traffic and Weather Events Dataset"
 collection: datastes
 permalink: /datasets/lstw
 redirect_from: /datasets/2019_traffic_weather_events
-excerpt: This dataset contains country-wide traffic and weather events, which are continuously being collected for the United States from August 2016. Examples of a traffic event are *accident*, *congestion*, and *construction*. Examples of a weather event are *rain*, *snow*, and *storm*. Currently there are more than 25 million instances of traffic and weather events in this dataset. 
-date: 2019-07-30
+excerpt: This dataset contains country-wide traffic and weather events, which are continuously being collected for the United States from August 2016. Examples of a traffic event are *accident*, *congestion*, and *construction*. Examples of a weather event are *rain*, *snow*, and *storm*. Currently, there are about 29.5 million instances of traffic and weather events in this dataset. 
+date: 2019-12-31
 ---
 ## Description 
 LSTW is a large-scale, country-wide dataset for transportation and traffic research, which contains traffic and weather event data for the United States. In terms of traffic, we have several types of events including accident, congestion, construction, etc. In terms of weather events, we have several types including rain, snow, storm, cold weather event, etc. This dataset is _continuously_ being collected from August 2016. Please read below descriptions for further details on this dataset. 
@@ -37,7 +37,7 @@ The next version will be available by December 2020.
 
 
 ## Traffic Events
-Traffic event is a spatiotemporal entity, where such entity is associated with location and time. Following is the description of available traffic event types:
+Traffic event is a spatiotemporal entity, where such an entity is associated with location and time. Following is the description of available traffic event types:
 
 * __Accident__: Refers to traffic accident which can involve one or more vehicles.
 * __Broken-Vehicle__: Refers to the situation when there is one (or more) disabled vehicle(s) in a road.
@@ -74,7 +74,7 @@ The traffic data is provided in terms of a __CSV file__ with the following attri
 
 
 ## Weather Events
-Weather event is a spatiotemporal entity, where such entity is associated with location and time. Following is the description of available traffic event types: 
+Weather event is a spatiotemporal entity, where such an entity is associated with location and time. Following is the description of available weather event types: 
 
 * __Severe-Cold__: The case of having extremely low temperature, with temperature below *-23.7* degrees of Celsius. 
 * __Fog__: The case where there is low visibility condition as result of *fog* or *haze*. 
