@@ -17,4 +17,4 @@ This paper is about a new framework to learn about characteristics of driving co
 
 [Download full paper](/files/2017_characterizing_long.pdf)
 
-[Code](https://github.com/sobhan-moosavi)
+[Code](https://github.com/sobhan-moosavi/Trajectory_Segmentation)
