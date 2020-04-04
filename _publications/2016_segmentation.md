@@ -16,4 +16,4 @@ This paper is about a novel trajectory segmentation approach based on behavior o
 
 [Download paper here](https://arxiv.org/pdf/1804.08748.pdf)
 
-[Code](https://github.com/sobhan-moosavi/Trajectory_Segmentation)
+[Code (java and python versions)](https://github.com/sobhan-moosavi/Trajectory_Segmentation)
