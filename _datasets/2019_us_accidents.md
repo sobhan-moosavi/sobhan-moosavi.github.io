@@ -21,7 +21,7 @@ This dataset is being distributed only for __Research__ purposes, under [Creativ
 
 
 ## Download
-* __Version 3 (June 2020):__ In this version, we provide data which is collected from February 2016 to June 2020 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this set, we have about __3.5 million__ traffic accidents. Download data from [here](https://osu.box.com/v/us-accidents-june20){:target="_blank"}. 
+* __Version 3 (June 2020):__ In this version, we provide data which is collected from February 2016 to June 2020 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this dataset, we have about __3.5 million__ traffic accidents. Download data from [here](https://osu.box.com/v/us-accidents-june20){:target="_blank"}. 
 
 The next version will be available by December 2020. 
 
