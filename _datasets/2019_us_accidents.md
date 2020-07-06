@@ -2,12 +2,12 @@
 title: "US-Accidents: A Countrywide Traffic Accident Dataset"
 collection: datastes
 permalink: /datasets/us_accidents
-excerpt: This is a countrywide motor-vehicle crash dataset, which covers 49 states of the United States. The data is continuously being collected from February 2016. Currently, there are __3.0 million__ accident records in this dataset. Each accident record is described by a variety of attributes including location, time, weather, and nearby points-of-interest. 
-date: 2019-12-31
+excerpt: This is a countrywide motor-vehicle crash dataset, which covers 49 states of the United States. The data is continuously being collected from February 2016. Currently, there are __3.5 million__ accident records in this dataset. Each accident record is described by a variety of attributes including location, time, weather, and nearby points-of-interest. 
+date: 2020-07-01
 ---
 
 ## Description 
-This is a countrywide traffic accident dataset, which covers 49 states of the United States. The data is continuously being collected from February 2016, using several data providers, including two APIs which provide streaming traffic event data. These APIs broadcast traffic events captured by a variety of entities, such as the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road-networks. Currently, there are about __3.0 million__ accident records in this dataset. Check the below descriptions for more detailed information. 
+This is a countrywide traffic accident dataset, which covers 49 states of the United States. The data is continuously being collected from February 2016, using several data providers, including two APIs which provide streaming traffic event data. These APIs broadcast traffic events captured by a variety of entities, such as the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road-networks. Currently, there are about __3.5 million__ accident records in this dataset. Check the below descriptions for more detailed information. 
 
 ## Acknowledgments
 Please cite the following papers if you use this dataset:
@@ -21,7 +21,7 @@ This dataset is being distributed only for __Research__ purposes, under [Creativ
 
 
 ## Download
-* __Version 2 (Dec 2019):__ In this version, we provide data which is collected from February 2016 to December 2019 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this set, we have about __3.0 million__ traffic accidents. Download data from [here](https://osu.box.com/v/us-accidents-dec19){:target="_blank"}. 
+* __Version 3 (June 2020):__ In this version, we provide data which is collected from February 2016 to June 2020 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this set, we have about __3.5 million__ traffic accidents. Download data from [here](https://osu.box.com/v/us-accidents-june20){:target="_blank"}. 
 
 The next version will be available by December 2020. 
 
