@@ -21,7 +21,7 @@ This dataset is being distributed only for __Research__ purposes, under [Creativ
 
 
 ## Download
-* __Version 3 (June 2020):__ In this version, we provide data which is collected from February 2016 to June 2020 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this dataset, we have about __3.5 million__ traffic accidents. Download data from [here](https://osu.box.com/v/us-accidents-june20){:target="_blank"}. 
+* __Version 3 (June 2020):__ In this version, we provide data that is collected from February 2016 to June 2020 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this dataset, we have about __3.5 million__ traffic accidents. Download data from [here](https://osu.box.com/v/us-accidents-june20){:target="_blank"}. 
 
 The next version will be available by December 2020. 
 
@@ -46,7 +46,7 @@ The data is provided in terms of a CSV file. Following table describes the data 
 | 3 | TMC | A traffic accident may have a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code which provides more detailed description of the event. | Yes |
 | 4 | Severity | Shows the severity of the accident, a number between 1 and 4, where 1 indicates the least impact on traffic (i.e., short delay as a result of the accident) and 4 indicates a significant impact on traffic (i.e., long delay). | No |
 | 5 | Start_Time | Shows start time of the accident in local time zone. | No |
-| 6 | End_Time | Shows end time of the accident in local time zone. | No |
+| 6 | End_Time | Shows end time of the accident in local time zone. End time here refers to when the impact of accident on traffic flow was dismissed. | No |
 | 7 | Start_Lat | Shows latitude in GPS coordinate of the start point. | No |
 | 8 | Start_Lng | Shows longitude in GPS coordinate of the start point. | No |
 | 9 | End_Lat | Shows latitude in GPS coordinate of the end point. | Yes |
