@@ -109,33 +109,21 @@ The data coverage is country-wide. It currently contains data for the [Contiguou
 
 __Note__: For the following states, we have no traffic data from August 2016 to August 2017: AL, AR, AZ, CO, ID, KS, KY, LA, ME, MN, MS, MT, NC, ND, NH, NM, NV, OK, OR, SD, TN, UT, VT, WI, and WY. 
 
-<div>
-    <a href="https://plot.ly/~sobhan.mehr84/19/?share_key=Ca02M65nSgHpcvhv9Nh1Pm" target="_blank" title="traffic_frequency" style="display: block; text-align: center;"><img src="https://plot.ly/~sobhan.mehr84/19.png?share_key=Ca02M65nSgHpcvhv9Nh1Pm" alt="traffic_frequency" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="sobhan.mehr84:19" sharekey-plotly="Ca02M65nSgHpcvhv9Nh1Pm" src="https://plot.ly/embed.js" async></script>
-</div>
+'<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~sobhan.mehr84/19.embed" height="525" width="100%"></iframe>'
 
 
 The next diagram shows the current frequency distribution of __weather__ events for the same set of states. 
 
-<div>
-    <a href="https://plot.ly/~sobhan.mehr84/6/?share_key=aRlIZieZPkcZSt4QZEHzG7" target="_blank" title="weather_frequency" style="display: block; text-align: center;"><img src="https://plot.ly/~sobhan.mehr84/6.png?share_key=aRlIZieZPkcZSt4QZEHzG7" alt="weather_frequency" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="sobhan.mehr84:6" sharekey-plotly="aRlIZieZPkcZSt4QZEHzG7" src="https://plot.ly/embed.js" async></script>
-</div>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~sobhan.mehr84/6.embed" height="525" width="100%"></iframe>
 
 Following diagram shows the current distribution of different __traffic__ event types: 
 
-<div>
-    <a href="https://plot.ly/~sobhan.mehr84/12/?share_key=RYBxrTEZBjbkqrjKQ8pM9F" target="_blank" title="traffic_types" style="display: block; text-align: center;"><img src="https://plot.ly/~sobhan.mehr84/12.png?share_key=RYBxrTEZBjbkqrjKQ8pM9F" alt="traffic_types" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="sobhan.mehr84:12" sharekey-plotly="RYBxrTEZBjbkqrjKQ8pM9F" src="https://plot.ly/embed.js" async></script>
-</div>
+'<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~sobhan.mehr84/12.embed" height="525" width="100%"></iframe>'
 
 
 Similarly, current distribution of __weather__ event types is shown in below diagram: 
 
-<div>
-    <a href="https://plot.ly/~sobhan.mehr84/17/?share_key=MkdsnbKws2tHQVyaZvjVU7" target="_blank" title="weather_types" style="display: block; text-align: center;"><img src="https://plot.ly/~sobhan.mehr84/17.png?share_key=MkdsnbKws2tHQVyaZvjVU7" alt="weather_types" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="sobhan.mehr84:17" sharekey-plotly="MkdsnbKws2tHQVyaZvjVU7" src="https://plot.ly/embed.js" async></script>
-</div>
+'<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~sobhan.mehr84/17.embed" height="525" width="100%"></iframe>'
 
 
 ## Applications of Dataset
