@@ -28,9 +28,6 @@ This dataset is being distributed only for __Research__ purposes, under [Creativ
 
 In this version, we provide data which is collected from August 2016 to the end of June 2020 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. In this set, we have about __27.1 million__ traffic and __5 million__ weather events. 
 
-27137931
-5023710
-
 * Download __Traffic__ data from [here](https://osu.box.com/v/traffic-events-june20){:target="_blank"}.
 * Download __Weather__ data from [here](https://osu.box.com/v/weather-events-june20){:target="_blank"}.
  
