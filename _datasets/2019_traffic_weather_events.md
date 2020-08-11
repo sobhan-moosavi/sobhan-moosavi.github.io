@@ -109,7 +109,7 @@ The data coverage is country-wide. It currently contains data for the [Contiguou
 
 __Note__: For the following states, we have no traffic data from August 2016 to August 2017: AL, AR, AZ, CO, ID, KS, KY, LA, ME, MN, MS, MT, NC, ND, NH, NM, NV, OK, OR, SD, TN, UT, VT, WI, and WY. 
 
-'<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~sobhan.mehr84/19.embed" height="525" width="100%"></iframe>'
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~sobhan.mehr84/19.embed" height="525" width="100%"></iframe>
 
 
 The next diagram shows the current frequency distribution of __weather__ events for the same set of states. 
@@ -118,12 +118,12 @@ The next diagram shows the current frequency distribution of __weather__ events 
 
 Following diagram shows the current distribution of different __traffic__ event types: 
 
-'<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~sobhan.mehr84/12.embed" height="525" width="100%"></iframe>'
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~sobhan.mehr84/12.embed" height="525" width="100%"></iframe>
 
 
 Similarly, current distribution of __weather__ event types is shown in below diagram: 
 
-'<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~sobhan.mehr84/17.embed" height="525" width="100%"></iframe>'
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~sobhan.mehr84/17.embed" height="525" width="100%"></iframe>
 
 
 ## Applications of Dataset
