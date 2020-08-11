@@ -34,6 +34,7 @@ The dataset covers 49 states of the US. Following diagram shows the current data
     <script data-plotly="sobhan.mehr84:56" sharekey-plotly="1DRABIkkRy3m0entsonC4e" src="https://plot.ly/embed.js" async></script>
 </div>
 
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~sobhan.mehr84/56.embed" height="525" width="100%"></iframe>
 
 
 ## Format
