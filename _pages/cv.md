@@ -17,7 +17,7 @@ Education
 
 Work Experiences
 ======
-* __[Lyft Inc.](https://www.lyft.com){:target="_blank"}__, San Francisco, CA (January 2019 -- Present)
+* __[Lyft Inc.](https://www.lyft.com){:target="_blank"}__, San Francisco, CA (January 2020 -- Present)
   * Title: Research Scientist
   * Team: Mapping
 
