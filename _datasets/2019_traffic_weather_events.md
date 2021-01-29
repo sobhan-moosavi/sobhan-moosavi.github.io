@@ -28,7 +28,7 @@ This dataset is being distributed only for __Research__ purposes, under [Creativ
 
 In this version, we provide data which is collected from August 2016 to the end of Dec 2020 for the [Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States){:target="_blank"}. This dataset includes about __31.4 million__ traffic and __5.6 million__ weather events. 
 
-* Download __Traffic__ data from [here](https://drive.google.com/file/d/1bw6A56ITW9lNlMMjuOYfcn_zdUiv3tn5){:target="_blank"}.
+* Download __Traffic__ data from [here](https://drive.google.com/file/d/1qs7_R2w7m7vc_IpEhAQxwlAzoOCEVjDi){:target="_blank"}.
 * Download __Weather__ data from [here](https://drive.google.com/file/d/1WPWSW0yY5SLzmAYZeey4kA4iwY8Zwcce){:target="_blank"}.
  
 
