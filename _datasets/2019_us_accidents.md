@@ -33,15 +33,17 @@ The dataset covers 49 states of the US. Following diagram shows the current data
 
 
 ## Format
-<!--| 3 | TMC | A traffic accident may have a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code which provides more detailed description of the event. | Yes |
-| 2 | Severity | Shows the severity of the accident, a number between 1 and 4, where 1 indicates the least impact on traffic (i.e., short delay as a result of the accident) and 4 indicates a significant impact on traffic (i.e., long delay). | No | -->
+<!--
+| 2 | Source | Indicates source of the accident report (i.e. the API which reported the accident.). | No |
+| 3 | TMC | A traffic accident may have a [Traffic Message Channel (TMC)](https://wiki.openstreetmap.org/wiki/TMC/Event_Code_List){:target="_blank"} code which provides more detailed description of the event. | Yes |
+ -->
 
 The data is provided in terms of a CSV file. Following table describes the data attributes (visit our [paper](https://arxiv.org/abs/1906.05409) to learn more about these attributes and how we obtained them): 
 
 | \# | Attribute | Description | Nullable |
 |:------:|:---------:|-------------|:--------:|
 | 1 | ID | This is a unique identifier of the accident record. | No |
-| 2 | Source | Indicates source of the accident report (i.e. the API which reported the accident.). | No |
+| 2 | Severity | Shows the severity of the accident, a number between 1 and 4, where 1 indicates the least impact on traffic (i.e., short delay as a result of the accident) and 4 indicates a significant impact on traffic (i.e., long delay). | No |
 | 3 | Start_Time | Shows start time of the accident in local time zone. | No |
 | 4 | End_Time | Shows end time of the accident in local time zone. End time here refers to when the impact of accident on traffic flow was dismissed. | No |
 | 5 | Start_Lat | Shows latitude in GPS coordinate of the start point. | No |
